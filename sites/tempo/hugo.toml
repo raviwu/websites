@@ -1,0 +1,39 @@
+baseURL = "https://tempo.pages.dev/"
+languageCode = "zh-tw"
+defaultContentLanguage = "zh-tw"
+title = "天頗的故事"
+
+[module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"
+
+[params]
+  colorScheme = "ocean"
+  defaultAppearance = "light"
+  autoSwitchAppearance = true
+  enableSearch = false
+  mainSections = ["posts"]
+
+  [params.homepage]
+    layout = "page"
+    homepageImage = ""
+    showRecent = true
+    recentLimit = 10
+
+  [params.article]
+    showDate = true
+    showAuthor = false
+    showBreadcrumbs = false
+    showTableOfContents = false
+    showTaxonomies = true
+
+  [params.author]
+    name = "Ravi Wu"
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
