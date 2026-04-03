@@ -1,0 +1,15 @@
+:root {
+  --accent-color: #e07c4f;
+  --accent-color-darker: #c4663a;
+  --accent-color-text: #fff;
+  --body-background: #fdf6f0;
+  --card-background: #fff;
+}
+
+[data-scheme="dark"] {
+  --accent-color: #e07c4f;
+  --accent-color-darker: #f09070;
+  --accent-color-text: #fff;
+  --body-background: #1a1210;
+  --card-background: #2a2018;
+}
