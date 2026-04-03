@@ -1,0 +1,14 @@
+# Hugo build output
+public/
+resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugo vendor
+_vendor/
+
+# Editor swap files
+*.swp
+*~
