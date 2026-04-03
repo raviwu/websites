@@ -6,8 +6,6 @@ original_path: "/2013/03/bush-and-recession.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】老布希與經濟衰退｜Bush and the Recession
-
 ![](../images/large_432371655.jpg)
   
 文：吳莉瑋  

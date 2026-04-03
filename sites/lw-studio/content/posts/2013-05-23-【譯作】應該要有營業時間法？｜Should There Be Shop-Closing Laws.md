@@ -6,8 +6,6 @@ original_path: "/2013/06/should-there-be-shop-closing-laws.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】應該要有營業時間法？｜Should There Be Shop-Closing Laws?
-
 ![](../images/large_2342066937.jpg)
   
 文：吳莉瑋  

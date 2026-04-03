@@ -6,8 +6,6 @@ original_path: "/2013/04/planned-chaosludwig-von-mises.html"
 blog: "LW Studio"
 ---
 
-# 【書摘】Planned Chaos｜Ludwig Von Mises
-
 ![](../images/SS498.jpg)
   
 摘錄：Planned Chaos｜Ludwig Von Mises  

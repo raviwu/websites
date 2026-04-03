@@ -6,8 +6,6 @@ original_path: "/2025/05/birthday-wishes.html"
 blog: "PurMuurFuuur"
 ---
 
-# Birthday Wishes
-
 ![](../images/adi-goldstein-Hli3R6LKibo-unsplash.jpg)  
 I don’t want to lose her. I have faith in her.
 

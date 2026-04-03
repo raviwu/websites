@@ -6,6 +6,4 @@ original_path: "/2011/05/island-and-ravi.html"
 blog: "PurMuurFuuur"
 ---
 
-# island and ravi
-
 ![](../images/island.png)This is a photo of us.

@@ -6,8 +6,6 @@ original_path: "/2013/06/a-political-theory-of-geeks-and-wonks.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】怪才和書呆子的政治理論｜A Political Theory of Geeks and Wonks
-
 ![](../images/medium_3528686785.jpg)
   
 文：吳莉瑋  

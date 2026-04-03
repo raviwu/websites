@@ -6,8 +6,6 @@ original_path: "/2013/02/the-health-plans-devilish-principles.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】健保計劃的惡魔原則｜The Health Plan's Devilish Principles
-
 ![](../images/medium_2519022388.jpg)
   
 文：吳莉瑋  

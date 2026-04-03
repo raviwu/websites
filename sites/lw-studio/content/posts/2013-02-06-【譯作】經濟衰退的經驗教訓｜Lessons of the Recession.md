@@ -6,8 +6,6 @@ original_path: "/2013/04/lessons-of-recession.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】經濟衰退的經驗教訓｜Lessons of the Recession
-
 ![](../images/medium_2500097744.jpg)
   
 文：吳莉瑋  

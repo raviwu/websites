@@ -6,8 +6,6 @@ original_path: "/2011/07/6-year-opera-truth-of-influenza.html"
 blog: "PurMuurFuuur"
 ---
 
-# A 6-year Opera: the truth of influenza prevention in Taiwan
-
 A documentary records that Taiwan government continues hiding the truth of its animal influenza crises deliberately, which has raised a wide discussion among the blogosphere and other networks' attention.  
   
   

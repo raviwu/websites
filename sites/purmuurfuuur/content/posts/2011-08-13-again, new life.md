@@ -6,8 +6,6 @@ original_path: "/2011/08/again-new-life.html"
 blog: "PurMuurFuuur"
 ---
 
-# again, new life
-
 ![](../images/Rainbow-rainbows-4128025-1920-1200.jpg)
   
 

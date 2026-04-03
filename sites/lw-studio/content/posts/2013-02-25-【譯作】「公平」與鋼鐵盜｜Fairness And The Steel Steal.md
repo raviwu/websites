@@ -6,8 +6,6 @@ original_path: "/2013/04/fairness-and-steel-steal.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】「公平」與鋼鐵盜｜"Fairness" And The Steel Steal
-
 ![](../images/large_3292306587.jpg)
   
 文：吳莉瑋  

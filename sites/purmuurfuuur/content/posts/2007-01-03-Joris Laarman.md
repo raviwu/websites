@@ -6,6 +6,4 @@ original_path: "/2007/01/joris-laarman.html"
 blog: "PurMuurFuuur"
 ---
 
-# Joris Laarman
-
 ![](../images/bone_longue_joris_laarman_3.jpg)[Joris Laarman](http://www.jorislaarman.com/)我喜歡這椅子

@@ -6,8 +6,6 @@ original_path: "/2013/04/should-we-bail-out-gorby.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】我們該紓困小戈巴？｜Should We Bail out Gorby?
-
 ![](../images/large_665546346.jpg)
   
 文：吳莉瑋  

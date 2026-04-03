@@ -6,8 +6,6 @@ original_path: "/2013/01/environmentalists-clobber-texas.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】環保人士痛打德州｜Environmentalists Clobber Texas
-
 ![](../images/origin_3754248389.jpg)
   
 文：吳莉瑋  

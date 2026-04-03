@@ -6,8 +6,6 @@ original_path: "/2013/01/rioting-for-rage-fun-and-profit.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】暴動，為了憤怒、享受與利益｜Rioting For Rage, Fun, And Profit
-
 ![](../images/large_4776911024.jpg)
   
 文：吳莉瑋  

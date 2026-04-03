@@ -6,8 +6,6 @@ original_path: "/2013/02/airport-congestion-case-of-market.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】機場擁塞：市場失靈的案例？｜Airport Congestion: A Case of Market Failure?
-
 ![](../images/large_4045813826.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2021/10/mih-poe-phoa-u-si.html"
 blog: "PurMuurFuuur"
 ---
 
-# Mih-á pôe-phōaⁿ ū-sî 物仔陪伴有時
-
 ![](../images/E1DEF319-CB0E-42DD-9E21-52CDB7B44A5E.jpeg)  
 
 Goán bó͘ thè góa bé ê hit chiah sûi-sin tiān-hong cha-mê hiông-hiông soah lai phái-khì. Bô-hoat-tō͘ chhiong-tiān, tio̍h-ài tiān chhah leh chiah ū-hoat-tō͘ chhoe.

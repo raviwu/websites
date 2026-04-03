@@ -6,8 +6,6 @@ original_path: "/2013/01/roots-of-insurance-crisis.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】保險業危機的根源｜Roots of The Insurance Crisis
-
 ![](../images/large_2959833537.jpg)
   
 文：吳莉瑋  

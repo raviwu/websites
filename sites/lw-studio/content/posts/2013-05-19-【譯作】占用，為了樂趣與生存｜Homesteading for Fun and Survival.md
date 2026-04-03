@@ -6,8 +6,6 @@ original_path: "/2013/10/homesteading-for-fun-and-survival.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】占用，為了樂趣與生存｜Homesteading for Fun and Survival
-
 ![](../images/origin_3915056995.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/02/eisnerizing-manassas.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】艾斯納化馬納薩斯｜Eisnerizing Manassas
-
 ![](../images/large_3462570867.jpg)
   
 文：吳莉瑋  

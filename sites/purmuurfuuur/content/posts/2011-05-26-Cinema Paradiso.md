@@ -6,8 +6,6 @@ original_path: "/2011/05/cinema-paradiso.html"
 blog: "PurMuurFuuur"
 ---
 
-# Cinema Paradiso
-
 以外表選朋友，以智慧選敵人。  
   
 為什麼不換工作呢？  

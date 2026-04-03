@@ -6,8 +6,6 @@ original_path: "/2013/02/the-salomon-brothers-scandal.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】所羅門兄弟銀行醜聞｜The Salomon Brothers Scandal
-
 ![](../images/large_5187399083.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/why-intervention-in-arabia.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】為什麼干預阿拉伯？｜Why the Intervention in Arabia?
-
 ![](../images/large_4929686303.jpg)
   
 文：吳莉瑋  

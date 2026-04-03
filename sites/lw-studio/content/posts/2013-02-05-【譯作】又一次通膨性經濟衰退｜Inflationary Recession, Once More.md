@@ -6,8 +6,6 @@ original_path: "/2013/03/inflationary-recession-once-more.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】又一次通膨性經濟衰退｜Inflationary Recession, Once More
-
 ![](../images/medium_3058009462.jpg)
   
 文：吳莉瑋  

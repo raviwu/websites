@@ -6,8 +6,6 @@ original_path: "/2013/02/privatization.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】私有化｜Privatization
-
 ![](../images/large_5187642951.jpg)
   
 文：吳莉瑋  

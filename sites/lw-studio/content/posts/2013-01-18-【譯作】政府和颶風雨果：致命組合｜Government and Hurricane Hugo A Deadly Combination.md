@@ -6,8 +6,6 @@ original_path: "/2013/01/government-and-hurricane-hugo-deadly.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】政府和颶風雨果：致命組合｜Government and Hurricane Hugo: A Deadly Combination
-
 ![](../images/large__6857778628.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/06/a-society-of-mutual-benefactors.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】互惠的社會｜A Society of Mutual Benefactors
-
 ![](../images/large_2517036416.jpg)
   
 文：吳莉瑋  

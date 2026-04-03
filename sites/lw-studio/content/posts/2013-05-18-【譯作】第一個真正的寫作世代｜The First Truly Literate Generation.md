@@ -6,8 +6,6 @@ original_path: "/2013/07/the-first-truly-literate-generation.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】第一個真正的寫作世代｜The First Truly Literate Generation
-
 ![](../images/large_6680179263.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/01/a-walk-on-supply-side.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】淺談供給面學派｜A Walk on The Supply Side
-
 ![](../images/large_6903821997.jpg)
   
 文：吳莉瑋  

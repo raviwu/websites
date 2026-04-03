@@ -6,8 +6,6 @@ original_path: "/2013/03/25competition-at-work-xerox-at-25.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】管用的競爭：全錄25年｜Competition at Work: Xerox at 25
-
 ![](../images/medium_578471662.jpg)
   
 文：吳莉瑋  

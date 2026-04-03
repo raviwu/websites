@@ -6,8 +6,6 @@ original_path: "/2013/01/chaos-theory.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】混沌理論｜Chaos Theory
-
 ![](../images/medium_2778263981.jpg)
   
 文：吳莉瑋  

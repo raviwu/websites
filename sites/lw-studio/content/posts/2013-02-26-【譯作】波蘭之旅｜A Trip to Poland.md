@@ -6,8 +6,6 @@ original_path: "/2013/04/a-trip-to-poland.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】波蘭之旅｜A Trip to Poland
-
 ![](../images/large_5556981244.jpg)
   
 文：吳莉瑋  

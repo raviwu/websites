@@ -6,8 +6,6 @@ original_path: "/2013/07/why-everything-is-dirtier.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】為什麼所有東西都越來越髒｜Why Everything Is Dirtier
-
 ![](../images/large_4265431265.jpg)
 文：吳莉瑋  
 圖：[Chiot's Run](http://www.flickr.com/photos/chiotsrun/4265431265/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

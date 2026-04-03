@@ -6,8 +6,6 @@ original_path: "/2011/09/13-life-for-work.html"
 blog: "PurMuurFuuur"
 ---
 
-# 1/3 life for work
-
 ![](../images/small_322654818.jpg)  
 Each day 8 hours for working.  
   

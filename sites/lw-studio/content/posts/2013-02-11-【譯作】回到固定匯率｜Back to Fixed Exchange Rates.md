@@ -6,8 +6,6 @@ original_path: "/2013/03/back-to-fixed-exchange-rates.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】回到固定匯率｜Back to Fixed Exchange Rates
-
 ![](../images/large_4788000521.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/07/repeal-drinking-age.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】廢除飲酒限齡｜Repeal the Drinking Age
-
 ![](../images/large_5334631000.jpg)
   
 文：吳莉瑋  

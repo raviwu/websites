@@ -6,8 +6,6 @@ original_path: "/2013/05/the-trouble-with-quick-fix.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】「快速修復」的問題｜the Trouble with the Quick Fix
-
 ![](../images/large_3361217777.jpg)
   
 文：吳莉瑋  

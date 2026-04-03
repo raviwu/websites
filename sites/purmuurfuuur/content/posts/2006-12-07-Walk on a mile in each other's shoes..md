@@ -6,8 +6,6 @@ original_path: "/2006/01/walk-on-mile-in-each-others-shoes.html"
 blog: "PurMuurFuuur"
 ---
 
-# Walk on a mile in each other's shoes.
-
 設身處地 常常 就這麼因為情緒  
   
 就連智商跟溫柔 都被爆炸的火山熔岩侵蝕了  

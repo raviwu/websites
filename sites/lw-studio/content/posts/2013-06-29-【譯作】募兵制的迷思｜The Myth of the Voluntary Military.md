@@ -6,8 +6,6 @@ original_path: "/2013/07/the-myth-of-voluntary-military.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】募兵制的迷思｜The Myth of the Voluntary Military
-
 ![](../images/large_489368574.jpg)
 文：吳莉瑋  
 圖：[Randy Son Of Robert](http://www.flickr.com/photos/randysonofrobert/489368574/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

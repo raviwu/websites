@@ -6,8 +6,6 @@ original_path: "/2013/06/the-freedom-revolution.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】自由革命｜The Freedom Revolution
-
 ![](../images/medium_2356648342.jpg)
   
 文：吳莉瑋  

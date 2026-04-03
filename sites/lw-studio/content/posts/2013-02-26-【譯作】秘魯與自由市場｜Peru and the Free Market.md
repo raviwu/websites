@@ -6,8 +6,6 @@ original_path: "/2013/04/peru-and-free-market.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】秘魯與自由市場｜Peru and the Free Market
-
 ![](../images/large_5798410268.jpg)
   
 文：吳莉瑋  

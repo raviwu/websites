@@ -6,8 +6,6 @@ original_path: "/2013/02/vouchers-what-went-wrong.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】代金券錯在哪？｜Vouchers: What Went Wrong
-
 ![](../images/medium_4236084063.jpg)
   
 文：吳莉瑋  

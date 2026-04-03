@@ -6,8 +6,6 @@ original_path: "/2013/05/the-private-production-of-defense.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】私有防禦（The Private Production of Defense）
-
 ![](../images/cover.jpg)
   
 《私有防禦》是 Hans-Hermann Hoppe 最初在 1998 年發表於《Essays in Political Economy》系列的文章，而後另編整理成 epub 於[網站上發表](http://mises.org/document/1221/The-Private-Production-of-Defense)。  

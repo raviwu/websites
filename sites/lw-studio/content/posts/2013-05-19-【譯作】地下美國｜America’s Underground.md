@@ -6,8 +6,6 @@ original_path: "/2013/05/americas-underground.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】地下美國｜America’s Underground
-
 ![](../images/large_2941045084.jpg)
   
 文：吳莉瑋  

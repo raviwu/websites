@@ -6,8 +6,6 @@ original_path: "/2013/01/the-social-security-swindle.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】社會保險詐欺｜The Social Security Swindle
-
 ![](../images/large_5747629074.jpg)
   
 文：吳莉瑋  

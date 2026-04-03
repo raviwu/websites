@@ -6,8 +6,6 @@ original_path: "/2013/06/ideas-free-and-unfree_10.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（我們時代的重商主義）
-
 ![](../images/large_233316674.jpg)
   
 文：吳莉瑋  

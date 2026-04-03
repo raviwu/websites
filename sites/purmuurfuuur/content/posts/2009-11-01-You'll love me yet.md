@@ -6,8 +6,6 @@ original_path: "/2009/11/youll-love-me-yet.html"
 blog: "PurMuurFuuur"
 ---
 
-# You'll love me yet
-
 You'll love me yet and I can tarry  
 Your love's protracted growing:  
 June reared that bunch of flowers you carry  

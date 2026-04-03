@@ -6,8 +6,6 @@ original_path: "/2013/07/getting-serious-about-freedom.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】認真思考自由｜Getting Serious About Freedom
-
 ![](../images/large__7297820998.jpg)
   
 文：吳莉瑋  

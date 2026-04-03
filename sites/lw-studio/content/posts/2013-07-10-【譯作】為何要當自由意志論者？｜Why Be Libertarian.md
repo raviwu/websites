@@ -6,8 +6,6 @@ original_path: "/2013/07/why-be-libertarian.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】為何要當自由意志論者？｜Why Be Libertarian?
-
 ![](../images/large__7068049239.jpg)
 文：吳莉瑋  
 圖：photo credit: [Saint Huck](http://www.flickr.com/photos/sainthuck/7068049239/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

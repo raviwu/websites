@@ -6,8 +6,6 @@ original_path: "/2013/07/in-praise-of-lard.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】讚美豬油｜In Praise of Lard
-
 ![](../images/origin_162791929.jpg)
   
 文：吳莉瑋  

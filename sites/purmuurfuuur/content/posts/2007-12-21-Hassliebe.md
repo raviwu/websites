@@ -6,8 +6,6 @@ original_path: "/2007/12/hassliebe.html"
 blog: "PurMuurFuuur"
 ---
 
-# Hassliebe
-
 愛恨交織  
   
 對現實是，對女人亦復是。

@@ -6,8 +6,6 @@ original_path: "/2011/05/killing-work-by-boy-mandeville.html"
 blog: "PurMuurFuuur"
 ---
 
-# Killing The Work by Boy Mandeville
-
 I am a stop motion lover!!
 
   

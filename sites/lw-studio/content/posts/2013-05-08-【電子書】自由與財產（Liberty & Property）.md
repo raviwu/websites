@@ -6,8 +6,6 @@ original_path: "/2013/05/liberty-property.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】自由與財產（Liberty & Property）
-
 ![](../images/cover.jpg)
   
 《自由與財產》這篇文章最初為  [Ludwig von Mises](https://mises.org/page/1468/Biography-of-Ludwig-von-Mises-18811973) 的一篇演講稿，於 1958 年 10 月在普林斯頓大學舉行的《朝聖山學會（Mont Pelerin Society）》第九次會議中發表，你可以在  Mises Institute  找到[原文電子書](https://mises.org/document/880/Liberty-and-Property)。  

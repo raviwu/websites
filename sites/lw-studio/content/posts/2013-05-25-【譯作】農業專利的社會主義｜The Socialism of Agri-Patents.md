@@ -6,8 +6,6 @@ original_path: "/2013/09/the-socialism-of-agri-patents.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】農業專利的社會主義｜The Socialism of Agri-Patents
-
 ![](../images/origin_6203045070.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2014/06/the-future-of-libertarianism.html"
 blog: "LW Studio"
 ---
 
-# 【譯文】自由意志主義的未來｜The Future of Libertarianism
-
 ![](../images/origin_5425505339.jpg)
   
 **自由意志主義的未來｜The Future of Libertarianism**  

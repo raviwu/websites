@@ -6,8 +6,6 @@ original_path: "/2013/02/the-economics-of-gun-control.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】槍枝管制經濟學｜The Economics of Gun Control
-
 ![](../images/origin_2489796730.jpg)
   
 文：吳莉瑋  

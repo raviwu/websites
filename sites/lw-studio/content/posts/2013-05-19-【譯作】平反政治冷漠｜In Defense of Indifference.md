@@ -6,8 +6,6 @@ original_path: "/2013/08/in-defense-of-indifference.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】平反政治冷漠｜In Defense of Indifference
-
 ![](../images/large_169726407.jpg)
   
 文：吳莉瑋  

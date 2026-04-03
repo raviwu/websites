@@ -6,8 +6,6 @@ original_path: "/2013/04/inflation-and-spin-doctors.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】通貨膨脹與蒙古大夫｜Inflation And The Spin Doctors
-
 ![](../images/large_384689236.jpg)
   
 文：吳莉瑋  

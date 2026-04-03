@@ -6,8 +6,6 @@ original_path: "/2013/05/three-cheers-for-petty-concerns.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】為「瑣碎」小事舉杯｜Three Cheers for “Petty” Concerns
-
 ![](../images/large__8736535123.jpg)
   
 文：吳莉瑋  

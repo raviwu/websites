@@ -6,8 +6,6 @@ original_path: "/2013/07/what-must-be-done.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】該做什麼。｜What Must Be Done
-
 ![](../images/title_page.jpg)
   
 文／圖：吳莉瑋  

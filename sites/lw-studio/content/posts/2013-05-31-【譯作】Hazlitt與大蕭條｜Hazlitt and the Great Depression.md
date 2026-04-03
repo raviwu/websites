@@ -6,8 +6,6 @@ original_path: "/2013/07/hazlitthazlitt-and-great-depression.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】Hazlitt與大蕭條｜Hazlitt and the Great Depression
-
 ![](../images/large_4282630035.jpg)
   
 文：吳莉瑋  

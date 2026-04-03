@@ -6,8 +6,6 @@ original_path: "/2013/05/halloween-and-its-candy-economy.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】萬聖節及其糖果經濟｜Halloween and Its Candy Economy
-
 ![](../images/large_6258568122.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2011/05/happy-grandmothers-day.html"
 blog: "PurMuurFuuur"
 ---
 
-# Happy Grandmother's Day
-
 Dear Grandma,  
   
 This is the first Mother's Day you've been through after you got your stroke.  

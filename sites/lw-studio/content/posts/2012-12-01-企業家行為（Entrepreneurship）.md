@@ -6,8 +6,6 @@ original_path: "/2012/12/entrepreneurship.html"
 blog: "LW Studio"
 ---
 
-# 企業家行為（Entrepreneurship）
-
 ![](../images/medium_4796453859.jpg)
   
 文：吳莉瑋  

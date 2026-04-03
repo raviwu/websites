@@ -6,8 +6,6 @@ original_path: "/2013/01/statistics-destroyed-from-within.html"
 blog: "LW Studio"
 ---
 
-# 【譯文】統計：由內擊破？｜Statistics: Destroyed From Within?
-
 ![](../images/medium_2925531696.jpg)
   
 文：吳莉瑋  

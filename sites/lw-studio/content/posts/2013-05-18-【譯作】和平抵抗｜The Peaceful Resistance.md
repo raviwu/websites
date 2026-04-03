@@ -6,8 +6,6 @@ original_path: "/2013/11/the-peaceful-resistance.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】和平抵抗｜The Peaceful Resistance
-
 ![](../images/large_5571593357.jpg)
   
 文：吳莉瑋  

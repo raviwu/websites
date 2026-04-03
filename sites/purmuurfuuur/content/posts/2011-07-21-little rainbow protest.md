@@ -6,8 +6,6 @@ original_path: "/2011/07/little-rainbow-protest.html"
 blog: "PurMuurFuuur"
 ---
 
-# little rainbow protest
-
 ![](../images/small_1962531341.jpg)  
 I wear what I like and used to, cuddling whom I love.  
   

@@ -6,8 +6,6 @@ original_path: "/2013/02/the-legacy-of-cesar-chavez.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】查維斯的遺產｜The Legacy of Cesar Chavez
-
 ![](../images/medium_26654619.jpg)
   
 文：吳莉瑋  

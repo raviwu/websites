@@ -6,8 +6,6 @@ original_path: "/2013/06/ideas-free-and-unfree_9.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（專利拯救我們的生命？）
-
 ![](../images/large_2182735681.jpg)
   
 文：吳莉瑋  

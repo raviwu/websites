@@ -6,8 +6,6 @@ original_path: "/2013/01/discussing-issues.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】討論「議題」｜Discussing The "Issues"
-
 ![](../images/medium_2966874331.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/02/panic-on-wall-street.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】華爾街恐慌｜Panic on Wall Street
-
 ![](../images/medium_6248856.jpg)
   
 文：吳莉瑋  

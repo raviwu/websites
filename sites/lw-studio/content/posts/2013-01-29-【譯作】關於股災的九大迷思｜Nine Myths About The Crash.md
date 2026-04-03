@@ -6,8 +6,6 @@ original_path: "/2013/02/nine-myths-about-crash.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】關於股災的九大迷思｜Nine Myths About The Crash
-
 ![](../images/origin_2208089890.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/alan-greenspan-minority-report-on-fed.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】美聯儲主席艾倫．格林斯潘：少數派報告｜Alan Greenspan: A Minority Report on the Fed Chairman
-
 ![](../images/medium_94047272.jpg)
   
 文：吳莉瑋  

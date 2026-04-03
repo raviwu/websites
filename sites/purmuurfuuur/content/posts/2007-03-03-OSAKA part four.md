@@ -6,8 +6,6 @@ original_path: "/2007/03/osaka-part-four.html"
 blog: "PurMuurFuuur"
 ---
 
-# OSAKA part four
-
 ![](../images/p_nara_000.gif)第四天：[環球影城（Ｕ.Ｓ.Ｊ）](http://www.usj.co.jp/ch_top.html)／夜宿大阪新阪急  
 第五天：起床逛超商／坐飛機回家  
   

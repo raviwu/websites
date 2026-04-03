@@ -6,8 +6,6 @@ original_path: "/2013/05/its-jetsons-world.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】《摩登家庭》的世界｜It’s a Jetsons World
-
 ![](../images/large_417146338.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/02/the-whiskey-rebellion-model-for-our-time.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】威士忌暴亂模式：當代適用嗎？｜The Whiskey Rebellion: a Model For Our Time?
-
 ![](../images/medium_6459470869.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/mises-institutethe-story-of-mises.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】Mises Institute的故事｜The Story of the Mises Institute
-
 ![](../images/Misescrest.gif)
   
 文：吳莉瑋  

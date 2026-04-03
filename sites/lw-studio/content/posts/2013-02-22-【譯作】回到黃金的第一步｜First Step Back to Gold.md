@@ -6,8 +6,6 @@ original_path: "/2013/04/first-step-back-to-gold.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】回到黃金的第一步｜First Step Back to Gold
-
 ![](../images/medium_2438117961.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/05/our-miracle-of-pentecost.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】我們的五旬節奇蹟｜Our Miracle of Pentecost
-
 ![](../images/origin_76807423.jpg)
   
 文：吳莉瑋  

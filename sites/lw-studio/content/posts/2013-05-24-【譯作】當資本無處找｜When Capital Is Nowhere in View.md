@@ -6,8 +6,6 @@ original_path: "/2013/10/when-capital-is-nowhere-in-view.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】當資本無處找｜When Capital Is Nowhere in View
-
 ![](../images/origin_4287644717.jpg)
   
 文：吳莉瑋  

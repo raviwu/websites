@@ -6,8 +6,6 @@ original_path: "/2013/03/deductibility-and-subsidy.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】稅收抵免與補貼｜Deductibility And Subsidy
-
 ![](../images/large_5457170804.jpg)
   
 文：吳莉瑋  

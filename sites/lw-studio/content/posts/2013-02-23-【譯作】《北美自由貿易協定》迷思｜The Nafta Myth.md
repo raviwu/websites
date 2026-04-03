@@ -6,8 +6,6 @@ original_path: "/2013/04/the-nafta-myth.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】《北美自由貿易協定》迷思｜The Nafta Myth
-
 ![](../images/medium_2729015231.jpg)
   
 文：吳莉瑋  

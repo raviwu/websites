@@ -6,8 +6,6 @@ original_path: "/2013/01/the-water-is-not-running.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】供水不良｜The Water Is Not Running
-
 ![](../images/medium_2738194122.jpg)
   
 文：吳莉瑋  

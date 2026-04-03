@@ -6,8 +6,6 @@ original_path: "/2013/03/that-gasoline-tax.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】燃油稅｜That Gasoline Tax
-
 ![](../images/large_6940483092.jpg)
   
 文：吳莉瑋  

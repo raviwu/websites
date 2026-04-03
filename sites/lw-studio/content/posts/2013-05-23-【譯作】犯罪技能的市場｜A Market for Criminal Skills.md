@@ -6,8 +6,6 @@ original_path: "/2013/06/a-market-for-criminal-skills.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】犯罪技能的市場｜A Market for Criminal Skills
-
 ![](../images/large_3003395411.jpg)
   
 文：吳莉瑋  

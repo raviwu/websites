@@ -6,8 +6,6 @@ original_path: "/2013/02/government-business-partnerships.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】政府與企業的「夥伴關係」｜Government-Business "Partnerships"
-
 ![](../images/large_2034624215.jpg)
   
 文：吳莉瑋  

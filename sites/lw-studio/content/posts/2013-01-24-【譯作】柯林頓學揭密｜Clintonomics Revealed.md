@@ -6,8 +6,6 @@ original_path: "/2013/02/clintonomics-revealed.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】柯林頓學揭密｜Clintonomics Revealed
-
 ![](../images/medium_7061683485.jpg)
   
 文：吳莉瑋  

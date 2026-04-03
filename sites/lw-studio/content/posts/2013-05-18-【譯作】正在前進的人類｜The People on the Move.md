@@ -6,8 +6,6 @@ original_path: "/2013/08/the-people-on-move.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】正在前進的人類｜The People on the Move
-
 ![](../images/origin_5714935459.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/taking-money-back.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】回歸市場貨幣｜Taking Money Back
-
 ![](../images/medium_2314105934.jpg)
   
 文：吳莉瑋  

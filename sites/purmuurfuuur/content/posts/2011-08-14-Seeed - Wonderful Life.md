@@ -6,6 +6,4 @@ original_path: "/2011/08/seeed-wonderful-life.html"
 blog: "PurMuurFuuur"
 ---
 
-# Seeed - Wonderful Life
-
 Nice song and MV by [Seeed](http://en.wikipedia.org/wiki/Seeed) from Germany.

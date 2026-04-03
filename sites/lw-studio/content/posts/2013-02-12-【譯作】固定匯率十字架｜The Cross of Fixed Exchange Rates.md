@@ -6,8 +6,6 @@ original_path: "/2013/03/the-cross-of-fixed-exchange-rates.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】固定匯率十字架｜The Cross of Fixed Exchange Rates
-
 ![](../images/large_2349653362.jpg)
   
 文：吳莉瑋  

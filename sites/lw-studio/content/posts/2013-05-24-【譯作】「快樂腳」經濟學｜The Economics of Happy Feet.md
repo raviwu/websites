@@ -6,8 +6,6 @@ original_path: "/2013/11/the-economics-of-happy-feet.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】「快樂腳」經濟學｜The Economics of Happy Feet
-
 ![](../images/large_124848972.jpg)
   
 文：吳莉瑋  

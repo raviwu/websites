@@ -6,8 +6,6 @@ original_path: "/2011/04/clear-path.html"
 blog: "PurMuurFuuur"
 ---
 
-# Clear Path
-
 I deleted most of my post on facebook.  
   
 I deleted my twitter account.  

@@ -6,8 +6,6 @@ original_path: "/2013/03/bank-crisis.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】銀行危機！｜Bank Crisis!
-
 ![](../images/large_3408855512.jpg)
   
 文：吳莉瑋  

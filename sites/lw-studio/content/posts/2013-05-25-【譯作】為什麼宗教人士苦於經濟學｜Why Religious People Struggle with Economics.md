@@ -6,8 +6,6 @@ original_path: "/2013/08/why-religious-people-struggle-with.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】為什麼宗教人士苦於經濟學｜Why Religious People Struggle with Economics
-
 ![](../images/origin_4013041505.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/03/new-international-monetary-scheme.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】新國際貨幣計劃｜New International Monetary Scheme
-
 ![](../images/large_3989217986.jpg)
   
 文：吳莉瑋  

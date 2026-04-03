@@ -6,8 +6,6 @@ original_path: "/2013/04/are-diamonds-really-forever.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】鑽石恆久遠？｜Are Diamonds Really Forever?
-
 ![](../images/large_2420282979.jpg)
   
 文：吳莉瑋  

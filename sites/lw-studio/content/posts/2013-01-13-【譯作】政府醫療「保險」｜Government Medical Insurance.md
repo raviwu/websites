@@ -6,8 +6,6 @@ original_path: "/2013/01/government-medical-insurance.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】政府醫療「保險」｜Government Medical "Insurance"
-
 ![](../images/large_4996672560.jpg)
   
 文：吳莉瑋  

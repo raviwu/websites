@@ -6,8 +6,6 @@ original_path: "/2013/01/keynesianism-redux.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】凱因斯主義的終極版｜Keynesianism Redux
-
 ![](../images/medium_8194471406.jpg)
   
 文：吳莉瑋  

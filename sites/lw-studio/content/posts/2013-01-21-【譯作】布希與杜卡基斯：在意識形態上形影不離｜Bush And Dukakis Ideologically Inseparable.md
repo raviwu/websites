@@ -6,8 +6,6 @@ original_path: "/2013/02/bush-and-dukakis-ideologically.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】布希與杜卡基斯：在意識形態上形影不離｜Bush And Dukakis: Ideologically Inseparable
-
 ![](../images/large_3086998079.jpg)
   
 文：吳莉瑋  

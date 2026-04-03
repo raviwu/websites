@@ -6,8 +6,6 @@ original_path: "/2013/01/80rethinking-80s.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】重思80年代｜Rethinking The '80s
-
 ![](../images/large_3002055918.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/inflation-redux.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】通貨膨脹終極版｜Inflation Redux
-
 ![](../images/large_381941233.jpg)
   
 文：吳莉瑋  

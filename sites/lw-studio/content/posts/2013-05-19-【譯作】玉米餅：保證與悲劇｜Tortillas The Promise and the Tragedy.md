@@ -6,8 +6,6 @@ original_path: "/2013/09/tortillas-promise-and-tragedy.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】玉米餅：保證與悲劇｜Tortillas: The Promise and the Tragedy
-
 ![](../images/large_6277715205.jpg)
   
 文：吳莉瑋  

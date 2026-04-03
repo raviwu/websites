@@ -6,8 +6,6 @@ original_path: "/2012/09/shitty-cake.html"
 blog: "PurMuurFuuur"
 ---
 
-# Shitty Cake
-
 ![](../images/20120919-bao.JPG)
   
 因為溝通技巧拙劣，總是把事態弄巧成拙地我，昨晚在本應充滿溫馨泡泡的睡前按摩時間中，不小心提到敏感的討論話題，擦出了小冷戰的煙硝，吳太瞬間靜默到場面只剩下自己一人叨叨念念空谷回音。  

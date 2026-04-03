@@ -6,8 +6,6 @@ original_path: "/2013/04/lessons-for-young-economist.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】年輕人的經濟課（Lessons for the Young Economist）
-
 ![](../images/cover.jpg)
   
 這本書為 Robert P. Murphy 所著之入門教科書，寫作對象為高中以上的青少年，教科書本文可在 [Mises Institute](http://mises.org/document/5706/Lessons-for-the-Young-Economist) 網站上找到[全文內容](http://www.vforvoluntary.com/young-economist/)與[免費載點](http://library.mises.org/books/Robert%20P%20Murphy/Lessons%20for%20the%20Young%20Economist.epub)，另外還提供[教師手冊](http://mises.org/document/6867/Lessons-for-the-Young-Economist-Teachers-Manual)。  

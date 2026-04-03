@@ -6,8 +6,6 @@ original_path: "/2013/01/government-vs-natural-resources.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】政府與自然資源｜Government vs. Natural Resources
-
 ![](../images/large_2127327883.jpg)
   
 文：吳莉瑋  

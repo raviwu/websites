@@ -6,8 +6,6 @@ original_path: "/2013/03/exit-iron-lady.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】鐵娘子的退出｜Exit The Iron Lady
-
 ![](../images/large_6901350109.jpg)
   
 文：吳莉瑋  

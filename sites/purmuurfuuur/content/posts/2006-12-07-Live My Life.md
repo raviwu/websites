@@ -6,8 +6,6 @@ original_path: "/2005/07/live-my-life.html"
 blog: "PurMuurFuuur"
 ---
 
-# Live My Life
-
 生活就是這樣 一天加一天地過  
   
 好像 單調 貧乏 又沒點新意  

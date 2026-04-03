@@ -6,8 +6,6 @@ original_path: "/2013/02/perot-constitution-and-direct-democracy.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】斐洛、憲法與直接民主｜Perot, The Constitution, And Direct Democracy
-
 ![](../images/medium_291687660.jpg)
   
 文：吳莉瑋  

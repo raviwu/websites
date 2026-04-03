@@ -6,8 +6,6 @@ original_path: "/2013/03/money-inflation-and-price-inflation.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】貨幣通膨與物價通膨｜Money Inflation And Price Inflation
-
 ![](../images/origin_2495254548.jpg)
   
 文：吳莉瑋  

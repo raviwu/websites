@@ -6,8 +6,6 @@ original_path: "/2013/03/the-war-on-car.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】車輛戰爭｜The War on The Car
-
 ![](../images/large_3411775886.jpg)
   
 文：吳莉瑋  

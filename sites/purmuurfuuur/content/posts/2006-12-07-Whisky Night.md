@@ -6,8 +6,6 @@ original_path: "/2005/06/whisky-night.html"
 blog: "PurMuurFuuur"
 ---
 
-# Whisky Night
-
 獨飲難醉　一個人　喝多了　兩瓶  
   
 喜歡酒精腦裡打轉　茫感覺　顛　帶著點玩味  

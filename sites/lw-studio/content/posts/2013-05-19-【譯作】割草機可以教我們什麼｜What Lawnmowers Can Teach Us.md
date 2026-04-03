@@ -6,8 +6,6 @@ original_path: "/2013/06/what-lawnmowers-can-teach-us.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】割草機可以教我們什麼｜What Lawnmowers Can Teach Us
-
 ![](../images/origin_4582196932.jpg)
   
 文：吳莉瑋  

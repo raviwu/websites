@@ -6,8 +6,6 @@ original_path: "/2013/01/keynesian-myths.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】凱因斯主義者迷思｜Keynesian Myths
-
 ![](../images/large_2472230611.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/08/a-movie-that-gets-it-right.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】做得對的電影｜A Movie That Gets It Right
-
 ![](../images/origin_7496669132.jpg)
   
 文：吳莉瑋  

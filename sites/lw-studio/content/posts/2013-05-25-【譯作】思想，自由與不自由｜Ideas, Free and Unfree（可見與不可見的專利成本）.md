@@ -6,8 +6,6 @@ original_path: "/2013/06/ideas-free-and-unfree_4.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（可見與不可見的專利成本）
-
 ![](../images/large_3546465960.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/01/the-homeless-and-hungry.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】遊民與飢餓｜The Homeless And The Hungry
-
 ![](../images/large_5930923306.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2015/12/love-as-verb.html"
 blog: "PurMuurFuuur"
 ---
 
-# love as a verb
-
 |  |
 | --- |
 |  |

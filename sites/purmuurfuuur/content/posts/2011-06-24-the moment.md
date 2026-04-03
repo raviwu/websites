@@ -6,8 +6,6 @@ original_path: "/2011/06/moment.html"
 blog: "PurMuurFuuur"
 ---
 
-# the moment
-
 ![](../images/small__2187751600.jpg)  
 The moment I open my eyes, you're aside.  
   

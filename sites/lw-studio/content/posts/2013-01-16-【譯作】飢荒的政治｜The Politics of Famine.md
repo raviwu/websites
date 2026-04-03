@@ -6,8 +6,6 @@ original_path: "/2013/01/the-politics-of-famine.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】飢荒的政治｜The Politics of Famine
-
 ![](../images/medium_3256023622.jpg)
   
 文：吳莉瑋  

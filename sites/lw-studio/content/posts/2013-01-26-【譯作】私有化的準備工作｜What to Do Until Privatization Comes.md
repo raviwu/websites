@@ -6,8 +6,6 @@ original_path: "/2013/02/what-to-do-until-privatization-comes.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】私有化的準備工作｜What to Do Until Privatization Comes
-
 ![](../images/large_2173653553.jpg)
   
 文：吳莉瑋  

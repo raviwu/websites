@@ -6,8 +6,6 @@ original_path: "/2011/05/itinerary-2011-tainan.html"
 blog: "PurMuurFuuur"
 ---
 
-# Itinerary - 2011 Tainan
-
 2011/6/4  
   
 

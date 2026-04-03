@@ -6,8 +6,6 @@ original_path: "/2013/01/by-their-fruits.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】透過水果…｜By Their Fruits…
-
 ![](../images/large_59651419.jpg)
   
 文：吳莉瑋  

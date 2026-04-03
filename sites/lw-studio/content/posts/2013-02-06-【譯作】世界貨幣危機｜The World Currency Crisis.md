@@ -6,8 +6,6 @@ original_path: "/2013/03/the-world-currency-crisis.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】世界貨幣危機｜The World Currency Crisis
-
 ![](../images/large_4353407858.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2012/08/smile-curve.html"
 blog: "PurMuurFuuur"
 ---
 
-# smile curve
-
 ![](../images/20120822-Island.JPG)
   
 如果要從腦海中瞬間浮出畫面，  

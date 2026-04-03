@@ -6,8 +6,6 @@ original_path: "/2013/01/are-savings-too-low.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】儲蓄過低？｜Are Savings Too Low?
-
 ![](../images/large_2638883650.jpg)
   
 文：吳莉瑋  

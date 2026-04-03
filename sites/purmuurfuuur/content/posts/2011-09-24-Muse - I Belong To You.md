@@ -6,8 +6,6 @@ original_path: "/2011/09/muse-i-belong-to-you.html"
 blog: "PurMuurFuuur"
 ---
 
-# Muse - I Belong To You
-
 I Belong To You  
   
 When these pillars get pulled down,  

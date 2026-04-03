@@ -6,8 +6,6 @@ original_path: "/2013/03/the-keynesian-dream.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】凱因斯主義之夢｜The Keynesian Dream
-
 ![](../images/origin_2966580560.jpg)
   
 文：吳莉瑋  

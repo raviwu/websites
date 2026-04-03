@@ -6,8 +6,6 @@ original_path: "/2013/06/the-end-of-us-piano-industry.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】美國鋼琴業的終結｜The End of the U.S. Piano Industry
-
 ![](../images/large_3691522967.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/the-crusade-against-south-africa.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】討伐南非｜The Crusade Against South Africa
-
 ![](../images/origin_3311473293.jpg)
   
 文：吳莉瑋  

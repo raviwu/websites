@@ -6,8 +6,6 @@ original_path: "/2013/07/scavengers-of-physical-universe.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】物質世界的拾荒者｜Scavengers of the Physical Universe
-
 ![](../images/medium_4203558994.jpg)
   
 文：吳莉瑋  

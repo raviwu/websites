@@ -6,8 +6,6 @@ original_path: "/2012/09/protector.html"
 blog: "PurMuurFuuur"
 ---
 
-# Protector
-
 ![](../images/20120905-bao.JPG)
   
 妳說，每回看到大寶兵都像看到我在守護妳。  

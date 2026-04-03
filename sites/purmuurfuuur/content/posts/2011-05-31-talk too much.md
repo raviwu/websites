@@ -6,8 +6,6 @@ original_path: "/2011/06/talk-too-much.html"
 blog: "PurMuurFuuur"
 ---
 
-# talk too much
-
 > There is no one who does not exaggerate. In conversation, men are encumbered with personality, and talk too much.
 
 > -- Ralph Waldo Emerson

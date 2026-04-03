@@ -6,8 +6,6 @@ original_path: "/2013/03/flat-tax-or-flat-taxpayer.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】打平稅率還是打平納稅人？｜Flat Tax Or Flat Taxpayer?
-
 ![](../images/large_1414298385.jpg)
   
 文：吳莉瑋  

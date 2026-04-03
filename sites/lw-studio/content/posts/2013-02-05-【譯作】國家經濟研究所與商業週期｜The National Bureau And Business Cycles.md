@@ -6,8 +6,6 @@ original_path: "/2013/03/the-national-bureau-and-business-cycles.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】國家經濟研究所與商業週期｜The National Bureau And Business Cycles
-
 ![](../images/large_5052016557.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/anatomy-of-bank-run.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】剖析銀行擠兌｜Anatomy Of The Bank Run
-
 ![](../images/origin_3470549842.jpg)
   
 文：吳莉瑋  

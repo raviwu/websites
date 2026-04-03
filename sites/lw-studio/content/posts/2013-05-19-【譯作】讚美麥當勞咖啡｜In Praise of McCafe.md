@@ -6,8 +6,6 @@ original_path: "/2013/06/in-praise-of-mccafe.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】讚美麥當勞咖啡｜In Praise of McCafe
-
 ![](../images/large_3794555385.jpg)
   
 文：吳莉瑋  

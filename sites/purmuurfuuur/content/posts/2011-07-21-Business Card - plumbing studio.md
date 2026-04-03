@@ -6,8 +6,6 @@ original_path: "/2011/07/business-card-plumbing-studio.html"
 blog: "PurMuurFuuur"
 ---
 
-# Business Card - plumbing studio
-
 |  |
 | --- |
 |  |

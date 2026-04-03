@@ -6,8 +6,6 @@ original_path: "/2011/06/teddy-bear.html"
 blog: "PurMuurFuuur"
 ---
 
-# Teddy Bear
-
 ![](../images/small__145269891.jpg)  
 Elvis Presley - Teddy Bear  
   

@@ -6,8 +6,6 @@ original_path: "/2013/07/im-part-of-problem.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】我也是問題的一部分｜I’m Part of the Problem
-
 ![](../images/large_54296664.jpg)
 文：吳莉瑋  
 圖：[cobalt123](http://www.flickr.com/photos/cobalt/54296664/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

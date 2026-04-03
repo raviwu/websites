@@ -6,8 +6,6 @@ original_path: "/2013/09/the-debt-we-owe-to-traded.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】我們欠貿易的債｜The Debt We Owe to Traded
-
 ![](../images/large_402573680.jpg)
   
 文：吳莉瑋  

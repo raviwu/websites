@@ -6,8 +6,6 @@ original_path: "/2013/07/does-favoring-free-enterprise-mean.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】偏好自由企業是不是就意味著偏好「企業」？｜Does Favoring Free Enterprise Mean Favoring “Business”?
-
 ![](../images/large_2387638792.jpg)
 文：吳莉瑋  
 圖：[Thomas Hawk](http://www.flickr.com/photos/thomashawk/2387638792/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

@@ -6,8 +6,6 @@ original_path: "/2005/05/happy-moms-day.html"
 blog: "PurMuurFuuur"
 ---
 
-# HAPPY MOM'S DAY !!!
-
 母親節 說了好早回家陪伴她  
   
 於是我坐了客運 訂不到火車票的和欣  

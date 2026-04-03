@@ -6,8 +6,6 @@ original_path: "/2013/12/happy-fourth-steakmust.html"
 blog: "PurMuurFuuur"
 ---
 
-# Happy 4th Steakmust
-
 ![](../images/wallpaper_christmas.jpg)
 不知不覺，來到了第四個一起牽手度過的行憲紀念日。  
   

@@ -6,8 +6,6 @@ original_path: "/2011/08/ordinary-life.html"
 blog: "PurMuurFuuur"
 ---
 
-# ordinary life
-
 ![](../images/small_6647379583.jpg)  
 i am an ordinary person who has a simple dream,  
   

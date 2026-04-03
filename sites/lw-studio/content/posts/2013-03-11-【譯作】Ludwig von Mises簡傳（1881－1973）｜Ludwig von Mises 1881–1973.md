@@ -6,8 +6,6 @@ original_path: "/2013/05/ludwig-von-mises18811973ludwig-von.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】Ludwig von Mises簡傳（1881－1973）｜Ludwig von Mises: 1881–1973
-
 ![](../images/large_5601698824.jpg)
   
 文：吳莉瑋  

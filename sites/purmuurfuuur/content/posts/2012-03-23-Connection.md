@@ -6,8 +6,6 @@ original_path: "/2012/03/connection.html"
 blog: "PurMuurFuuur"
 ---
 
-# Connection
-
 ![](../images/small__4979329952.jpg)  
 The more we have been through,  
   

@@ -6,8 +6,6 @@ original_path: "/2013/06/all-laws-have-teeth.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】所有法律都有殺傷力｜All Laws Have Teeth
-
 ![](../images/large_4640807911.jpg)
   
 文：吳莉瑋  

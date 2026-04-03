@@ -6,8 +6,6 @@ original_path: "/2013/02/outlawing-jobs-minimum-wage-once-more.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】取締工作：又一個最低薪資｜Outlawing Jobs: The Minimum Wage, Once More
-
 ![](../images/large_3401171091.jpg)
   
 文：吳莉瑋  

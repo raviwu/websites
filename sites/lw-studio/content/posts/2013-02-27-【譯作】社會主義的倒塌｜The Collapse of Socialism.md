@@ -6,8 +6,6 @@ original_path: "/2013/04/the-collapse-of-socialism.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】社會主義的倒塌｜The Collapse of Socialism
-
 ![](../images/large_1467357780.jpg)
   
 文：吳莉瑋  

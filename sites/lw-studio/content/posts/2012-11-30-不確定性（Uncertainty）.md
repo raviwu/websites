@@ -6,8 +6,6 @@ original_path: "/2012/11/uncertainty.html"
 blog: "LW Studio"
 ---
 
-# 不確定性（Uncertainty）
-
 ![](../images/medium_5262645427.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/04/oil-prices-again.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】油價爭議再起｜Oil Prices Again
-
 ![](../images/large_532687354.jpg)
   
 文：吳莉瑋  

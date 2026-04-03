@@ -6,8 +6,6 @@ original_path: "/2011/04/pick-me-up-please.html"
 blog: "PurMuurFuuur"
 ---
 
-# pick me up, please
-
 I feel safe, I feel warm when you're here  
 Then I do no wrong  
 I am cured, when I'm by your side  

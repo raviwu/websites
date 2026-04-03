@@ -6,8 +6,6 @@ original_path: "/2013/02/the-specter-of-airline-re-regulation.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】航空業再監管的幽靈｜The Specter of Airline Re-Regulation
-
 ![](../images/large_2923215931.jpg)
   
 文：吳莉瑋  

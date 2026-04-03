@@ -6,8 +6,6 @@ original_path: "/2013/04/a-gold-standard-for-russia.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】俄羅斯的黃金標準？｜A Gold Standard for Russia?
-
 ![](../images/large_2243154949.jpg)
   
 文：吳莉瑋  

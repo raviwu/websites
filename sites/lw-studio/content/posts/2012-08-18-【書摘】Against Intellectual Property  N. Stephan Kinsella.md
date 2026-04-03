@@ -6,8 +6,6 @@ original_path: "/2012/04/against-intellectual-property-n-stephan.html"
 blog: "LW Studio"
 ---
 
-# 【書摘】Against Intellectual Property | N. Stephan Kinsella
-
 ![](../images/SS362.jpg)
   
 摘錄：[Against Intellectual Property](https://mises.org/document/3582/Against-Intellectual-Property) | [N. Stephan Kinsella](http://www.stephankinsella.com/)  

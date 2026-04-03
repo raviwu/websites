@@ -6,8 +6,6 @@ original_path: "/2008/06/either-b-or-c.html"
 blog: "PurMuurFuuur"
 ---
 
-# [文法] either A, B, or C
-
 either A, B, or C  
   
 A B C 三者其中之一  

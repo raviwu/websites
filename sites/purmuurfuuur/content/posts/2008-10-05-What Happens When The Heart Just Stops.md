@@ -6,8 +6,6 @@ original_path: "/2008/10/what-happens-when-heart-just-stops.html"
 blog: "PurMuurFuuur"
 ---
 
-# What Happens When The Heart Just Stops
-
 So what happens when the heart just stops  
 Stops caring for anyone  
 The hollow in your chest dries up  

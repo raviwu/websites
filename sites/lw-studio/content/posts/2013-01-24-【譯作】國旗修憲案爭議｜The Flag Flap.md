@@ -6,8 +6,6 @@ original_path: "/2013/02/the-flag-flap.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】國旗修憲案爭議｜The Flag Flap
-
 ![](../images/medium_1215059399.jpg)
   
 文：吳莉瑋  

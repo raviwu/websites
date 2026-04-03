@@ -6,8 +6,6 @@ original_path: "/2013/05/how-to-desocialize.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】如何去社會化？｜How to Desocialize?
-
 ![](../images/origin_104969712.jpg)
   
 文：吳莉瑋  

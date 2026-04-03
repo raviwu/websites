@@ -6,8 +6,6 @@ original_path: "/2013/03/the-recession-explained.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】經濟衰退解釋了…｜The Recession Explained
-
 ![](../images/large_2295584401.jpg)
   
 文：吳莉瑋  

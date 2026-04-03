@@ -6,8 +6,6 @@ original_path: "/2006/12/flow-market.html"
 blog: "PurMuurFuuur"
 ---
 
-# the FLOW market
-
 [FLOW market](http://www.theflowmarket.com/)，是一個丹麥設計中心裡的市場。  
   
 ![](../images/meaningfullness.JPG)  

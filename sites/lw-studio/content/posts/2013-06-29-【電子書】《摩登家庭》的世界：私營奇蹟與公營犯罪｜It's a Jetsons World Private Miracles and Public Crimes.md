@@ -6,8 +6,6 @@ original_path: "/2013/06/its-jetsons-world-private-miracles-and.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】《摩登家庭》的世界：私營奇蹟與公營犯罪｜It's a Jetsons World: Private Miracles and Public Crimes
-
 ![](../images/title_page.jpg)
   
 這本書為 Jeffrey A. Tucker 所著《[It's a Jetsons World: Private Miracles and Public Crimes](http://mises.org/document/6528/)》的中文譯本，原書以 CC BY 釋出，有興趣的讀者可於 mises.org 下載。  

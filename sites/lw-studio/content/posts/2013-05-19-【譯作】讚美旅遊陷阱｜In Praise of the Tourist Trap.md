@@ -6,8 +6,6 @@ original_path: "/2013/07/in-praise-of-tourist-trap.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】讚美旅遊陷阱｜In Praise of the Tourist Trap
-
 ![](../images/large_5096795445.jpg)
   
 文：吳莉瑋  

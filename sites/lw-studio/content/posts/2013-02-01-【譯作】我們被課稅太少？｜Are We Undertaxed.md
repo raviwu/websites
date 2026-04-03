@@ -6,8 +6,6 @@ original_path: "/2013/03/are-we-undertaxed.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】我們被課稅太少？｜Are We Undertaxed?
-
 ![](../images/large_3446025121.jpg)
   
 文：吳莉瑋  

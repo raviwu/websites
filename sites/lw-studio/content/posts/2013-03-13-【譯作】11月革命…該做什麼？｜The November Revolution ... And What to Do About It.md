@@ -6,8 +6,6 @@ original_path: "/2013/07/11the-november-revolution-and-what-to.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】11月革命…該做什麼？｜The November Revolution ... And What to Do About It
-
 ![](../images/large_5086164267.jpg)
   
 文：吳莉瑋  

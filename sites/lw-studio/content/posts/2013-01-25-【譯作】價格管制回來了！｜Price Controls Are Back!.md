@@ -6,8 +6,6 @@ original_path: "/2013/02/price-controls-are-back.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】價格管制回來了！｜Price Controls Are Back!
-
 ![](../images/medium_6754105655.jpg)
   
 文：吳莉瑋  

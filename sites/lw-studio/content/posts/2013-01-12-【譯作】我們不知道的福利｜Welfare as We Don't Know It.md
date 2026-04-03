@@ -6,8 +6,6 @@ original_path: "/2013/01/welfare-as-we-dont-know-it.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】我們不知道的福利｜Welfare as We Don't Know It
-
 ![](../images/origin_4122275771.jpg)
   
 文：吳莉瑋  

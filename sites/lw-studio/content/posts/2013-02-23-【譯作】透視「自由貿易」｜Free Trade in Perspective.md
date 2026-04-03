@@ -6,8 +6,6 @@ original_path: "/2013/04/free-trade-in-perspective.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】透視「自由貿易」｜"Free Trade" in Perspective
-
 ![](../images/medium_4495968987.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2021/11/thau-lo-kin-sin-chhoe.html"
 blog: "PurMuurFuuur"
 ---
 
-# Thâu-lō͘ kín-sīn chhōe 頭路謹慎揣
-
 ![](../images/BB517B26-6980-4B94-8348-47C7E62EA611.jpeg)
 
 photo credit: [unsplash](https://unsplash.com/photos/nLXOatvTaLo)

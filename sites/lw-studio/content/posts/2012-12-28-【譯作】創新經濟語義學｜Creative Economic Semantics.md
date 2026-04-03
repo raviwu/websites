@@ -6,8 +6,6 @@ original_path: "/2013/01/creative-economic-semantics.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】創新經濟語義學｜Creative Economic Semantics
-
 ![](../images/large_4744866167.jpg)
   
 文：吳莉瑋  

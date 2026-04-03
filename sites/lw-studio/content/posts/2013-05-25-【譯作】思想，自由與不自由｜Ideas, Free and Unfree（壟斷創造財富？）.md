@@ -6,8 +6,6 @@ original_path: "/2013/06/ideas-free-and-unfree.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（壟斷創造財富？）
-
 ![](../images/large_233860075.jpg)
   
 文：吳莉瑋  

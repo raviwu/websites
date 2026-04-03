@@ -6,8 +6,6 @@ original_path: "/2011/06/life-in-school.html"
 blog: "PurMuurFuuur"
 ---
 
-# life in school
-
 We study the lecture on courses,  
   
 breathing the fresh grass smell,  

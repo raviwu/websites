@@ -6,8 +6,6 @@ original_path: "/2013/02/stocks-bonds-and-rule-by-fools.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】股票、債券與傻瓜的操作｜Stocks, Bonds, And Rule by Fools
-
 ![](../images/medium_456398100.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2012/12/is-it-economy-stupid.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】真的是「笨蛋，問題在經濟」嗎？｜Is it the "Economy, Stupid"?
-
 ![](../images/medium_4091694655.jpg)
   
 文：吳莉瑋  

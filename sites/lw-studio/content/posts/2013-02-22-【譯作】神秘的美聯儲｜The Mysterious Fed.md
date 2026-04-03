@@ -6,8 +6,6 @@ original_path: "/2013/04/the-mysterious-fed.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】神秘的美聯儲｜The Mysterious Fed
-
 ![](../images/medium_81557089.jpg)
   
 文：吳莉瑋  

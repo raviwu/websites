@@ -6,8 +6,6 @@ original_path: "/2013/05/a-socialist-stock-market.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】社會主義者的股市？｜A Socialist Stock Market?
-
 ![](../images/origin_2822678678.jpg)
   
 文：吳莉瑋  

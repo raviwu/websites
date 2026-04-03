@@ -6,8 +6,6 @@ original_path: "/2013/08/the-permanent-thing-called-cereal.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】恆久的早餐麥片｜The Permanent Thing Called Cereal
-
 ![](../images/234514717_300d621178_o.jpg)
 
 文：吳莉瑋  

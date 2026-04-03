@@ -6,8 +6,6 @@ original_path: "/2013/03/attacking-franc.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】「攻擊」法郎｜"Attacking" The Franc
-
 ![](../images/large_2397388906.jpg)
   
 文：吳莉瑋  

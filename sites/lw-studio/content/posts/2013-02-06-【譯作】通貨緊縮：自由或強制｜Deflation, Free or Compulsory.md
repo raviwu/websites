@@ -6,8 +6,6 @@ original_path: "/2013/03/deflation-free-or-compulsory.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】通貨緊縮：自由或強制｜Deflation, Free or Compulsory
-
 ![](../images/large_2394977585.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/05/a-radical-prescription-for-socialist.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】給社會主義陣營的激進處方｜A Radical Prescription for the Socialist Bloc
-
 ![](../images/origin_2869635928.jpg)
   
 文：吳莉瑋  

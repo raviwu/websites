@@ -6,8 +6,6 @@ original_path: "/2013/04/protectionism-and-destruction-of.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】貿易保護主義與繁榮破壞｜Protectionism and the Destruction of Prosperity
-
 ![](../images/large_5726184922.jpg)
   
 文：吳莉瑋  

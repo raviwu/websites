@@ -6,8 +6,6 @@ original_path: "/2007/02/osaka-part-one.html"
 blog: "PurMuurFuuur"
 ---
 
-# OSAKA part one
-
 這次我們的行程是五天四夜，活動範圍在近畿地方，足跡踏過大阪、神戶、京都、奈良。所以我也當了五天的近畿小子！哈哈哈！  
   
 我們去的定點大概是：  

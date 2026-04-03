@@ -6,8 +6,6 @@ original_path: "/2013/10/whats-job-good-for.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】工作到底好在哪？｜What’s a Job Good For?
-
 ![](../images/origin_277341190.jpg)
   
 文：吳莉瑋  

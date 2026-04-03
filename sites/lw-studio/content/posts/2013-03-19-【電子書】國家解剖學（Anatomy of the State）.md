@@ -6,8 +6,6 @@ original_path: "/2013/03/anatomy-of-state.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】國家解剖學（Anatomy of the State）
-
 ![](../images/cover.jpg)
   
 這是一本憾動人心的小書，Murray N. Rothbard 的 Anatomy of the State，原書請至 Mises Institue 網頁[免費下載](http://mises.org/document/1011/Anatomy-of-the-State)或是購買，中文版也終於在每日辛苦翻譯後集結完成。  

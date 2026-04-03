@@ -6,8 +6,6 @@ original_path: "/2013/03/babbitry-and-taxes-profile-in-courage.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】巴比特與稅：勇氣的展現？｜Babbitry And Taxes: A Profile in Courage?
-
 ![](../images/medium_4835000527.jpg)
   
 文：吳莉瑋  

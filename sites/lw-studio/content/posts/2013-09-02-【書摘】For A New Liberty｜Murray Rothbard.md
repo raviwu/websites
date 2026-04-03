@@ -6,8 +6,6 @@ original_path: "/2013/09/for-new-libertymurray-rothbard.html"
 blog: "LW Studio"
 ---
 
-# 【書摘】For A New Liberty｜Murray Rothbard
-
 ![](../images/B592.jpg)
 摘錄：For A New Liberty｜Murray Rothbard  
   

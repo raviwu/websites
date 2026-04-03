@@ -6,8 +6,6 @@ original_path: "/2013/02/clintonomics-prospect.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】柯林頓學：展望｜Clintonomics: The Prospect
-
 ![](../images/medium_817044127.jpg)
   
 文：吳莉瑋  

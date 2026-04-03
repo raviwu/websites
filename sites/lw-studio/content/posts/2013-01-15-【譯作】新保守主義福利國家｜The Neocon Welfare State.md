@@ -6,8 +6,6 @@ original_path: "/2013/01/the-neocon-welfare-state.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】新保守主義福利國家｜The Neocon Welfare State
-
 ![](../images/medium_4816128034.jpg)
   
 文：吳莉瑋  

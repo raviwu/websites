@@ -6,8 +6,6 @@ original_path: "/2012/12/ten-great-economic-myths.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】十大經濟迷思｜Ten Great Economic Myths
-
 ![](../images/large_2802001013.jpg)
   
 文：吳莉瑋  

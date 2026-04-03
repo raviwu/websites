@@ -6,8 +6,6 @@ original_path: "/2013/05/the-revolution-comes-home.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】革命到家門｜The Revolution Comes Home
-
 ![](../images/large_6281936106.jpg)
   
 文：吳莉瑋  

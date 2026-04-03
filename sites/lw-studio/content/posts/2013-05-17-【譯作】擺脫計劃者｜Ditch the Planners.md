@@ -6,8 +6,6 @@ original_path: "/2013/05/ditch-planners.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】擺脫計劃者｜Ditch the Planners
-
 ![](../images/large_8222922317.jpg)
   
 文：吳莉瑋  

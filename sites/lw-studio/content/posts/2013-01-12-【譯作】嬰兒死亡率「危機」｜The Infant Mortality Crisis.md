@@ -6,8 +6,6 @@ original_path: "/2013/01/the-infant-mortality-crisis.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】嬰兒死亡率「危機」｜The Infant Mortality "Crisis"
-
 ![](../images/large__8127510587.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/02/population-control.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】人口控制｜Population "Control"
-
 ![](../images/medium_259688790.jpg)
   
 文：吳莉瑋  

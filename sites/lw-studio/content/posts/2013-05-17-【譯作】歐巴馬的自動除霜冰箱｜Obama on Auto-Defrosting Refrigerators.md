@@ -6,8 +6,6 @@ original_path: "/2013/05/obama-on-auto-defrosting-refrigerators.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】歐巴馬的自動除霜冰箱｜Obama on Auto-Defrosting Refrigerators
-
 ![](../images/large_5416328127.jpg)
   
 文：吳莉瑋  

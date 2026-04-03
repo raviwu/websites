@@ -6,8 +6,6 @@ original_path: "/2013/11/commodify-my-grass-and-everything-else.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】商品化我的野草，還有其它所有東西｜Commodify My Grass, and Everything Else
-
 ![](../images/large_3379356117.jpg)
   
 文：吳莉瑋  

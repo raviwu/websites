@@ -6,8 +6,6 @@ original_path: "/2013/05/theres-no-such-thing-as-homemade-ice.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】沒有所謂自製冰淇淋這回事｜There’s No Such Thing as Homemade Ice Cream
-
 ![](../images/origin_832374928.jpg)
   
 文：吳莉瑋  

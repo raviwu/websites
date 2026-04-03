@@ -6,8 +6,6 @@ original_path: "/2013/09/happy-birthday-the-forth-time.html"
 blog: "PurMuurFuuur"
 ---
 
-# make a wish
-
 ![](../images/origin_400398036.jpg)
 即將是第八個一起過的生日，四個我的，四個妳的。  
   

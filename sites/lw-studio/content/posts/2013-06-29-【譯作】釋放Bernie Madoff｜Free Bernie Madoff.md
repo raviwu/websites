@@ -6,8 +6,6 @@ original_path: "/2013/08/bernie-madofffree-bernie-madoff.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】釋放Bernie Madoff｜Free Bernie Madoff
-
 ![](../images/large_4330754374.jpg)
 文：吳莉瑋  
 圖：[Colourless Rainbow](http://www.flickr.com/photos/irteza/4330754374/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

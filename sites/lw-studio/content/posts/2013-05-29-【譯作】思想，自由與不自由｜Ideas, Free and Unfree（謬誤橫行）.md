@@ -6,8 +6,6 @@ original_path: "/2013/06/ideas-free-and-unfree_7.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（謬誤橫行）
-
 ![](../images/large_5723621420.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2013/02/the-union-problem.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】工會問題｜The Union Problem
-
 ![](../images/large_5008825981.jpg)
   
 文：吳莉瑋  

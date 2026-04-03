@@ -6,8 +6,6 @@ original_path: "/2013/07/the-olive-bar-state-and-rule-ambiguity.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】橄欖、國家與規則歧義｜The Olive Bar, the State, and Rule Ambiguity
-
 ![](../images/origin_4718078921.jpg)
   
 文：吳莉瑋  

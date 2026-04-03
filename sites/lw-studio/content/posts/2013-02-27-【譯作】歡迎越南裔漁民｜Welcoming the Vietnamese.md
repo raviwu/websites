@@ -6,8 +6,6 @@ original_path: "/2013/05/welcoming-vietnamese.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】歡迎越南裔漁民｜Welcoming the Vietnamese
-
 ![](../images/large_3387745706.jpg)
   
 文：吳莉瑋  

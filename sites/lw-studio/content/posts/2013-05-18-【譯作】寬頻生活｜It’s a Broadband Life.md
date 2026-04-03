@@ -6,8 +6,6 @@ original_path: "/2013/06/its-broadband-life.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】寬頻生活｜It’s a Broadband Life
-
 ![](../images/origin_214891662.jpg)
   
 文：吳莉瑋  

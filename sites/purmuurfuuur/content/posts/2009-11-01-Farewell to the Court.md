@@ -6,8 +6,6 @@ original_path: "/2009/11/farewell-to-court.html"
 blog: "PurMuurFuuur"
 ---
 
-# Farewell to the Court
-
 Like truthless dreams, so are my joys expir'd,  
 And past return are all my dandled days;  
 My love misled, and fancy quite retir'd  

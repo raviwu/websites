@@ -6,8 +6,6 @@ original_path: "/2013/03/the-budget-crisis.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】預算危機｜The Budget Crisis
-
 ![](../images/large_3573510369.jpg)
   
 文：吳莉瑋  

@@ -6,8 +6,6 @@ original_path: "/2012/11/time-will-run-back-henry-hazlitt.html"
 blog: "LW Studio"
 ---
 
-# 【書介】Time Will Run Back | Henry Hazlitt
-
 ![](../images/SS154.jpg)
   
 摘錄：[Time Will Run Back](http://mises.org/document/3060/Time-Will-Run-Back) | [Henry Hazlitt](http://en.wikipedia.org/wiki/Henry_Hazlitt)  

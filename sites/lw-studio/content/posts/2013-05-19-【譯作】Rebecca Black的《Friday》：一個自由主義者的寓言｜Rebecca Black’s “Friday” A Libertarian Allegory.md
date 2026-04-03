@@ -6,8 +6,6 @@ original_path: "/2013/10/rebecca-blackfridayrebecca-blacks.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】Rebecca Black的《Friday》：一個自由主義者的寓言｜Rebecca Black’s “Friday”: A Libertarian Allegory
-
 文：吳莉瑋  
 影片：[Youtube](http://www.youtube.com/watch?v=kfVsfOSbJY0)  
   

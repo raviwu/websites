@@ -6,8 +6,6 @@ original_path: "/2013/04/q-on-s-l-mess.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】問與答：儲蓄與信貸銀行混亂｜Q&A on the S & L Mess
-
 ![](../images/large_7007767964.jpg)
   
 文：吳莉瑋  

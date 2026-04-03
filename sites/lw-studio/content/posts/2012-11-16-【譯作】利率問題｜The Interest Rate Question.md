@@ -6,8 +6,6 @@ original_path: "/2013/01/the-interest-rate-question.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】利率問題｜The Interest Rate Question
-
 ![](../images/medium_2276783536.jpg)
   
 文：吳莉瑋  

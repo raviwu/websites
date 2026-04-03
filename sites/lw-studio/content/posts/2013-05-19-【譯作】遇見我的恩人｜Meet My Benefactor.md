@@ -6,8 +6,6 @@ original_path: "/2013/05/meet-my-benefactor.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】遇見我的恩人｜Meet My Benefactor
-
 ![](../images/origin_78280742.jpg)
   
 文：吳莉瑋  

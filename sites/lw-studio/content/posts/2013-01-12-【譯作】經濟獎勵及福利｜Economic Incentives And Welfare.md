@@ -6,8 +6,6 @@ original_path: "/2013/01/economic-incentives-and-welfare.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】經濟獎勵及福利｜Economic Incentives And Welfare
-
 ![](../images/medium_4929686023.jpg)
   
 文：吳莉瑋  

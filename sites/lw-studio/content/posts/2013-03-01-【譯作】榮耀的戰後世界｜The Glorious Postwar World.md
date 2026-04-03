@@ -6,8 +6,6 @@ original_path: "/2013/05/the-glorious-postwar-world.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】榮耀的戰後世界｜The Glorious Postwar World
-
 ![](../images/large_2629125150.jpg)
   
 文：吳莉瑋  

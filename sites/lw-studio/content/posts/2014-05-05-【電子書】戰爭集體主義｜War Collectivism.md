@@ -6,8 +6,6 @@ original_path: "/2014/05/war-collectivism.html"
 blog: "LW Studio"
 ---
 
-# 【電子書】戰爭集體主義｜War Collectivism
-
 ![](../images/cover.jpg)
   
 文／圖：吳莉瑋  

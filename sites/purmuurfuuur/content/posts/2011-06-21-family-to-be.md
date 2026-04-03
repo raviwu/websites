@@ -6,8 +6,6 @@ original_path: "/2011/06/family-to-be.html"
 blog: "PurMuurFuuur"
 ---
 
-# family-to-be
-
 ![](../images/family.jpg)
 
 It is an ordinary story.

@@ -6,8 +6,6 @@ original_path: "/2013/03/the-balanced-budget-amendment-hoax.html"
 blog: "LW Studio"
 ---
 
-# 【譯作】平衡預算憲法修正案騙局｜The Balanced-Budget Amendment Hoax
-
 ![](../images/medium_2384283395.jpg)
   
 文：吳莉瑋  
