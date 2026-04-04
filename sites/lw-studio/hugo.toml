@@ -40,7 +40,7 @@ paginate = 20
 
   [params.colorScheme]
     toggle = true
-    default = "light"
+    default = "dark"
 
 [taxonomies]
   tag = "tags"
