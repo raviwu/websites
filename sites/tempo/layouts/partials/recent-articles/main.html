@@ -1,0 +1,9 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  {{ if and .Site.Params.homepage.cardView (not .Site.Params.homepage.cardViewScreenWidth) | default false }}
+    {{ partial "recent-articles/cardview.html" . }}
+  {{ else if and .Site.Params.homepage.cardView .Site.Params.homepage.cardViewScreenWidth | default false }}
+    {{ partial "recent-articles/cardview-fullwidth.html" . }}
+  {{ else }}
+    {{ partial "recent-articles/list.html" . }}
+  {{ end }}
+{{ end }}
