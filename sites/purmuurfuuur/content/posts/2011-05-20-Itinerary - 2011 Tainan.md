@@ -3,8 +3,11 @@ title: "Itinerary - 2011 Tainan"
 date: 2011-05-20
 tags: [friend, travel, tainan, life]
 original_path: "/2011/05/itinerary-2011-tainan.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Itinerary - 2011 Tainan
 
 2011/6/4  
   

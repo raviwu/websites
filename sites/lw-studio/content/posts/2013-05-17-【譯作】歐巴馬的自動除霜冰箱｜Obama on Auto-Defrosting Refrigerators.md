@@ -3,8 +3,11 @@ title: "【譯作】歐巴馬的自動除霜冰箱｜Obama on Auto-Defrosting Re
 date: 2013-05-17
 tags: [監管, 譯文, Obama, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/05/obama-on-auto-defrosting-refrigerators.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】歐巴馬的自動除霜冰箱｜Obama on Auto-Defrosting Refrigerators
 
 ![](../images/large_5416328127.jpg)
   

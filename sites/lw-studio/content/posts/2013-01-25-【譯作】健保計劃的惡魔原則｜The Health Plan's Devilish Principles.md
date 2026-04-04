@@ -3,8 +3,11 @@ title: "【譯作】健保計劃的惡魔原則｜The Health Plan's Devilish Pri
 date: 2013-01-25
 tags: [政府, 柯林頓, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/02/the-health-plans-devilish-principles.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】健保計劃的惡魔原則｜The Health Plan's Devilish Principles
 
 ![](../images/medium_2519022388.jpg)
   

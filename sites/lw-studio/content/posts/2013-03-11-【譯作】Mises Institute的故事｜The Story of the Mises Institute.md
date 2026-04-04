@@ -3,8 +3,11 @@ title: "【譯作】Mises Institute的故事｜The Story of the Mises Institute"
 date: 2013-03-11
 tags: [譯文, Mises, Making Economic Sense, 歷史, Rothbard]
 original_path: "/2013/04/mises-institutethe-story-of-mises.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】Mises Institute的故事｜The Story of the Mises Institute
 
 ![](../images/Misescrest.gif)
   

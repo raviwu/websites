@@ -3,8 +3,11 @@ title: "What Happens When The Heart Just Stops"
 date: 2008-10-05
 tags: [love, murmur, ravi]
 original_path: "/2008/10/what-happens-when-heart-just-stops.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# What Happens When The Heart Just Stops
 
 So what happens when the heart just stops  
 Stops caring for anyone  

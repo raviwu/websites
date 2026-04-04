@@ -3,8 +3,11 @@ title: "【譯作】油價爭議再起｜Oil Prices Again"
 date: 2013-02-26
 tags: [市場, 價格, 經濟學, 譯文, 國際經濟, Making Economic Sense, Rothbard]
 original_path: "/2013/04/oil-prices-again.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】油價爭議再起｜Oil Prices Again
 
 ![](../images/large_532687354.jpg)
   

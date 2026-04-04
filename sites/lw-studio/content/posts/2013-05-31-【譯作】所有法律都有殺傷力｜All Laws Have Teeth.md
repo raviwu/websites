@@ -3,8 +3,11 @@ title: "【譯作】所有法律都有殺傷力｜All Laws Have Teeth"
 date: 2013-05-31
 tags: [監管, 政府, 譯文, 法律, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/all-laws-have-teeth.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】所有法律都有殺傷力｜All Laws Have Teeth
 
 ![](../images/large_4640807911.jpg)
   

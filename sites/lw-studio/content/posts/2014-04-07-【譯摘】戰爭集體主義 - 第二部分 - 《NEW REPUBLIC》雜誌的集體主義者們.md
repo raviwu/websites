@@ -3,8 +3,11 @@ title: "【譯摘】戰爭集體主義 - 第二部分 - 《NEW REPUBLIC》雜誌
 date: 2014-04-07
 tags: [War Collectivism, 政府, 集體主義, 一次世界大戰, Rothbard]
 original_path: "/2014/05/war-collectivism-part2-thenewrepubliccollectivists.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯摘】戰爭集體主義 - 第二部分 - 《NEW REPUBLIC》雜誌的集體主義者們
 
 ![](../images/large_456398100.jpg)
   

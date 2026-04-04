@@ -3,8 +3,11 @@ title: "【譯作】國旗修憲案爭議｜The Flag Flap"
 date: 2013-01-24
 tags: [財產權, 經濟學, 譯文, Making Economic Sense, Rothbard, 憲法]
 original_path: "/2013/02/the-flag-flap.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】國旗修憲案爭議｜The Flag Flap
 
 ![](../images/medium_1215059399.jpg)
   

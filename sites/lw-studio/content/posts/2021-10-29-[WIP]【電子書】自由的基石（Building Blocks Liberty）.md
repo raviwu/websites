@@ -3,8 +3,11 @@ title: "[WIP]【電子書】自由的基石（Building Blocks Liberty）"
 date: 2021-10-29
 tags: [Walter Block, Building Blocks Liberty]
 original_path: "/2021/10/building-blocks-liberty.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# [WIP]【電子書】自由的基石（Building Blocks Liberty）
 
 ![](../images/cover-en.jpg)
 

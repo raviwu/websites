@@ -3,8 +3,11 @@ title: "【譯作】布希與杜卡基斯：在意識形態上形影不離｜Bus
 date: 2013-01-21
 tags: [經濟學, 譯文, 政策, Making Economic Sense, 通貨膨脹, 凱因斯, Rothbard]
 original_path: "/2013/02/bush-and-dukakis-ideologically.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】布希與杜卡基斯：在意識形態上形影不離｜Bush And Dukakis: Ideologically Inseparable
 
 ![](../images/large_3086998079.jpg)
   

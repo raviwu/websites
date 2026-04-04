@@ -3,8 +3,11 @@ title: "the FLOW market"
 date: 2006-12-10
 tags: [life, murmur]
 original_path: "/2006/12/flow-market.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# the FLOW market
 
 [FLOW market](http://www.theflowmarket.com/)，是一個丹麥設計中心裡的市場。  
   

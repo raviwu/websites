@@ -3,8 +3,11 @@ title: "【譯作】波蘭之旅｜A Trip to Poland"
 date: 2013-02-26
 tags: [經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/04/a-trip-to-poland.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】波蘭之旅｜A Trip to Poland
 
 ![](../images/large_5556981244.jpg)
   

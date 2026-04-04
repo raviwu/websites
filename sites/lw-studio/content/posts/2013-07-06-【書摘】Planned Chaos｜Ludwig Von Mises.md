@@ -3,8 +3,11 @@ title: "【書摘】Planned Chaos｜Ludwig Von Mises"
 date: 2013-07-06
 tags: [政府, planned chaos, 歷史, 社會主義, Mises, 書摘]
 original_path: "/2013/04/planned-chaosludwig-von-mises.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【書摘】Planned Chaos｜Ludwig Von Mises
 
 ![](../images/SS498.jpg)
   

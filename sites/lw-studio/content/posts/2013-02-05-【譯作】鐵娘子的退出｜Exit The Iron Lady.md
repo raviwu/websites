@@ -3,8 +3,11 @@ title: "【譯作】鐵娘子的退出｜Exit The Iron Lady"
 date: 2013-02-05
 tags: [政府, 柴契爾夫人, 經濟學, 譯文, 政策, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/exit-iron-lady.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】鐵娘子的退出｜Exit The Iron Lady
 
 ![](../images/large_6901350109.jpg)
   

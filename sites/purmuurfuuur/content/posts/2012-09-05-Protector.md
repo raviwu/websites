@@ -3,8 +3,11 @@ title: "Protector"
 date: 2012-09-05
 tags: [love, thought, island, family, life, vow]
 original_path: "/2012/09/protector.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Protector
 
 ![](../images/20120905-bao.JPG)
   

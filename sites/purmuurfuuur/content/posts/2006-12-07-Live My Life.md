@@ -3,8 +3,11 @@ title: "Live My Life"
 date: 2006-12-07
 tags: [life, murmur, ravi]
 original_path: "/2005/07/live-my-life.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Live My Life
 
 生活就是這樣 一天加一天地過  
   

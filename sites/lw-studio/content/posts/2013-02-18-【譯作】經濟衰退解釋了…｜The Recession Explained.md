@@ -3,8 +3,11 @@ title: "【譯作】經濟衰退解釋了…｜The Recession Explained"
 date: 2013-02-18
 tags: [政府, 貨幣主義, 經濟衰退, 商業周期, 經濟學, 譯文, 政策, Making Economic Sense, 凱因斯, Rothbard]
 original_path: "/2013/03/the-recession-explained.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】經濟衰退解釋了…｜The Recession Explained
 
 ![](../images/large_2295584401.jpg)
   

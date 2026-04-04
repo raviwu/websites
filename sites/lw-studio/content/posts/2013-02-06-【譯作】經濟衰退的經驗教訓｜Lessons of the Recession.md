@@ -3,8 +3,11 @@ title: "【譯作】經濟衰退的經驗教訓｜Lessons of the Recession"
 date: 2013-02-06
 tags: [政府, 通貨緊縮, 商業周期, 經濟學, 譯文, 政策, Making Economic Sense, 通貨膨脹, 凱因斯, Rothbard]
 original_path: "/2013/04/lessons-of-recession.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】經濟衰退的經驗教訓｜Lessons of the Recession
 
 ![](../images/medium_2500097744.jpg)
   

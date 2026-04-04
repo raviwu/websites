@@ -3,8 +3,11 @@ title: "【譯作】問與答：儲蓄與信貸銀行混亂｜Q&A on the S & L M
 date: 2013-02-20
 tags: [政府, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/04/q-on-s-l-mess.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】問與答：儲蓄與信貸銀行混亂｜Q&A on the S & L Mess
 
 ![](../images/large_7007767964.jpg)
   

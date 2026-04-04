@@ -3,8 +3,11 @@ title: "【譯作】寬頻生活｜It’s a Broadband Life"
 date: 2013-05-18
 tags: [譯文, It’s a Jetsons World, Jeffrey A. Tucker, 著作權]
 original_path: "/2013/06/its-broadband-life.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】寬頻生活｜It’s a Broadband Life
 
 ![](../images/origin_214891662.jpg)
   

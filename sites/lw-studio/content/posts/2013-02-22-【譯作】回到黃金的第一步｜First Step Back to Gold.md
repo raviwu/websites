@@ -3,8 +3,11 @@ title: "【譯作】回到黃金的第一步｜First Step Back to Gold"
 date: 2013-02-22
 tags: [政府, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/04/first-step-back-to-gold.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】回到黃金的第一步｜First Step Back to Gold
 
 ![](../images/medium_2438117961.jpg)
   

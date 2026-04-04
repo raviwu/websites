@@ -3,8 +3,11 @@ title: "【譯作】混沌理論｜Chaos Theory"
 date: 2013-01-02
 tags: [不確定性, 社論, 譯文, 經濟理論, Making Economic Sense, Rothbard]
 original_path: "/2013/01/chaos-theory.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】混沌理論｜Chaos Theory
 
 ![](../images/medium_2778263981.jpg)
   

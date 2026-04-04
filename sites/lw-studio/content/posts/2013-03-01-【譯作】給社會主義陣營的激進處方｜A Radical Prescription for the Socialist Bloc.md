@@ -3,8 +3,11 @@ title: "【譯作】給社會主義陣營的激進處方｜A Radical Prescriptio
 date: 2013-03-01
 tags: [政府, 譯文, 社會主義, Making Economic Sense, Rothbard]
 original_path: "/2013/05/a-radical-prescription-for-socialist.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】給社會主義陣營的激進處方｜A Radical Prescription for the Socialist Bloc
 
 ![](../images/origin_2869635928.jpg)
   

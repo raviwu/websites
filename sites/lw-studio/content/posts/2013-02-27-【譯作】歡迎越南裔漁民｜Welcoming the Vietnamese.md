@@ -3,8 +3,11 @@ title: "【譯作】歡迎越南裔漁民｜Welcoming the Vietnamese"
 date: 2013-02-27
 tags: [譯文, 法律, Making Economic Sense, Rothbard]
 original_path: "/2013/05/welcoming-vietnamese.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】歡迎越南裔漁民｜Welcoming the Vietnamese
 
 ![](../images/large_3387745706.jpg)
   

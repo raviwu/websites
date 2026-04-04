@@ -3,8 +3,11 @@ title: "【譯作】守財奴只會傷害自己｜The Miser Hurts No One but Her
 date: 2013-05-24
 tags: [譯文, 歷史, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/11/the-miser-hurts-no-one-but-herself.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】守財奴只會傷害自己｜The Miser Hurts No One but Herself
 
 ![](../images/origin_4043040212.jpg)
   

@@ -3,8 +3,11 @@ title: "【電子書】私有防禦（The Private Production of Defense）"
 date: 2013-05-04
 tags: [電子書, 國家, Hoppe, 防禦, 保險, 民主]
 original_path: "/2013/05/the-private-production-of-defense.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【電子書】私有防禦（The Private Production of Defense）
 
 ![](../images/cover.jpg)
   

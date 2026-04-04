@@ -3,8 +3,11 @@ title: "【譯作】第一個真正的寫作世代｜The First Truly Literate Ge
 date: 2013-05-18
 tags: [譯文, 教育, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/the-first-truly-literate-generation.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】第一個真正的寫作世代｜The First Truly Literate Generation
 
 ![](../images/large_6680179263.jpg)
   

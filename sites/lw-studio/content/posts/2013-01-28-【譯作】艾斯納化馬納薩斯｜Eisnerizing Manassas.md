@@ -3,8 +3,11 @@ title: "【譯作】艾斯納化馬納薩斯｜Eisnerizing Manassas"
 date: 2013-01-28
 tags: [政府, 假經濟開發, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/02/eisnerizing-manassas.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】艾斯納化馬納薩斯｜Eisnerizing Manassas
 
 ![](../images/large_3462570867.jpg)
   

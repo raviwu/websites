@@ -3,8 +3,11 @@ title: "企業家行為（Entrepreneurship）"
 date: 2012-12-01
 tags: [不確定性, 人類行為學, Human Action, 市場, 經濟學, 貨幣, Mises, 交換論, 企業家]
 original_path: "/2012/12/entrepreneurship.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 企業家行為（Entrepreneurship）
 
 ![](../images/medium_4796453859.jpg)
   

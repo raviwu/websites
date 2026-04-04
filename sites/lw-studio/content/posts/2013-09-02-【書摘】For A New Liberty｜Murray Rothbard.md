@@ -3,8 +3,11 @@ title: "【書摘】For A New Liberty｜Murray Rothbard"
 date: 2013-09-02
 tags: [For A New Liberty, 自由主義, 社會秩序, 歷史, 書摘, Rothbard]
 original_path: "/2013/09/for-new-libertymurray-rothbard.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【書摘】For A New Liberty｜Murray Rothbard
 
 ![](../images/B592.jpg)
 摘錄：For A New Liberty｜Murray Rothbard  

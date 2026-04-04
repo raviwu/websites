@@ -3,8 +3,11 @@ title: "【譯作】革命到家門｜The Revolution Comes Home"
 date: 2013-03-05
 tags: [柯林頓, 譯文, 社會主義, Making Economic Sense, Rothbard]
 original_path: "/2013/05/the-revolution-comes-home.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】革命到家門｜The Revolution Comes Home
 
 ![](../images/large_6281936106.jpg)
   

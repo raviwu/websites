@@ -3,8 +3,11 @@ title: "You'll love me yet"
 date: 2009-11-01
 tags: [love, literature, poem]
 original_path: "/2009/11/youll-love-me-yet.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# You'll love me yet
 
 You'll love me yet and I can tarry  
 Your love's protracted growing:  

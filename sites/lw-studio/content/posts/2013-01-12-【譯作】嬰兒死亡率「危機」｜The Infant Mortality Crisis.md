@@ -3,8 +3,11 @@ title: "【譯作】嬰兒死亡率「危機」｜The Infant Mortality \"Crisis\
 date: 2013-01-12
 tags: [社會福利, 左派自由主義, 社論, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-infant-mortality-crisis.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】嬰兒死亡率「危機」｜The Infant Mortality "Crisis"
 
 ![](../images/large__8127510587.jpg)
   

@@ -3,8 +3,11 @@ title: "【譯作】商品化我的野草，還有其它所有東西｜Commodify
 date: 2013-05-18
 tags: [譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/11/commodify-my-grass-and-everything-else.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】商品化我的野草，還有其它所有東西｜Commodify My Grass, and Everything Else
 
 ![](../images/large_3379356117.jpg)
   

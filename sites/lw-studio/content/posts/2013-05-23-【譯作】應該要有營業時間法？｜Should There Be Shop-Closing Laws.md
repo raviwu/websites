@@ -3,8 +3,11 @@ title: "【譯作】應該要有營業時間法？｜Should There Be Shop-Closin
 date: 2013-05-23
 tags: [市場, 譯文, 政策, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/should-there-be-shop-closing-laws.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】應該要有營業時間法？｜Should There Be Shop-Closing Laws?
 
 ![](../images/large_2342066937.jpg)
   

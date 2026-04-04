@@ -3,8 +3,11 @@ title: "Clear Path"
 date: 2011-04-26
 tags: [life]
 original_path: "/2011/04/clear-path.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Clear Path
 
 I deleted most of my post on facebook.  
   

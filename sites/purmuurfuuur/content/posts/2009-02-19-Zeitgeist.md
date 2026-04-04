@@ -3,8 +3,11 @@ title: "Zeitgeist"
 date: 2009-02-19
 tags: [society, life, murmur]
 original_path: "/2009/02/zeitgeist.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Zeitgeist
 
 <http://www.zeitgeistmovie.com/>  
 <http://www.zeitgeistmovie.com/dloads.htm>  

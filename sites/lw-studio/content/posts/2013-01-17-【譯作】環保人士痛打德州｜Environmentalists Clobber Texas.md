@@ -3,8 +3,11 @@ title: "【譯作】環保人士痛打德州｜Environmentalists Clobber Texas"
 date: 2013-01-17
 tags: [環保, 財產權, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/environmentalists-clobber-texas.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】環保人士痛打德州｜Environmentalists Clobber Texas
 
 ![](../images/origin_3754248389.jpg)
   

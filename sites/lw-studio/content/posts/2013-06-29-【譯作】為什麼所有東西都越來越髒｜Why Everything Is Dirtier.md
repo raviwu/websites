@@ -3,8 +3,11 @@ title: "【譯作】為什麼所有東西都越來越髒｜Why Everything Is Dir
 date: 2013-06-29
 tags: [譯文, 環保, 政策, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/why-everything-is-dirtier.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】為什麼所有東西都越來越髒｜Why Everything Is Dirtier
 
 ![](../images/large_4265431265.jpg)
 文：吳莉瑋  

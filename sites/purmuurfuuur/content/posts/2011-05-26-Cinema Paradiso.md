@@ -3,8 +3,11 @@ title: "Cinema Paradiso"
 date: 2011-05-26
 tags: [kino, life, murmur]
 original_path: "/2011/05/cinema-paradiso.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Cinema Paradiso
 
 以外表選朋友，以智慧選敵人。  
   

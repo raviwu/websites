@@ -3,8 +3,11 @@ title: "【譯作】物質世界的拾荒者｜Scavengers of the Physical Univer
 date: 2013-05-18
 tags: [市場, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/scavengers-of-physical-universe.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】物質世界的拾荒者｜Scavengers of the Physical Universe
 
 ![](../images/medium_4203558994.jpg)
   

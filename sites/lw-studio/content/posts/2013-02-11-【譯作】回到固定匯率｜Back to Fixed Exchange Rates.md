@@ -3,8 +3,11 @@ title: "【譯作】回到固定匯率｜Back to Fixed Exchange Rates"
 date: 2013-02-11
 tags: [匯率, 經濟學, 譯文, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/03/back-to-fixed-exchange-rates.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】回到固定匯率｜Back to Fixed Exchange Rates
 
 ![](../images/large_4788000521.jpg)
   

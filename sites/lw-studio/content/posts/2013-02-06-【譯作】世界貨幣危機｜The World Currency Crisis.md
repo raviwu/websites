@@ -3,8 +3,11 @@ title: "【譯作】世界貨幣危機｜The World Currency Crisis"
 date: 2013-02-06
 tags: [政府, 經濟學, 譯文, 貨幣, 政策, Making Economic Sense, 凱因斯, 金融, Rothbard]
 original_path: "/2013/03/the-world-currency-crisis.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】世界貨幣危機｜The World Currency Crisis
 
 ![](../images/large_4353407858.jpg)
   

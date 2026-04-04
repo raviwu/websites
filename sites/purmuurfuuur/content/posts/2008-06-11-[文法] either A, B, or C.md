@@ -3,8 +3,11 @@ title: "[文法] either A, B, or C"
 date: 2008-06-11
 tags: [learning, design]
 original_path: "/2008/06/either-b-or-c.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# [文法] either A, B, or C
 
 either A, B, or C  
   

@@ -3,8 +3,11 @@ title: "【譯作】私有化的準備工作｜What to Do Until Privatization Co
 date: 2013-01-26
 tags: [政府, 社論, 經濟學, 譯文, 私有化, Making Economic Sense, Rothbard]
 original_path: "/2013/02/what-to-do-until-privatization-comes.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】私有化的準備工作｜What to Do Until Privatization Comes
 
 ![](../images/large_2173653553.jpg)
   

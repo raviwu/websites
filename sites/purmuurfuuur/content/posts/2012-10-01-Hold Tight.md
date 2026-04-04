@@ -3,8 +3,11 @@ title: "Hold Tight"
 date: 2012-10-01
 tags: [thought, murmur, island]
 original_path: "/2012/10/hold-tight.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Hold Tight
 
 ![](../images/medium_6769688429.jpg)
   

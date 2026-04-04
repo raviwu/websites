@@ -3,8 +3,11 @@ title: "【譯作】募兵制的迷思｜The Myth of the Voluntary Military"
 date: 2013-06-29
 tags: [人權, 譯文, It’s a Jetsons World, Jeffrey A. Tucker, 軍事]
 original_path: "/2013/07/the-myth-of-voluntary-military.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】募兵制的迷思｜The Myth of the Voluntary Military
 
 ![](../images/large_489368574.jpg)
 文：吳莉瑋  

@@ -3,8 +3,11 @@ title: "OSAKA part two"
 date: 2007-03-03
 tags: [family, travel, life]
 original_path: "/2007/03/osaka-part-two.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# OSAKA part two
 
 第二天的行程是：[明石大橋、舞子展望台](http://www.hyogo-tourism.jp/taiwan/kobe4.html)／甜心港灣點心屋、摩塞克流行廣場／[神戶異人館（風見雞館）](http://www.e-japannavi.com/syuyu/kobe_kitano1.shtml)／京都二、三年阪散步道／[清水寺](http://www.kiyomizudera.or.jp/)／夜宿[京都新阪急](http://www.hankyu-hotel.com/hotels/30kyotoshh/index2.html)  
   

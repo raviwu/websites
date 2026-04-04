@@ -3,8 +3,11 @@ title: "【譯作】通貨膨脹終極版｜Inflation Redux"
 date: 2013-02-20
 tags: [政府, 經濟學, 譯文, 貨幣, Making Economic Sense, 通貨膨脹, 金融, Rothbard]
 original_path: "/2013/04/inflation-redux.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】通貨膨脹終極版｜Inflation Redux
 
 ![](../images/large_381941233.jpg)
   

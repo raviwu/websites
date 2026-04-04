@@ -3,8 +3,11 @@ title: "不確定性（Uncertainty）"
 date: 2012-11-30
 tags: [人類行為學, 不確定性, Mises, Human Action]
 original_path: "/2012/11/uncertainty.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 不確定性（Uncertainty）
 
 ![](../images/medium_5262645427.jpg)
   

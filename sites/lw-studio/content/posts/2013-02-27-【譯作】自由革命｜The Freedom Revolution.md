@@ -3,8 +3,11 @@ title: "【譯作】自由革命｜The Freedom Revolution"
 date: 2013-02-27
 tags: [譯文, 社會主義, Making Economic Sense, Rothbard]
 original_path: "/2013/06/the-freedom-revolution.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】自由革命｜The Freedom Revolution
 
 ![](../images/medium_2356648342.jpg)
   

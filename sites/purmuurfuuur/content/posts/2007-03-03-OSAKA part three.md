@@ -3,8 +3,11 @@ title: "OSAKA part three"
 date: 2007-03-03
 tags: [family, travel, life]
 original_path: "/2007/03/osaka-part-three.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# OSAKA part three
 
 第三天：[嵐山渡月橋／嵯峨野竹林步道](http://www.kyotokanko.co.jp/shiseki/map.html)／[西陣織會館](http://www.hensin-maiko.gr.jp/nisijin/)／[平安神宮](http://www.heianjingu.or.jp/)／奈良[東大寺](http://www.jnto.go.jp/chc/RI/kansai/nara/narakoen_toudaiji/narakoen_toudaiji.html)、梅花鹿公園／免稅店／[心齋橋](http://zh.wikipedia.org/wiki/%E5%BF%83%E9%BD%8B%E6%A9%8B)或[道頓堀](http://zh.wikipedia.org/w/index.php?title=%E9%81%93%E9%A0%93%E5%A0%80&variant=zh-tw)自由購物／夜宿[大阪新阪急](http://www.hankyu-hotel.com/hotels/19osakashh/index_en.html)  
   

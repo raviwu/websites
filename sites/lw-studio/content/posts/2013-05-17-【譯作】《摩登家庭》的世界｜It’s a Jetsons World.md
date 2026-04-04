@@ -3,8 +3,11 @@ title: "【譯作】《摩登家庭》的世界｜It’s a Jetsons World"
 date: 2013-05-17
 tags: [譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/05/its-jetsons-world.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】《摩登家庭》的世界｜It’s a Jetsons World
 
 ![](../images/large_417146338.jpg)
   

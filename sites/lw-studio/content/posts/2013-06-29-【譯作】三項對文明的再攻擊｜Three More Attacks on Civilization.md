@@ -3,8 +3,11 @@ title: "【譯作】三項對文明的再攻擊｜Three More Attacks on Civiliza
 date: 2013-06-29
 tags: [政府, 環保, 譯文, 政策, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/three-more-attacks-on-civilization.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】三項對文明的再攻擊｜Three More Attacks on Civilization
 
 ![](../images/medium_5847780557.jpg)
 文：吳莉瑋  

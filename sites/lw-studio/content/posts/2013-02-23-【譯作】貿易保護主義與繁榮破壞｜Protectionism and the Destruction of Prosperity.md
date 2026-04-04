@@ -3,8 +3,11 @@ title: "【譯作】貿易保護主義與繁榮破壞｜Protectionism and the De
 date: 2013-02-23
 tags: [經濟學, 譯文, 國際經濟, Making Economic Sense, Rothbard]
 original_path: "/2013/04/protectionism-and-destruction-of.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】貿易保護主義與繁榮破壞｜Protectionism and the Destruction of Prosperity
 
 ![](../images/large_5726184922.jpg)
   

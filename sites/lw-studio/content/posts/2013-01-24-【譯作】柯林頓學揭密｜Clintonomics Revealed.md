@@ -3,8 +3,11 @@ title: "【譯作】柯林頓學揭密｜Clintonomics Revealed"
 date: 2013-01-24
 tags: [政府, 財產權, 柯林頓, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard, 憲法]
 original_path: "/2013/02/clintonomics-revealed.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】柯林頓學揭密｜Clintonomics Revealed
 
 ![](../images/medium_7061683485.jpg)
   

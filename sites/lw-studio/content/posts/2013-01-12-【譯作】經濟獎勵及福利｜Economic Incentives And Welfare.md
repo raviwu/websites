@@ -3,8 +3,11 @@ title: "【譯作】經濟獎勵及福利｜Economic Incentives And Welfare"
 date: 2013-01-12
 tags: [福利, 社論, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/01/economic-incentives-and-welfare.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】經濟獎勵及福利｜Economic Incentives And Welfare
 
 ![](../images/medium_4929686023.jpg)
   

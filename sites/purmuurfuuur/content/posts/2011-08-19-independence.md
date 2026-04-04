@@ -3,8 +3,11 @@ title: "independence"
 date: 2011-08-19
 tags: [feeling, thought, record]
 original_path: "/2011/08/independence.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# independence
 
 ![](../images/small__5256244209.jpg)  
 You shall not rely yourself on anyone else.  

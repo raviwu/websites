@@ -3,8 +3,11 @@ title: "【書摘】Thinking as a Science｜Henry Hazlitt"
 date: 2013-07-06
 tags: [書摘, thinking as a science, Hazlitt]
 original_path: "/2013/06/thinking-as-sciencehenry-hazlitt.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【書摘】Thinking as a Science｜Henry Hazlitt
 
 ![](../images/SS344.jpg)
   

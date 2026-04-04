@@ -3,8 +3,11 @@ title: "【譯作】榮耀的戰後世界｜The Glorious Postwar World"
 date: 2013-03-01
 tags: [譯文, 社會主義, Making Economic Sense, Rothbard]
 original_path: "/2013/05/the-glorious-postwar-world.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】榮耀的戰後世界｜The Glorious Postwar World
 
 ![](../images/large_2629125150.jpg)
   

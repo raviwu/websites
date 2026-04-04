@@ -3,8 +3,11 @@ title: "【譯作】美聯儲主席艾倫．格林斯潘：少數派報告｜Ala
 date: 2013-02-21
 tags: [政府, 歷史, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/04/alan-greenspan-minority-report-on-fed.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】美聯儲主席艾倫．格林斯潘：少數派報告｜Alan Greenspan: A Minority Report on the Fed Chairman
 
 ![](../images/medium_94047272.jpg)
   

@@ -3,8 +3,11 @@ title: "【電子書】戰爭集體主義｜War Collectivism"
 date: 2014-05-05
 tags: [電子書, War Collectivism, 集體主義, Rothbard]
 original_path: "/2014/05/war-collectivism.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【電子書】戰爭集體主義｜War Collectivism
 
 ![](../images/cover.jpg)
   

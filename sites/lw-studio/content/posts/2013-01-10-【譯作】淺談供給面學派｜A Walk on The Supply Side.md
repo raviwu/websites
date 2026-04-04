@@ -3,8 +3,11 @@ title: "【譯作】淺談供給面學派｜A Walk on The Supply Side"
 date: 2013-01-10
 tags: [供給面學派, 社論, 經濟學, 譯文, Making Economic Sense, Rothbard, 拉弗曲線]
 original_path: "/2013/01/a-walk-on-supply-side.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】淺談供給面學派｜A Walk on The Supply Side
 
 ![](../images/large_6903821997.jpg)
   

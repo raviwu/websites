@@ -3,8 +3,11 @@ title: "【譯作】價格管制回來了！｜Price Controls Are Back!"
 date: 2013-01-25
 tags: [政府, 柯林頓, 經濟學, 譯文, 政策, Making Economic Sense, 價格管制, Rothbard]
 original_path: "/2013/02/price-controls-are-back.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】價格管制回來了！｜Price Controls Are Back!
 
 ![](../images/medium_6754105655.jpg)
   

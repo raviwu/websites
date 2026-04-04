@@ -3,8 +3,11 @@ title: "【譯作】威士忌暴亂模式：當代適用嗎？｜The Whiskey Reb
 date: 2013-01-27
 tags: [國家, 政府, 稅, 歷史, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/02/the-whiskey-rebellion-model-for-our-time.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】威士忌暴亂模式：當代適用嗎？｜The Whiskey Rebellion: a Model For Our Time?
 
 ![](../images/medium_6459470869.jpg)
   

@@ -3,8 +3,11 @@ title: "【譯作】管用的競爭：全錄25年｜Competition at Work: Xerox a
 date: 2013-01-31
 tags: [政府, 企業, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/03/25competition-at-work-xerox-at-25.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】管用的競爭：全錄25年｜Competition at Work: Xerox at 25
 
 ![](../images/medium_578471662.jpg)
   

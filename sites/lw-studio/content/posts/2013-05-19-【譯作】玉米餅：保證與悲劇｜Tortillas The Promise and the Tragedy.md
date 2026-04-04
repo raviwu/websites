@@ -3,8 +3,11 @@ title: "【譯作】玉米餅：保證與悲劇｜Tortillas: The Promise and the
 date: 2013-05-19
 tags: [譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/09/tortillas-promise-and-tragedy.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】玉米餅：保證與悲劇｜Tortillas: The Promise and the Tragedy
 
 ![](../images/large_6277715205.jpg)
   

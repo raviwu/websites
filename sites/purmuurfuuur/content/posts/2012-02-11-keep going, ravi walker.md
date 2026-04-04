@@ -3,8 +3,11 @@ title: "keep going, ravi walker"
 date: 2012-02-11
 tags: [family, life, murmur, island, ravi]
 original_path: "/2012/02/keep-going-ravi-walker.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# keep going, ravi walker
 
 ![](../images/small_5319264476.jpg)  
 不知道從什麼時候開始，已經不會再特地去想每年的新年新希望，不許願並不代表對生命不熱誠，相反地，目前或許是我活至今日最感到幸福的時刻，因為我徹底地滿足於自己的人生。  

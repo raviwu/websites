@@ -3,8 +3,11 @@ title: "All I expect is nothing."
 date: 2009-04-15
 tags: [life, murmur]
 original_path: "/2009/04/all-i-expect-is-nothing.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# All I expect is nothing.
 
 Like there's no hope anymore in my life since I graduated from school.  
   

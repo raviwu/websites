@@ -3,8 +3,11 @@ title: "【譯作】工會問題｜The Union Problem"
 date: 2013-01-26
 tags: [工會, 勞動力, 經濟學, 譯文, 法律, Making Economic Sense, Rothbard]
 original_path: "/2013/02/the-union-problem.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】工會問題｜The Union Problem
 
 ![](../images/large_5008825981.jpg)
   

@@ -3,8 +3,11 @@ title: "【譯作】認真思考自由｜Getting Serious About Freedom"
 date: 2013-07-19
 tags: [電子書, 自由主義, Bitcoin, 譯文, 貨幣, Jeffrey A. Tucker]
 original_path: "/2013/07/getting-serious-about-freedom.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】認真思考自由｜Getting Serious About Freedom
 
 ![](../images/large__7297820998.jpg)
   

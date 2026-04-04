@@ -3,8 +3,11 @@ title: "【譯作】農業專利的社會主義｜The Socialism of Agri-Patents"
 date: 2013-05-25
 tags: [譯文, 專利, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/09/the-socialism-of-agri-patents.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】農業專利的社會主義｜The Socialism of Agri-Patents
 
 ![](../images/origin_6203045070.jpg)
   

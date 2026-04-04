@@ -3,8 +3,11 @@ title: "【譯作】黑豬與自由企業｜Black Pigs and Free Enterprise"
 date: 2013-06-29
 tags: [政府, 譯文, 企業, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/09/black-pigs-and-free-enterprise.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】黑豬與自由企業｜Black Pigs and Free Enterprise
 
 ![](../images/origin_3525208398.jpg)
 文：吳莉瑋  

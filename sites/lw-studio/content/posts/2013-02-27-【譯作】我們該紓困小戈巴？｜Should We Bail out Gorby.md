@@ -3,8 +3,11 @@ title: "【譯作】我們該紓困小戈巴？｜Should We Bail out Gorby?"
 date: 2013-02-27
 tags: [經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/04/should-we-bail-out-gorby.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】我們該紓困小戈巴？｜Should We Bail out Gorby?
 
 ![](../images/large_665546346.jpg)
   

@@ -3,8 +3,11 @@ title: "【譯作】社會主義的倒塌｜The Collapse of Socialism"
 date: 2013-02-27
 tags: [譯文, 社會主義, Making Economic Sense, Rothbard]
 original_path: "/2013/04/the-collapse-of-socialism.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】社會主義的倒塌｜The Collapse of Socialism
 
 ![](../images/large_1467357780.jpg)
   

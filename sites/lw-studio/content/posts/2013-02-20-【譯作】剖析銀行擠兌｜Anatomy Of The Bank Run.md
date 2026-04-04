@@ -3,8 +3,11 @@ title: "【譯作】剖析銀行擠兌｜Anatomy Of The Bank Run"
 date: 2013-02-20
 tags: [政府, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/04/anatomy-of-bank-run.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】剖析銀行擠兌｜Anatomy Of The Bank Run
 
 ![](../images/origin_3470549842.jpg)
   

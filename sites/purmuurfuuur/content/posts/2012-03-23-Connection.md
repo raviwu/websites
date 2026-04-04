@@ -3,8 +3,11 @@ title: "Connection"
 date: 2012-03-23
 tags: [love, life, murmur, island]
 original_path: "/2012/03/connection.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Connection
 
 ![](../images/small__4979329952.jpg)  
 The more we have been through,  

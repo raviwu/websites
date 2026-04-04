@@ -3,8 +3,11 @@ title: "【譯作】重思80年代｜Rethinking The '80s"
 date: 2013-01-21
 tags: [經濟學, 譯文, 政策, Making Economic Sense, 通貨膨脹, Rothbard]
 original_path: "/2013/01/80rethinking-80s.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】重思80年代｜Rethinking The '80s
 
 ![](../images/large_3002055918.jpg)
   

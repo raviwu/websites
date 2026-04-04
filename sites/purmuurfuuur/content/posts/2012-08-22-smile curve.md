@@ -3,8 +3,11 @@ title: "smile curve"
 date: 2012-08-22
 tags: [love, thought, life]
 original_path: "/2012/08/smile-curve.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# smile curve
 
 ![](../images/20120822-Island.JPG)
   

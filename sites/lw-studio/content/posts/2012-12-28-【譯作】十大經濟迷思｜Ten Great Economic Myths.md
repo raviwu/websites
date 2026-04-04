@@ -3,8 +3,11 @@ title: "【譯作】十大經濟迷思｜Ten Great Economic Myths"
 date: 2012-12-28
 tags: [社論, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2012/12/ten-great-economic-myths.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】十大經濟迷思｜Ten Great Economic Myths
 
 ![](../images/large_2802001013.jpg)
   

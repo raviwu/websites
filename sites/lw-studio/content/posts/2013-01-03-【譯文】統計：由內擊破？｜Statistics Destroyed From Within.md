@@ -3,8 +3,11 @@ title: "【譯文】統計：由內擊破？｜Statistics: Destroyed From Within
 date: 2013-01-03
 tags: [方法論, 統計, 譯文, 經濟理論, Making Economic Sense, Rothbard]
 original_path: "/2013/01/statistics-destroyed-from-within.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯文】統計：由內擊破？｜Statistics: Destroyed From Within?
 
 ![](../images/medium_2925531696.jpg)
   

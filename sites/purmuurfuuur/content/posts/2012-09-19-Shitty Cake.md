@@ -3,8 +3,11 @@ title: "Shitty Cake"
 date: 2012-09-19
 tags: [food, island, life]
 original_path: "/2012/09/shitty-cake.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Shitty Cake
 
 ![](../images/20120919-bao.JPG)
   

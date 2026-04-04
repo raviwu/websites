@@ -3,8 +3,11 @@ title: "【譯作】正在前進的人類｜The People on the Move"
 date: 2013-05-18
 tags: [譯文, 歷史, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/08/the-people-on-move.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】正在前進的人類｜The People on the Move
 
 ![](../images/origin_5714935459.jpg)
   

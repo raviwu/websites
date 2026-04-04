@@ -3,8 +3,11 @@ title: "【譯作】斐洛、憲法與直接民主｜Perot, The Constitution, An
 date: 2013-01-23
 tags: [選舉, 民主, 經濟學, 譯文, 政策, 法律, Making Economic Sense, Rothbard, 憲法]
 original_path: "/2013/02/perot-constitution-and-direct-democracy.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】斐洛、憲法與直接民主｜Perot, The Constitution, And Direct Democracy
 
 ![](../images/medium_291687660.jpg)
   

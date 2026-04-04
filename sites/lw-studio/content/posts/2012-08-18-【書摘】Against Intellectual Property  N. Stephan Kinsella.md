@@ -3,8 +3,11 @@ title: "【書摘】Against Intellectual Property | N. Stephan Kinsella"
 date: 2012-08-18
 tags: [專利, 反思, 書摘, 自由主義, 財產權]
 original_path: "/2012/04/against-intellectual-property-n-stephan.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【書摘】Against Intellectual Property | N. Stephan Kinsella
 
 ![](../images/SS362.jpg)
   

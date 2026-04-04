@@ -3,8 +3,11 @@ title: "【譯作】巴比特與稅：勇氣的展現？｜Babbitry And Taxes: A
 date: 2013-02-04
 tags: [政府, 經濟學, 譯文, 政策, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/babbitry-and-taxes-profile-in-courage.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】巴比特與稅：勇氣的展現？｜Babbitry And Taxes: A Profile in Courage?
 
 ![](../images/medium_4835000527.jpg)
   

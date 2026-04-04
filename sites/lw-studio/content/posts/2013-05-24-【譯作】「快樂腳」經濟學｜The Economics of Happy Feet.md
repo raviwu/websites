@@ -3,8 +3,11 @@ title: "【譯作】「快樂腳」經濟學｜The Economics of Happy Feet"
 date: 2013-05-24
 tags: [市場, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/11/the-economics-of-happy-feet.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】「快樂腳」經濟學｜The Economics of Happy Feet
 
 ![](../images/large_124848972.jpg)
   

@@ -3,8 +3,11 @@ title: "【譯作】政府的反文明效應｜The Decivilizing Effects of Gover
 date: 2013-06-29
 tags: [政府, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/08/the-decivilizing-effects-of-government.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】政府的反文明效應｜The Decivilizing Effects of Government
 
 ![](../images/large_3826214063.jpg)
 文：吳莉瑋  

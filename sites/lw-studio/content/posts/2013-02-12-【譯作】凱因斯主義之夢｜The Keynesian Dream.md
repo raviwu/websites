@@ -3,8 +3,11 @@ title: "【譯作】凱因斯主義之夢｜The Keynesian Dream"
 date: 2013-02-12
 tags: [經濟學, 譯文, 貨幣, Making Economic Sense, 凱因斯, 金融, Rothbard]
 original_path: "/2013/03/the-keynesian-dream.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】凱因斯主義之夢｜The Keynesian Dream
 
 ![](../images/origin_2966580560.jpg)
   

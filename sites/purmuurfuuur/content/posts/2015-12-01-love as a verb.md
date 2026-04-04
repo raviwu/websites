@@ -3,8 +3,11 @@ title: "love as a verb"
 date: 2015-12-01
 tags: [love, island, life]
 original_path: "/2015/12/love-as-verb.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# love as a verb
 
 |  |
 | --- |

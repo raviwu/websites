@@ -3,8 +3,11 @@ title: "【譯作】稅收抵免與補貼｜Deductibility And Subsidy"
 date: 2013-02-01
 tags: [政府, 經濟學, 譯文, 政策, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/deductibility-and-subsidy.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】稅收抵免與補貼｜Deductibility And Subsidy
 
 ![](../images/large_5457170804.jpg)
   

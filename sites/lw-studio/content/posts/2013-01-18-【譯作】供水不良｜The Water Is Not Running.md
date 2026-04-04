@@ -3,8 +3,11 @@ title: "【譯作】供水不良｜The Water Is Not Running"
 date: 2013-01-18
 tags: [國營企業, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-water-is-not-running.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】供水不良｜The Water Is Not Running
 
 ![](../images/medium_2738194122.jpg)
   

@@ -3,8 +3,11 @@ title: "【譯作】人口控制｜Population \"Control\""
 date: 2013-01-26
 tags: [人口, 政府, 貧窮, 經濟學, 謬誤, 譯文, 政策, Making Economic Sense, 聯合國, Rothbard]
 original_path: "/2013/02/population-control.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】人口控制｜Population "Control"
 
 ![](../images/medium_259688790.jpg)
   

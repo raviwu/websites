@@ -3,8 +3,11 @@ title: "【譯作】和平抵抗｜The Peaceful Resistance"
 date: 2013-05-18
 tags: [世界觀, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/11/the-peaceful-resistance.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】和平抵抗｜The Peaceful Resistance
 
 ![](../images/large_5571593357.jpg)
   

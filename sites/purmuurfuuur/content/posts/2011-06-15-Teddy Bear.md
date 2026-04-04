@@ -3,8 +3,11 @@ title: "Teddy Bear"
 date: 2011-06-15
 tags: [love, music, island]
 original_path: "/2011/06/teddy-bear.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Teddy Bear
 
 ![](../images/small__145269891.jpg)  
 Elvis Presley - Teddy Bear  

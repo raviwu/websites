@@ -3,8 +3,11 @@ title: "【譯作】私有化｜Privatization"
 date: 2013-01-26
 tags: [政府, 經濟學, 譯文, 法律, 私有化, Making Economic Sense, Rothbard]
 original_path: "/2013/02/privatization.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】私有化｜Privatization
 
 ![](../images/large_5187642951.jpg)
   

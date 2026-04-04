@@ -3,8 +3,11 @@ title: "【譯作】「快速修復」的問題｜the Trouble with the Quick Fix
 date: 2013-03-05
 tags: [政府, 稅, 譯文, 社會主義, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/05/the-trouble-with-quick-fix.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】「快速修復」的問題｜the Trouble with the Quick Fix
 
 ![](../images/large_3361217777.jpg)
   

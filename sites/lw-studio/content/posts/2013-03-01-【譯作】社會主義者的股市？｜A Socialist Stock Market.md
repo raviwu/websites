@@ -3,8 +3,11 @@ title: "【譯作】社會主義者的股市？｜A Socialist Stock Market?"
 date: 2013-03-01
 tags: [譯文, 社會主義, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/05/a-socialist-stock-market.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】社會主義者的股市？｜A Socialist Stock Market?
 
 ![](../images/origin_2822678678.jpg)
   

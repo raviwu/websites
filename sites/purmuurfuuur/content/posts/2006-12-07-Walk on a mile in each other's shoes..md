@@ -3,8 +3,11 @@ title: "Walk on a mile in each other's shoes."
 date: 2006-12-07
 tags: [murmur, ravi]
 original_path: "/2006/01/walk-on-mile-in-each-others-shoes.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Walk on a mile in each other's shoes.
 
 設身處地 常常 就這麼因為情緒  
   

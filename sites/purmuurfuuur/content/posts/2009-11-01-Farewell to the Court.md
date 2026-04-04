@@ -3,8 +3,11 @@ title: "Farewell to the Court"
 date: 2009-11-01
 tags: [literature, poem]
 original_path: "/2009/11/farewell-to-court.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Farewell to the Court
 
 Like truthless dreams, so are my joys expir'd,  
 And past return are all my dandled days;  

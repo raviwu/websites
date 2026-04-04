@@ -3,8 +3,11 @@ title: "Thàu-chá ê gû-bah-thng 透早的牛肉湯"
 date: 2021-11-11
 tags: [tainan, island, food]
 original_path: "/2021/11/thau-cha-e-gu-bah-thng.html"
+draft: false
 blog: "PurMuurFuuur"
 ---
+
+# Thàu-chá ê gû-bah-thng 透早的牛肉湯
 
 ![](../images/C1737D12-A558-4D01-A1FB-69348B296A4D.jpeg)  
 ![](../images/163E8D43-C8B5-4742-934E-9EF7CD37E500.jpeg)  

@@ -3,8 +3,11 @@ title: "【書摘】人的行為 Human Action | 夏道平 譯 Ludwig von Mises �
 date: 2012-08-21
 tags: [方法論, Mises, 書摘, 自由主義, Human Action]
 original_path: "/2012/09/human-action-ludwig-von-mises.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【書摘】人的行為 Human Action | 夏道平 譯 Ludwig von Mises 著
 
 ![](../images/medium_1069893367.jpg)
   

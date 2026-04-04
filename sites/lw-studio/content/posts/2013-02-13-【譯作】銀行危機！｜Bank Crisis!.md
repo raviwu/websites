@@ -3,8 +3,11 @@ title: "【譯作】銀行危機！｜Bank Crisis!"
 date: 2013-02-13
 tags: [通貨緊縮, 保險, 經濟學, 譯文, Making Economic Sense, 通貨膨脹, 金融, Rothbard]
 original_path: "/2013/03/bank-crisis.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】銀行危機！｜Bank Crisis!
 
 ![](../images/large_3408855512.jpg)
   

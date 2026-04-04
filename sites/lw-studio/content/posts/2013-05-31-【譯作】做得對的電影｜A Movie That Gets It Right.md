@@ -3,8 +3,11 @@ title: "【譯作】做得對的電影｜A Movie That Gets It Right"
 date: 2013-05-31
 tags: [譯文, 智慧財產權, It’s a Jetsons World, Jeffrey A. Tucker, 財產權]
 original_path: "/2013/08/a-movie-that-gets-it-right.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】做得對的電影｜A Movie That Gets It Right
 
 ![](../images/origin_7496669132.jpg)
   

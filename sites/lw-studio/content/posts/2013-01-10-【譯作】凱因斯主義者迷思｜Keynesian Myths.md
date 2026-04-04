@@ -3,8 +3,11 @@ title: "【譯作】凱因斯主義者迷思｜Keynesian Myths"
 date: 2013-01-10
 tags: [失業, 經濟學, 譯文, Making Economic Sense, 通貨膨脹, 凱因斯, Rothbard]
 original_path: "/2013/01/keynesian-myths.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】凱因斯主義者迷思｜Keynesian Myths
 
 ![](../images/large_2472230611.jpg)
   

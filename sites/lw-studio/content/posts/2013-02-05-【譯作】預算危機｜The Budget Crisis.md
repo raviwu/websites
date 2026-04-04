@@ -3,8 +3,11 @@ title: "【譯作】預算危機｜The Budget Crisis"
 date: 2013-02-05
 tags: [政府, 赤字, 經濟學, 譯文, 政策, 社會實驗, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/the-budget-crisis.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】預算危機｜The Budget Crisis
 
 ![](../images/large_3573510369.jpg)
   

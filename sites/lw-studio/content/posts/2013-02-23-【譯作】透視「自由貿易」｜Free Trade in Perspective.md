@@ -3,8 +3,11 @@ title: "【譯作】透視「自由貿易」｜\"Free Trade\" in Perspective"
 date: 2013-02-23
 tags: [政府, 經濟學, 譯文, 國際經濟, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/04/free-trade-in-perspective.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】透視「自由貿易」｜"Free Trade" in Perspective
 
 ![](../images/medium_4495968987.jpg)
   

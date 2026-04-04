@@ -3,8 +3,11 @@ title: "【譯作】社會保險詐欺｜The Social Security Swindle"
 date: 2013-01-12
 tags: [政府, 福利, 社論, 社會保險, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-social-security-swindle.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】社會保險詐欺｜The Social Security Swindle
 
 ![](../images/large_5747629074.jpg)
   

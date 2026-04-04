@@ -3,8 +3,11 @@ title: "【譯作】讚美旅遊陷阱｜In Praise of the Tourist Trap"
 date: 2013-05-19
 tags: [市場, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/in-praise-of-tourist-trap.html"
+draft: false
 blog: "LW Studio"
 ---
+
+# 【譯作】讚美旅遊陷阱｜In Praise of the Tourist Trap
 
 ![](../images/large_5096795445.jpg)
   
