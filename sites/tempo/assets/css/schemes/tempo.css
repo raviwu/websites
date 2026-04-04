@@ -1,15 +1,16 @@
+/* Light mode: warm cream background, #595959 text, #ffab40 accent */
 :root {
-  --color-neutral: 250, 248, 246;
-  --color-neutral-50: 250, 248, 246;
-  --color-neutral-100: 235, 231, 227;
-  --color-neutral-200: 209, 204, 199;
-  --color-neutral-300: 176, 171, 166;
-  --color-neutral-400: 140, 135, 130;
+  --color-neutral: 255, 252, 247;
+  --color-neutral-50: 255, 252, 247;
+  --color-neutral-100: 245, 240, 232;
+  --color-neutral-200: 230, 223, 213;
+  --color-neutral-300: 200, 193, 183;
+  --color-neutral-400: 150, 144, 138;
   --color-neutral-500: 89, 89, 89;
   --color-neutral-600: 72, 72, 72;
   --color-neutral-700: 56, 56, 56;
-  --color-neutral-800: 38, 38, 38;
-  --color-neutral-900: 20, 20, 20;
+  --color-neutral-800: 40, 40, 40;
+  --color-neutral-900: 25, 25, 25;
   --color-primary-50: 255, 251, 245;
   --color-primary-100: 255, 240, 214;
   --color-primary-200: 255, 224, 173;
@@ -30,4 +31,39 @@
   --color-secondary-700: 135, 62, 13;
   --color-secondary-800: 94, 41, 5;
   --color-secondary-900: 54, 22, 0;
+}
+
+/* Dark mode: #595959 warm gray background, light text, #ffab40 accent */
+.dark {
+  --color-neutral: 25, 25, 25;
+  --color-neutral-50: 25, 25, 25;
+  --color-neutral-100: 40, 40, 40;
+  --color-neutral-200: 56, 56, 56;
+  --color-neutral-300: 72, 72, 72;
+  --color-neutral-400: 89, 89, 89;
+  --color-neutral-500: 150, 144, 138;
+  --color-neutral-600: 200, 193, 183;
+  --color-neutral-700: 230, 223, 213;
+  --color-neutral-800: 245, 240, 232;
+  --color-neutral-900: 255, 252, 247;
+  --color-primary-50: 92, 52, 0;
+  --color-primary-100: 140, 82, 8;
+  --color-primary-200: 189, 114, 20;
+  --color-primary-300: 230, 145, 40;
+  --color-primary-400: 255, 171, 64;
+  --color-primary-500: 255, 181, 77;
+  --color-primary-600: 255, 200, 117;
+  --color-primary-700: 255, 224, 173;
+  --color-primary-800: 255, 240, 214;
+  --color-primary-900: 255, 251, 245;
+  --color-secondary-50: 54, 22, 0;
+  --color-secondary-100: 94, 41, 5;
+  --color-secondary-200: 135, 62, 13;
+  --color-secondary-300: 176, 84, 24;
+  --color-secondary-400: 214, 107, 37;
+  --color-secondary-500: 245, 135, 66;
+  --color-secondary-600: 255, 170, 115;
+  --color-secondary-700: 255, 204, 170;
+  --color-secondary-800: 255, 234, 217;
+  --color-secondary-900: 255, 249, 245;
 }
