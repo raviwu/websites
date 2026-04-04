@@ -20,6 +20,7 @@ disableLanguages = ["en"]
   defaultAppearance = "light"
   autoSwitchAppearance = true
   enableSearch = false
+  favicon = "favicon.svg"
   showLanguageSwitcher = false
   mainSections = ["posts"]
 

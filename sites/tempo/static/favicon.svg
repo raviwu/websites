@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="55" r="40" fill="#ffab40"/>
+  <!-- Cat ears -->
+  <polygon points="18,35 30,10 42,35" fill="#595959"/>
+  <polygon points="58,35 70,10 82,35" fill="#595959"/>
+  <!-- Inner ears -->
+  <polygon points="24,33 30,16 36,33" fill="#ffab40"/>
+  <polygon points="64,33 70,16 76,33" fill="#ffab40"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="32" fill="#595959"/>
+  <!-- Eyes -->
+  <ellipse cx="38" cy="48" rx="6" ry="7" fill="#ffab40"/>
+  <ellipse cx="62" cy="48" rx="6" ry="7" fill="#ffab40"/>
+  <ellipse cx="38" cy="48" rx="3" ry="5" fill="#2d2d2d"/>
+  <ellipse cx="62" cy="48" rx="3" ry="5" fill="#2d2d2d"/>
+  <!-- Nose -->
+  <polygon points="47,58 53,58 50,62" fill="#ffab40"/>
+  <!-- Mouth -->
+  <path d="M44,64 Q47,68 50,64 Q53,68 56,64" fill="none" stroke="#ffab40" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="12" y1="54" x2="34" y2="56" stroke="#ffab40" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="12" y1="60" x2="34" y2="60" stroke="#ffab40" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="66" y1="56" x2="88" y2="54" stroke="#ffab40" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="66" y1="60" x2="88" y2="60" stroke="#ffab40" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
