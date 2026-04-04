@@ -6,7 +6,7 @@ Hugo-based monorepo hosting 4 personal blogs, deployed via Cloudflare Pages.
 
 | Site | Directory | URL | Theme | Description |
 |------|-----------|-----|-------|-------------|
-| Tempo | `sites/tempo/` | https://tempo.pages.dev | Blowfish | 天頗的故事 — 貓咪圖文 (2012–2013) |
+| Tempo | `sites/tempo/` | https://tempo-3z6.pages.dev | Blowfish | 天頗的故事 — 貓咪圖文 (2012–2013) |
 | LW Studio | `sites/lw-studio/` | https://lw-studio.pages.dev | Stack | 經濟學、哲學、翻譯 (2013–2024) |
 | Draft Zero | `sites/draft-zero/` | https://draft-zero.pages.dev | Stack | 人生的初稿 (2006–2009) |
 | PurMuurFuuur | `sites/purmuurfuuur/` | https://purmuurfuuur.pages.dev | Stack | 生活記事 (2010–2026) |
