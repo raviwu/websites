@@ -16,7 +16,8 @@ paginate = 20
 
   [params.sidebar]
     emoji = ""
-    subtitle = "人生的初稿"
+    subtitle = "2006–2009"
+    compact = true
 
     [params.sidebar.avatar]
       enabled = false
@@ -33,12 +34,10 @@ paginate = 20
     type = "search"
   [[params.widgets.homepage]]
     type = "archives"
-  [[params.widgets.homepage]]
-    type = "tag-cloud"
 
   [params.colorScheme]
     toggle = true
-    default = "dark"
+    default = "light"
 
 [taxonomies]
   tag = "tags"
