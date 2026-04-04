@@ -3,7 +3,8 @@ languageCode = "zh-tw"
 defaultContentLanguage = "zh-tw"
 title = "PurMuurFuuur"
 hasCJKLanguage = true
-paginate = 20
+[pagination]
+  pagerSize = 12
 
 [module]
   [[module.imports]]
@@ -33,10 +34,6 @@ paginate = 20
     type = "search"
   [[params.widgets.homepage]]
     type = "archives"
-  [[params.widgets.homepage]]
-    type = "tag-cloud"
-  [[params.widgets.page]]
-    type = "toc"
 
   [params.colorScheme]
     toggle = true
@@ -53,15 +50,10 @@ paginate = 20
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "archives"
-    name = "歸檔"
-    url = "/archives/"
+    identifier = "tags"
+    name = "標籤"
+    url = "/tags/"
     weight = 2
-  [[menu.main]]
-    identifier = "search"
-    name = "搜尋"
-    url = "/search/"
-    weight = 3
 
 [markup]
   [markup.goldmark]

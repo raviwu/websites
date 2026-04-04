@@ -1,15 +1,85 @@
-:root {
-  --accent-color: #e07c4f;
-  --accent-color-darker: #c4663a;
-  --accent-color-text: #fff;
-  --body-background: #fdf6f0;
-  --card-background: #fff;
+/* PurMuurFuuur: warm, positive, sunny — golden sunlight accent */
+
+/* Grid layout for homepage — 3 columns on desktop, 2 on tablet, 1 on mobile */
+.article-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+
+    @media (max-width: 1024px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (max-width: 600px) {
+        grid-template-columns: 1fr;
+    }
+
+    article {
+        margin: 0 !important;
+    }
 }
 
-[data-scheme="dark"] {
-  --accent-color: #e07c4f;
-  --accent-color-darker: #f09070;
-  --accent-color-text: #fff;
-  --body-background: #1a1210;
-  --card-background: #2a2018;
+/* Make article cards fill the grid cell */
+.article-list .article-list--tile,
+.article-list > article {
+    width: 100%;
+}
+
+/* Compact the article image for grid cards */
+.article-list article .article-image {
+    max-height: 180px;
+    overflow: hidden;
+
+    img {
+        width: 100%;
+        height: 180px;
+        object-fit: cover;
+    }
+}
+
+:root {
+    /* Light mode — warm cream with sunny golden accent */
+    --body-background: #fef9f2;
+    --accent-color: #f5a623;
+    --accent-color-darker: #d4891a;
+    --accent-color-text: #fff;
+    --body-text-color: #5a4e42;
+
+    --card-background: #fffbf5;
+    --card-background-selected: #fff3dc;
+    --card-text-color-main: #3d3429;
+    --card-text-color-secondary: #6b5d4f;
+    --card-text-color-tertiary: #9a8b7a;
+    --card-separator-color: rgba(245, 166, 35, 0.15);
+
+    --link-background-color: 245, 166, 35;
+    --link-background-opacity: 0.2;
+    --link-background-opacity-hover: 0.4;
+
+    --scrollbar-thumb: #e0cdb5;
+    --scrollbar-track: var(--body-background);
+
+    /* Soft warm shadows */
+    --shadow-l1: 0px 2px 6px rgba(90, 60, 20, 0.06), 0px 0px 1px rgba(90, 60, 20, 0.04);
+    --shadow-l2: 0px 6px 12px rgba(90, 60, 20, 0.06), 0px 1px 4px rgba(90, 60, 20, 0.04);
+
+    &[data-scheme="dark"] {
+        --body-background: #2a2318;
+        --accent-color: #f5b940;
+        --accent-color-darker: #fcd06a;
+        --accent-color-text: #2a2318;
+        --body-text-color: rgba(255, 248, 235, 0.88);
+
+        --card-background: #383022;
+        --card-background-selected: rgba(245, 185, 64, 0.15);
+        --card-text-color-main: rgba(255, 248, 235, 0.92);
+        --card-text-color-secondary: rgba(255, 248, 235, 0.7);
+        --card-text-color-tertiary: rgba(255, 248, 235, 0.5);
+        --card-separator-color: rgba(255, 248, 235, 0.1);
+
+        --scrollbar-thumb: hsl(35, 20%, 32%);
+        --scrollbar-track: var(--body-background);
+
+        --blockquote-background-color: rgb(50, 42, 30);
+    }
 }
