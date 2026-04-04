@@ -11,7 +11,7 @@ paginate = 20
 
 [params]
   mainSections = ["posts"]
-  favicon = ""
+  favicon = "favicon.ico"
   description = "經濟學、哲學、翻譯"
 
   [params.sidebar]
