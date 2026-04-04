@@ -2,6 +2,7 @@ baseURL = "https://tempo.pages.dev/"
 languageCode = "zh-tw"
 defaultContentLanguage = "zh-tw"
 title = "天頗的故事"
+paginate = 100
 
 [module]
   [[module.imports]]
