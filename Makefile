@@ -1,16 +1,19 @@
-.PHONY: sync serve-tempo serve-lw serve-pur build-tempo build-lw build-pur build-all
+.PHONY: sync serve-tempo serve-lw serve-pur serve-dz build-tempo build-lw build-pur build-dz build-all
 
 sync:
 	./scripts/sync-content.sh
 
 serve-tempo:
-	cd sites/tempo && hugo server -p 1313
+	cd sites/tempo && hugo server -D -p 1313
 
 serve-lw:
-	cd sites/lw-studio && hugo server -p 1314
+	cd sites/lw-studio && hugo server -D -p 1314
 
 serve-pur:
-	cd sites/purmuurfuuur && hugo server -p 1315
+	cd sites/purmuurfuuur && hugo server -D -p 1315
+
+serve-dz:
+	cd sites/draft-zero && hugo server -D -p 1316
 
 build-tempo:
 	cd sites/tempo && hugo --minify
@@ -21,4 +24,7 @@ build-lw:
 build-pur:
 	cd sites/purmuurfuuur && hugo --minify
 
-build-all: build-tempo build-lw build-pur
+build-dz:
+	cd sites/draft-zero && hugo --minify
+
+build-all: build-tempo build-lw build-pur build-dz
