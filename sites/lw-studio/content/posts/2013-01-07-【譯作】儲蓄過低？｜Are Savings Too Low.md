@@ -3,6 +3,7 @@ title: "【譯作】儲蓄過低？｜Are Savings Too Low?"
 date: 2013-01-07
 tags: [社論, 儲蓄, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/01/are-savings-too-low.html"
+image: "/images/large_2638883650.jpg"
 draft: false
 blog: "LW Studio"
 ---

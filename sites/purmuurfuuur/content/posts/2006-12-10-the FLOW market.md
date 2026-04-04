@@ -3,6 +3,7 @@ title: "the FLOW market"
 date: 2006-12-10
 tags: [life, murmur]
 original_path: "/2006/12/flow-market.html"
+image: "/images/meaningfullness.JPG"
 draft: false
 blog: "PurMuurFuuur"
 ---

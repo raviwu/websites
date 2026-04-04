@@ -3,6 +3,7 @@ title: "【譯作】政府與企業的「夥伴關係」｜Government-Business \
 date: 2013-01-30
 tags: [政府, 歷史, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/02/government-business-partnerships.html"
+image: "/images/large_2034624215.jpg"
 draft: false
 blog: "LW Studio"
 ---

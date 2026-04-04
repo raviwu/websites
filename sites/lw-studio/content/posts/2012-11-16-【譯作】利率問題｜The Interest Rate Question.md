@@ -3,6 +3,7 @@ title: "【譯作】利率問題｜The Interest Rate Question"
 date: 2012-11-16
 tags: [利率, 社論, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-interest-rate-question.html"
+image: "/images/medium_2276783536.jpg"
 draft: false
 blog: "LW Studio"
 ---

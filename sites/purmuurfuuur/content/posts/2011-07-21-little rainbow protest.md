@@ -3,6 +3,7 @@ title: "little rainbow protest"
 date: 2011-07-21
 tags: [love, life, ravi]
 original_path: "/2011/07/little-rainbow-protest.html"
+image: "/images/small_1962531341.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

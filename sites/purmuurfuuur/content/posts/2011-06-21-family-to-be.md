@@ -3,6 +3,7 @@ title: "family-to-be"
 date: 2011-06-21
 tags: [love, family, life, island]
 original_path: "/2011/06/family-to-be.html"
+image: "/images/family.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

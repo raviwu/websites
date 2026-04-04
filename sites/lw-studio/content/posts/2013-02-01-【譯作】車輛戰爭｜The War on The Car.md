@@ -3,6 +3,7 @@ title: "【譯作】車輛戰爭｜The War on The Car"
 date: 2013-02-01
 tags: [政府, 柯林頓, 經濟學, 譯文, 管制, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/03/the-war-on-car.html"
+image: "/images/large_3411775886.jpg"
 draft: false
 blog: "LW Studio"
 ---

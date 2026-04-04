@@ -3,6 +3,7 @@ title: "【譯作】老布希與經濟衰退｜Bush and the Recession"
 date: 2013-02-06
 tags: [政府, 商業周期, 經濟學, 譯文, 政策, Making Economic Sense, 通貨膨脹, 凱因斯, Rothbard]
 original_path: "/2013/03/bush-and-recession.html"
+image: "/images/large_432371655.jpg"
 draft: false
 blog: "LW Studio"
 ---

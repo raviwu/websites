@@ -3,6 +3,7 @@ title: "Coffee Break"
 date: 2014-02-22
 tags: [life, murmur, island]
 original_path: "/2014/02/coffee-break.html"
+image: "/images/_MG_5026.JPG"
 draft: false
 blog: "PurMuurFuuur"
 ---

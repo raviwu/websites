@@ -3,6 +3,7 @@ title: "【譯作】遊民與飢餓｜The Homeless And The Hungry"
 date: 2013-01-12
 tags: [社會福利, 社論, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-homeless-and-hungry.html"
+image: "/images/large_5930923306.jpg"
 draft: false
 blog: "LW Studio"
 ---

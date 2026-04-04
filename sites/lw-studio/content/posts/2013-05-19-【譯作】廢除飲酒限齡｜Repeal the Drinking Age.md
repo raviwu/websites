@@ -3,6 +3,7 @@ title: "【譯作】廢除飲酒限齡｜Repeal the Drinking Age"
 date: 2013-05-19
 tags: [譯文, 法律, 歷史, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/repeal-drinking-age.html"
+image: "/images/large_5334631000.jpg"
 draft: false
 blog: "LW Studio"
 ---

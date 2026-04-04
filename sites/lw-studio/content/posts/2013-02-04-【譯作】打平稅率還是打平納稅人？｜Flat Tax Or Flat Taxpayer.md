@@ -3,6 +3,7 @@ title: "【譯作】打平稅率還是打平納稅人？｜Flat Tax Or Flat Taxp
 date: 2013-02-04
 tags: [政府, 經濟學, 譯文, 政策, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/flat-tax-or-flat-taxpayer.html"
+image: "/images/large_1414298385.jpg"
 draft: false
 blog: "LW Studio"
 ---

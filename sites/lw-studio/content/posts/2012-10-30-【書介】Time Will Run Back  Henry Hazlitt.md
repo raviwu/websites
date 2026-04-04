@@ -3,6 +3,7 @@ title: "【書介】Time Will Run Back | Henry Hazlitt"
 date: 2012-10-30
 tags: [經濟學, 書摘, 簡介, 自由主義, Hazlitt]
 original_path: "/2012/11/time-will-run-back-henry-hazlitt.html"
+image: "/images/SS154.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】機場擁塞：市場失靈的案例？｜Airport Congestion
 date: 2013-01-30
 tags: [政府, 企業, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/02/airport-congestion-case-of-market.html"
+image: "/images/large_4045813826.jpg"
 draft: false
 blog: "LW Studio"
 ---

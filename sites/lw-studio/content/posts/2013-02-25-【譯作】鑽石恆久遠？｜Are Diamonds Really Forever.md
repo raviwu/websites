@@ -3,6 +3,7 @@ title: "【譯作】鑽石恆久遠？｜Are Diamonds Really Forever?"
 date: 2013-02-25
 tags: [經濟學, 譯文, 國際經濟, Making Economic Sense, Rothbard]
 original_path: "/2013/04/are-diamonds-really-forever.html"
+image: "/images/large_2420282979.jpg"
 draft: false
 blog: "LW Studio"
 ---

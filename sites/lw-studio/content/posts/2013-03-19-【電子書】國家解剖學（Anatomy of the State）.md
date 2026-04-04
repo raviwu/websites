@@ -3,6 +3,7 @@ title: "【電子書】國家解剖學（Anatomy of the State）"
 date: 2013-03-19
 tags: [Anatomy of the State, 電子書, 國家, 政府, Rothbard]
 original_path: "/2013/03/anatomy-of-state.html"
+image: "/images/cover.jpg"
 draft: false
 blog: "LW Studio"
 ---

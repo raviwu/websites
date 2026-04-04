@@ -3,6 +3,7 @@ title: "【譯作】橄欖、國家與規則歧義｜The Olive Bar, the State, a
 date: 2013-05-19
 tags: [國家, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/the-olive-bar-state-and-rule-ambiguity.html"
+image: "/images/origin_4718078921.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "1/3 life for work"
 date: 2011-09-22
 tags: [love, work, life, island]
 original_path: "/2011/09/13-life-for-work.html"
+image: "/images/small_322654818.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

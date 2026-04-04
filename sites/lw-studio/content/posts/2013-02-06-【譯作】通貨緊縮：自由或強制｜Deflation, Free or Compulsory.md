@@ -3,6 +3,7 @@ title: "【譯作】通貨緊縮：自由或強制｜Deflation, Free or Compulso
 date: 2013-02-06
 tags: [政府, 通貨緊縮, 歷史, 商業周期, 經濟學, 譯文, 政策, Making Economic Sense, 通貨膨脹, Rothbard]
 original_path: "/2013/03/deflation-free-or-compulsory.html"
+image: "/images/large_2394977585.jpg"
 draft: false
 blog: "LW Studio"
 ---

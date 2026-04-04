@@ -3,6 +3,7 @@ title: "【譯作】關於股災的九大迷思｜Nine Myths About The Crash"
 date: 2013-01-29
 tags: [經濟學, 譯文, 貨幣, Making Economic Sense, 股市, 金融, Rothbard, 政府, 利率, 儲蓄, 市場, 政策, 凱因斯, 通貨膨脹]
 original_path: "/2013/02/nine-myths-about-crash.html"
+image: "/images/origin_2208089890.jpg"
 draft: false
 blog: "LW Studio"
 ---

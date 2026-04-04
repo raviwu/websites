@@ -3,6 +3,7 @@ title: "【譯作】Ludwig von Mises簡傳（1881－1973）｜Ludwig von Mises: 
 date: 2013-03-11
 tags: [譯文, Mises, Making Economic Sense, 傳記, Rothbard]
 original_path: "/2013/05/ludwig-von-mises18811973ludwig-von.html"
+image: "/images/large_5601698824.jpg"
 draft: false
 blog: "LW Studio"
 ---

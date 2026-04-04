@@ -3,6 +3,7 @@ title: "【譯作】偏好自由企業是不是就意味著偏好「企業」？
 date: 2013-06-29
 tags: [政府, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/does-favoring-free-enterprise-mean.html"
+image: "/images/large_2387638792.jpg"
 draft: false
 blog: "LW Studio"
 ---

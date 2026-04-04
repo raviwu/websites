@@ -3,6 +3,7 @@ title: "【譯作】工作到底好在哪？｜What’s a Job Good For?"
 date: 2013-05-24
 tags: [譯文, 工作, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/10/whats-job-good-for.html"
+image: "/images/origin_277341190.jpg"
 draft: false
 blog: "LW Studio"
 ---

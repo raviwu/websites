@@ -3,6 +3,7 @@ title: "【譯作】通貨膨脹與蒙古大夫｜Inflation And The Spin Doctors
 date: 2013-02-21
 tags: [政府, 經濟學, 譯文, 貨幣, Making Economic Sense, 通貨膨脹, 金融, Rothbard]
 original_path: "/2013/04/inflation-and-spin-doctors.html"
+image: "/images/large_384689236.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】保險業危機的根源｜Roots of The Insurance Crisis"
 date: 2013-01-13
 tags: [保險, 社論, 經濟學, 譯文, 法律, Making Economic Sense, Rothbard, 企業家]
 original_path: "/2013/01/roots-of-insurance-crisis.html"
+image: "/images/large_2959833537.jpg"
 draft: false
 blog: "LW Studio"
 ---

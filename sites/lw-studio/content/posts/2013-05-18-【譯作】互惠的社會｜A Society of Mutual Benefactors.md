@@ -3,6 +3,7 @@ title: "【譯作】互惠的社會｜A Society of Mutual Benefactors"
 date: 2013-05-18
 tags: [市場, 譯文, 社會秩序, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/a-society-of-mutual-benefactors.html"
+image: "/images/large_2517036416.jpg"
 draft: false
 blog: "LW Studio"
 ---

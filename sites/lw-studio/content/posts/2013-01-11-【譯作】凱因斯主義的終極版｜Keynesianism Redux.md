@@ -3,6 +3,7 @@ title: "【譯作】凱因斯主義的終極版｜Keynesianism Redux"
 date: 2013-01-11
 tags: [失業, 經濟學, 譯文, Making Economic Sense, 通貨膨脹, 凱因斯, Rothbard]
 original_path: "/2013/01/keynesianism-redux.html"
+image: "/images/medium_8194471406.jpg"
 draft: false
 blog: "LW Studio"
 ---

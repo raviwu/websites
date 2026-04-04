@@ -3,6 +3,7 @@ title: "【譯作】11月革命…該做什麼？｜The November Revolution ... 
 date: 2013-03-13
 tags: [譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/07/11the-november-revolution-and-what-to.html"
+image: "/images/large_5086164267.jpg"
 draft: false
 blog: "LW Studio"
 ---

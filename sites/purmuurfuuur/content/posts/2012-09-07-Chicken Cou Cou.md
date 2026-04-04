@@ -3,6 +3,7 @@ title: "Chicken Cou Cou"
 date: 2012-09-07
 tags: [thought, life, murmur, island, animation]
 original_path: "/2012/09/chicken-cou-cou.html"
+image: "/images/medium_3846080374.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

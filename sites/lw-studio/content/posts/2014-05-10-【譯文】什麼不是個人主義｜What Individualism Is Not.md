@@ -3,6 +3,7 @@ title: "【譯文】什麼不是個人主義｜What Individualism Is Not"
 date: 2014-05-10
 tags: [個人主義, 譯文, Chodorov, Mises Daily]
 original_path: "/2014/06/what-individualism-is-not.html"
+image: "/images/large_21442103.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "the moment"
 date: 2011-06-24
 tags: [love, taichung, stop motion, island, ravi]
 original_path: "/2011/06/moment.html"
+image: "/images/small__2187751600.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

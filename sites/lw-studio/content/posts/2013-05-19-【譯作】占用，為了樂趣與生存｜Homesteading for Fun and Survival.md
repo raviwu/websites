@@ -3,6 +3,7 @@ title: "【譯作】占用，為了樂趣與生存｜Homesteading for Fun and Su
 date: 2013-05-19
 tags: [譯文, 社會秩序, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/10/homesteading-for-fun-and-survival.html"
+image: "/images/origin_3915056995.jpg"
 draft: false
 blog: "LW Studio"
 ---

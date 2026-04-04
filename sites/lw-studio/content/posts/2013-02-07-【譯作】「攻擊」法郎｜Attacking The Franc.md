@@ -3,6 +3,7 @@ title: "【譯作】「攻擊」法郎｜\"Attacking\" The Franc"
 date: 2013-02-07
 tags: [傅利曼, 政府, 經濟學, 譯文, 貨幣, 政策, Making Economic Sense, 凱因斯, 金融, Rothbard]
 original_path: "/2013/03/attacking-franc.html"
+image: "/images/large_2397388906.jpg"
 draft: false
 blog: "LW Studio"
 ---

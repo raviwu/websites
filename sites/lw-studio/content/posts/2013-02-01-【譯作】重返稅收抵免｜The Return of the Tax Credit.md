@@ -3,6 +3,7 @@ title: "【譯作】重返稅收抵免｜The Return of the Tax Credit"
 date: 2013-02-01
 tags: [政府, 經濟學, 譯文, 政策, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/the-return-of-tax-credit.html"
+image: "/images/origin_4122172006.jpg"
 draft: false
 blog: "LW Studio"
 ---

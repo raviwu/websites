@@ -3,6 +3,7 @@ title: "Birthday Wishes"
 date: 2025-05-24
 tags: [life]
 original_path: "/2025/05/birthday-wishes.html"
+image: "/images/adi-goldstein-Hli3R6LKibo-unsplash.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

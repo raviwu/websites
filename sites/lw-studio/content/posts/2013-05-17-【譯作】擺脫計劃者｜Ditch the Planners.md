@@ -3,6 +3,7 @@ title: "【譯作】擺脫計劃者｜Ditch the Planners"
 date: 2013-05-17
 tags: [政府, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/05/ditch-planners.html"
+image: "/images/large_8222922317.jpg"
 draft: false
 blog: "LW Studio"
 ---

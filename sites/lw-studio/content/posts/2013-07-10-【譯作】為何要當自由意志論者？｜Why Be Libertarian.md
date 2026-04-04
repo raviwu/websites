@@ -3,6 +3,7 @@ title: "【譯作】為何要當自由意志論者？｜Why Be Libertarian?"
 date: 2013-07-10
 tags: [譯文, 自由主義, Rothbard]
 original_path: "/2013/07/why-be-libertarian.html"
+image: "/images/large__7068049239.jpg"
 draft: false
 blog: "LW Studio"
 ---

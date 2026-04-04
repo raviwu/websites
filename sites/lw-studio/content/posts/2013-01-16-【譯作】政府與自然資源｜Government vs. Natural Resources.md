@@ -3,6 +3,7 @@ title: "【譯作】政府與自然資源｜Government vs. Natural Resources"
 date: 2013-01-16
 tags: [財產權, 經濟學, 譯文, Making Economic Sense, 自然資源, Rothbard]
 original_path: "/2013/01/government-vs-natural-resources.html"
+image: "/images/large_2127327883.jpg"
 draft: false
 blog: "LW Studio"
 ---

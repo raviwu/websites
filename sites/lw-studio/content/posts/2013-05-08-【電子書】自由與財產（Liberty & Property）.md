@@ -3,6 +3,7 @@ title: "【電子書】自由與財產（Liberty & Property）"
 date: 2013-05-08
 tags: [人口, 電子書, Gustave de Molinari, 福利國家, 自由主義, Mises, Rothbard, Tannehill, 政府, Hoppe, 社會主義, Walter Block]
 original_path: "/2013/05/liberty-property.html"
+image: "/images/cover.jpg"
 draft: false
 blog: "LW Studio"
 ---

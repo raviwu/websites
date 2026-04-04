@@ -3,6 +3,7 @@ title: "【譯作】政府醫療「保險」｜Government Medical \"Insurance\""
 date: 2013-01-13
 tags: [醫療, 社論, 社會保險, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/01/government-medical-insurance.html"
+image: "/images/large_4996672560.jpg"
 draft: false
 blog: "LW Studio"
 ---

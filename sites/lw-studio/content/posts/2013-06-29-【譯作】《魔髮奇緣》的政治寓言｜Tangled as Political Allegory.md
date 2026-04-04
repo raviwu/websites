@@ -3,6 +3,7 @@ title: "【譯作】《魔髮奇緣》的政治寓言｜Tangled as Political All
 date: 2013-06-29
 tags: [政府, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/tangled-as-political-allegory.html"
+image: "/images/large_8520335134.jpg"
 draft: false
 blog: "LW Studio"
 ---

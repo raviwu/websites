@@ -3,6 +3,7 @@ title: "【譯作】所羅門兄弟銀行醜聞｜The Salomon Brothers Scandal"
 date: 2013-01-29
 tags: [政府, 經濟學, 債券, 譯文, 政策, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/02/the-salomon-brothers-scandal.html"
+image: "/images/large_5187399083.jpg"
 draft: false
 blog: "LW Studio"
 ---

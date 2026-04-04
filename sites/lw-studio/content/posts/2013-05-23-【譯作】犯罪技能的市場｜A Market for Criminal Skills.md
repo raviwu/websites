@@ -3,6 +3,7 @@ title: "【譯作】犯罪技能的市場｜A Market for Criminal Skills"
 date: 2013-05-23
 tags: [市場, 譯文, 社會秩序, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/a-market-for-criminal-skills.html"
+image: "/images/large_3003395411.jpg"
 draft: false
 blog: "LW Studio"
 ---

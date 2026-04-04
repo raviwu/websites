@@ -3,6 +3,7 @@ title: "【譯作】萬聖節及其糖果經濟｜Halloween and Its Candy Econom
 date: 2013-05-21
 tags: [經濟學, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/05/halloween-and-its-candy-economy.html"
+image: "/images/large_6258568122.jpg"
 draft: false
 blog: "LW Studio"
 ---

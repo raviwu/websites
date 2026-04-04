@@ -3,6 +3,7 @@ title: "【譯作】為什麼干預阿拉伯？｜Why the Intervention in Arabia
 date: 2013-02-26
 tags: [經濟學, 譯文, 國際經濟, 海灣戰爭, Making Economic Sense, Rothbard]
 original_path: "/2013/04/why-intervention-in-arabia.html"
+image: "/images/large_4929686303.jpg"
 draft: false
 blog: "LW Studio"
 ---

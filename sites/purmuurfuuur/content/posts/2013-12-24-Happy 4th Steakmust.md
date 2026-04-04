@@ -3,6 +3,7 @@ title: "Happy 4th Steakmust"
 date: 2013-12-24
 tags: [taipei, steak, christmas, life, island]
 original_path: "/2013/12/happy-fourth-steakmust.html"
+image: "/images/wallpaper_christmas.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

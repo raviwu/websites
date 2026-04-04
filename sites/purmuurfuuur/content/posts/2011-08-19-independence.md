@@ -3,6 +3,7 @@ title: "independence"
 date: 2011-08-19
 tags: [feeling, thought, record]
 original_path: "/2011/08/independence.html"
+image: "/images/small__5256244209.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

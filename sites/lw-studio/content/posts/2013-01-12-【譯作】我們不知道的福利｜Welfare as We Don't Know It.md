@@ -3,6 +3,7 @@ title: "【譯作】我們不知道的福利｜Welfare as We Don't Know It"
 date: 2013-01-12
 tags: [福利, 社論, 柯林頓, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/welfare-as-we-dont-know-it.html"
+image: "/images/origin_4122275771.jpg"
 draft: false
 blog: "LW Studio"
 ---

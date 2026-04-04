@@ -3,6 +3,7 @@ title: "【譯作】平反政治冷漠｜In Defense of Indifference"
 date: 2013-05-19
 tags: [譯文, 政治冷漠, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/08/in-defense-of-indifference.html"
+image: "/images/large_169726407.jpg"
 draft: false
 blog: "LW Studio"
 ---

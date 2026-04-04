@@ -3,6 +3,7 @@ title: "【譯作】回歸市場貨幣｜Taking Money Back"
 date: 2013-02-19
 tags: [社會秩序, 保險, 商業周期, 價格, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard, 政府, 歷史, 財產權, 市場, 經濟理論]
 original_path: "/2013/04/taking-money-back.html"
+image: "/images/medium_2314105934.jpg"
 draft: false
 blog: "LW Studio"
 ---

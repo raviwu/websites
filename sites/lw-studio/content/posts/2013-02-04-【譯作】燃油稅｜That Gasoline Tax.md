@@ -3,6 +3,7 @@ title: "【譯作】燃油稅｜That Gasoline Tax"
 date: 2013-02-04
 tags: [政府, 經濟學, 譯文, 政策, Making Economic Sense, 稅收, Rothbard]
 original_path: "/2013/03/that-gasoline-tax.html"
+image: "/images/large_6940483092.jpg"
 draft: false
 blog: "LW Studio"
 ---

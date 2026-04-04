@@ -3,6 +3,7 @@ title: "【譯作】我們欠貿易的債｜The Debt We Owe to Traded"
 date: 2013-05-23
 tags: [譯文, 貿易, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/09/the-debt-we-owe-to-traded.html"
+image: "/images/large_402573680.jpg"
 draft: false
 blog: "LW Studio"
 ---

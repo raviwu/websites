@@ -3,6 +3,7 @@ title: "【譯作】Hazlitt與大蕭條｜Hazlitt and the Great Depression"
 date: 2013-05-31
 tags: [歷史, 譯文, 經濟理論, Hazlitt, It’s a Jetsons World, 股市, Jeffrey A. Tucker]
 original_path: "/2013/07/hazlitthazlitt-and-great-depression.html"
+image: "/images/large_4282630035.jpg"
 draft: false
 blog: "LW Studio"
 ---

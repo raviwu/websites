@@ -3,6 +3,7 @@ title: "【譯作】為什麼宗教人士苦於經濟學｜Why Religious People 
 date: 2013-05-25
 tags: [經濟學, 譯文, It’s a Jetsons World, Jeffrey A. Tucker, 財產權]
 original_path: "/2013/08/why-religious-people-struggle-with.html"
+image: "/images/origin_4013041505.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "live with you"
 date: 2011-07-17
 tags: [love, taichung, island, ravi]
 original_path: "/2011/07/live-with-you.html"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1_Ojt-BtfFlWehJJRbIaP_gJlzV-id_RRFGBmeBmDLGYiU9rWmeq3KWm23D0n4Ge6oHrPmCJ_uPnYWhJrmpdmR5nW-vSCUiaN__EQABTntkMkzjpoY4DpKF7Af5Qrj0ZFY_D8qelvANHY/s320/%25E5%25BD%25B1%25E5%2583%258F0225.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

@@ -3,6 +3,7 @@ title: "【電子書】《摩登家庭》的世界：私營奇蹟與公營犯罪
 date: 2013-06-29
 tags: [電子書, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/its-jetsons-world-private-miracles-and.html"
+image: "/images/title_page.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】恆久的早餐麥片｜The Permanent Thing Called Cereal"
 date: 2013-05-19
 tags: [譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/08/the-permanent-thing-called-cereal.html"
+image: "/images/234514717_300d621178_o.jpg"
 draft: false
 blog: "LW Studio"
 ---

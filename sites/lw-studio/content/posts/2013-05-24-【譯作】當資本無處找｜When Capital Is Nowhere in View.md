@@ -3,6 +3,7 @@ title: "【譯作】當資本無處找｜When Capital Is Nowhere in View"
 date: 2013-05-24
 tags: [經濟學, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/10/when-capital-is-nowhere-in-view.html"
+image: "/images/origin_4287644717.jpg"
 draft: false
 blog: "LW Studio"
 ---

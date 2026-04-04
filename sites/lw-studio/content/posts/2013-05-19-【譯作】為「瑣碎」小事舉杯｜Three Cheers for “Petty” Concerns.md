@@ -3,6 +3,7 @@ title: "【譯作】為「瑣碎」小事舉杯｜Three Cheers for “Petty” C
 date: 2013-05-19
 tags: [商品, 譯文, 歷史, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/05/three-cheers-for-petty-concerns.html"
+image: "/images/large__8736535123.jpg"
 draft: false
 blog: "LW Studio"
 ---

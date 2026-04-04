@@ -3,6 +3,7 @@ title: "OSAKA part two"
 date: 2007-03-03
 tags: [family, travel, life]
 original_path: "/2007/03/osaka-part-two.html"
+image: "/images/t_kobe_map2_01.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

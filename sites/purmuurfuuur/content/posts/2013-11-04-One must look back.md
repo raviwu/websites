@@ -3,6 +3,7 @@ title: "One must look back"
 date: 2013-11-04
 tags: [taipei, thought, life, island]
 original_path: "/2013/11/one-must-look-back.html"
+image: "/images/large__6901053916.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

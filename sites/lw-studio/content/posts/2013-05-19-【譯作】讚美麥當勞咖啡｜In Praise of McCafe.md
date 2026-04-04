@@ -3,6 +3,7 @@ title: "【譯作】讚美麥當勞咖啡｜In Praise of McCafe"
 date: 2013-05-19
 tags: [譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/in-praise-of-mccafe.html"
+image: "/images/large_3794555385.jpg"
 draft: false
 blog: "LW Studio"
 ---

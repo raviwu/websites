@@ -3,6 +3,7 @@ title: "make a wish"
 date: 2013-09-01
 tags: [birthday, island]
 original_path: "/2013/09/happy-birthday-the-forth-time.html"
+image: "/images/origin_400398036.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

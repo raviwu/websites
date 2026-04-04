@@ -3,6 +3,7 @@ title: "【譯作】美國鋼琴業的終結｜The End of the U.S. Piano Industr
 date: 2013-05-23
 tags: [政府, 譯文, 保護主義, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/the-end-of-us-piano-industry.html"
+image: "/images/large_3691522967.jpg"
 draft: false
 blog: "LW Studio"
 ---

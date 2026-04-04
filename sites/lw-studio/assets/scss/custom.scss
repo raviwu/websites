@@ -1,0 +1,44 @@
+/* LW Studio: warm gray #595959 + amber #ffab40 — matching tempo site */
+
+:root {
+    /* Light mode */
+    --body-background: #fffaf3;
+    --accent-color: #ffab40;
+    --accent-color-darker: #e6912a;
+    --accent-color-text: #fff;
+    --body-text-color: #595959;
+
+    --card-background: #fff8f0;
+    --card-background-selected: #fff0dd;
+    --card-text-color-main: #3a3a3a;
+    --card-text-color-secondary: #595959;
+    --card-text-color-tertiary: #7a7a7a;
+    --card-separator-color: rgba(89, 89, 89, 0.15);
+
+    --link-background-color: 255, 171, 64;
+    --link-background-opacity: 0.3;
+    --link-background-opacity-hover: 0.5;
+
+    --scrollbar-thumb: #d4c8b8;
+    --scrollbar-track: var(--body-background);
+
+    &[data-scheme="dark"] {
+        --body-background: #23211e;
+        --accent-color: #ffab40;
+        --accent-color-darker: #ffbe6a;
+        --accent-color-text: #23211e;
+        --body-text-color: rgba(255, 250, 243, 0.85);
+
+        --card-background: #32302b;
+        --card-background-selected: rgba(255, 171, 64, 0.15);
+        --card-text-color-main: rgba(255, 250, 243, 0.9);
+        --card-text-color-secondary: rgba(255, 250, 243, 0.7);
+        --card-text-color-tertiary: rgba(255, 250, 243, 0.5);
+        --card-separator-color: rgba(255, 250, 243, 0.1);
+
+        --scrollbar-thumb: hsl(30, 10%, 35%);
+        --scrollbar-track: var(--body-background);
+
+        --blockquote-background-color: rgb(50, 47, 42);
+    }
+}

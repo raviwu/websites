@@ -3,6 +3,7 @@ title: "【譯作】如何去社會化？｜How to Desocialize?"
 date: 2013-03-01
 tags: [譯文, 社會主義, Making Economic Sense, Rothbard]
 original_path: "/2013/05/how-to-desocialize.html"
+image: "/images/origin_104969712.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】我也是問題的一部分｜I’m Part of the Problem"
 date: 2013-06-29
 tags: [譯文, 醫療, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/07/im-part-of-problem.html"
+image: "/images/large_54296664.jpg"
 draft: false
 blog: "LW Studio"
 ---

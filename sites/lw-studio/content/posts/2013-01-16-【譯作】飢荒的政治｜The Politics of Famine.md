@@ -3,6 +3,7 @@ title: "【譯作】飢荒的政治｜The Politics of Famine"
 date: 2013-01-16
 tags: [糧食, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-politics-of-famine.html"
+image: "/images/medium_3256023622.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】我們的五旬節奇蹟｜Our Miracle of Pentecost"
 date: 2013-05-25
 tags: [市場, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/05/our-miracle-of-pentecost.html"
+image: "/images/origin_76807423.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】貨幣通膨與物價通膨｜Money Inflation And Price Infl
 date: 2013-02-13
 tags: [雷根, 經濟學, 譯文, 貨幣, Making Economic Sense, 通貨膨脹, 金融, Rothbard]
 original_path: "/2013/03/money-inflation-and-price-inflation.html"
+image: "/images/origin_2495254548.jpg"
 draft: false
 blog: "LW Studio"
 ---

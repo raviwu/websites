@@ -3,6 +3,7 @@ title: "【譯作】航空業再監管的幽靈｜The Specter of Airline Re-Regu
 date: 2013-01-31
 tags: [航空, 政府, 企業, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/02/the-specter-of-airline-re-regulation.html"
+image: "/images/large_2923215931.jpg"
 draft: false
 blog: "LW Studio"
 ---

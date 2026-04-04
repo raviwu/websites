@@ -3,6 +3,7 @@ title: "【譯作】割草機可以教我們什麼｜What Lawnmowers Can Teach U
 date: 2013-05-19
 tags: [市場, 譯文, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/06/what-lawnmowers-can-teach-us.html"
+image: "/images/origin_4582196932.jpg"
 draft: false
 blog: "LW Studio"
 ---

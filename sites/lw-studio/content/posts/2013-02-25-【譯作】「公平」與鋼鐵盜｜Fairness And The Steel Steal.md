@@ -3,6 +3,7 @@ title: "【譯作】「公平」與鋼鐵盜｜\"Fairness\" And The Steel Steal"
 date: 2013-02-25
 tags: [經濟學, 譯文, 國際經濟, 保護主義, Making Economic Sense, Rothbard]
 original_path: "/2013/04/fairness-and-steel-steal.html"
+image: "/images/large_3292306587.jpg"
 draft: false
 blog: "LW Studio"
 ---

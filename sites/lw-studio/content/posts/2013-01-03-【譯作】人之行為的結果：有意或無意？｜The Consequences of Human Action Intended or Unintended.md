@@ -3,6 +3,7 @@ title: "【譯作】人之行為的結果：有意或無意？｜The Consequence
 date: 2013-01-03
 tags: [人類行為學, 政府, Hayek, Human Action, 社論, 經濟學, 譯文, Mises, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-consequences-of-human-action.html"
+image: "/images/medium_4991048521.jpg"
 draft: false
 blog: "LW Studio"
 ---

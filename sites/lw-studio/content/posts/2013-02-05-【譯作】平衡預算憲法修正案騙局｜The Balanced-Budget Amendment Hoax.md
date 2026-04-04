@@ -3,6 +3,7 @@ title: "【譯作】平衡預算憲法修正案騙局｜The Balanced-Budget Amen
 date: 2013-02-05
 tags: [政府, 赤字, 預算, 經濟學, 譯文, 政策, 法律, Making Economic Sense, Rothbard, 憲法]
 original_path: "/2013/03/the-balanced-budget-amendment-hoax.html"
+image: "/images/medium_2384283395.jpg"
 draft: false
 blog: "LW Studio"
 ---

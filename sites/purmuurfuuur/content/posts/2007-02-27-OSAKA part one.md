@@ -3,6 +3,7 @@ title: "OSAKA part one"
 date: 2007-02-27
 tags: [travel, life]
 original_path: "/2007/02/osaka-part-one.html"
+image: "/images/p_nara_000.gif"
 draft: false
 blog: "PurMuurFuuur"
 ---

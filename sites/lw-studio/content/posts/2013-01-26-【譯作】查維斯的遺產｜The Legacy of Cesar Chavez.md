@@ -3,6 +3,7 @@ title: "【譯作】查維斯的遺產｜The Legacy of Cesar Chavez"
 date: 2013-01-26
 tags: [工會, 勞動力, 經濟學, 譯文, 法律, Making Economic Sense, Rothbard]
 original_path: "/2013/02/the-legacy-of-cesar-chavez.html"
+image: "/images/medium_26654619.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】新保守主義福利國家｜The Neocon Welfare State"
 date: 2013-01-15
 tags: [福利國家, 經濟學, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/01/the-neocon-welfare-state.html"
+image: "/images/medium_4816128034.jpg"
 draft: false
 blog: "LW Studio"
 ---

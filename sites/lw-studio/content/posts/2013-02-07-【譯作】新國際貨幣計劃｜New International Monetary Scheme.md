@@ -3,6 +3,7 @@ title: "【譯作】新國際貨幣計劃｜New International Monetary Scheme"
 date: 2013-02-07
 tags: [傅利曼, 政府, 經濟學, 譯文, 貨幣, 政策, Making Economic Sense, 凱因斯, 金融, Rothbard]
 original_path: "/2013/03/new-international-monetary-scheme.html"
+image: "/images/large_3989217986.jpg"
 draft: false
 blog: "LW Studio"
 ---

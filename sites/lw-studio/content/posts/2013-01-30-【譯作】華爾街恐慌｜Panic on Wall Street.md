@@ -3,6 +3,7 @@ title: "【譯作】華爾街恐慌｜Panic on Wall Street"
 date: 2013-01-30
 tags: [政府, 經濟學, 譯文, 政策, 法律, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/02/panic-on-wall-street.html"
+image: "/images/medium_6248856.jpg"
 draft: false
 blog: "LW Studio"
 ---

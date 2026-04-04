@@ -3,6 +3,7 @@ title: "【譯作】股票、債券與傻瓜的操作｜Stocks, Bonds, And Rule 
 date: 2013-01-28
 tags: [政府, 柯林頓, 經濟學, 譯文, 政策, Making Economic Sense, 通貨膨脹, Rothbard]
 original_path: "/2013/02/stocks-bonds-and-rule-by-fools.html"
+image: "/images/medium_456398100.jpg"
 draft: false
 blog: "LW Studio"
 ---

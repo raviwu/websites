@@ -3,6 +3,7 @@ title: "Thâu-lō͘ kín-sīn chhōe 頭路謹慎揣"
 date: 2021-11-03
 tags: [work, life]
 original_path: "/2021/11/thau-lo-kin-sin-chhoe.html"
+image: "/images/BB517B26-6980-4B94-8348-47C7E62EA611.jpeg"
 draft: false
 blog: "PurMuurFuuur"
 ---

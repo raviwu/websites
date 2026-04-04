@@ -3,6 +3,7 @@ title: "【譯作】釋放Bernie Madoff｜Free Bernie Madoff"
 date: 2013-06-29
 tags: [譯文, 政策, It’s a Jetsons World, 金融, Jeffrey A. Tucker]
 original_path: "/2013/08/bernie-madofffree-bernie-madoff.html"
+image: "/images/large_4330754374.jpg"
 draft: false
 blog: "LW Studio"
 ---

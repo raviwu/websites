@@ -3,6 +3,7 @@ title: "【譯作】政府和颶風雨果：致命組合｜Government and Hurric
 date: 2013-01-18
 tags: [環保, 財產權, 經濟學, 譯文, 政策, Making Economic Sense, 天災, Rothbard]
 original_path: "/2013/01/government-and-hurricane-hugo-deadly.html"
+image: "/images/large__6857778628.jpg"
 draft: false
 blog: "LW Studio"
 ---

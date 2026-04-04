@@ -3,6 +3,7 @@ title: "【譯作】《摩登家庭》的軍事化嘗試｜The Attempted Militar
 date: 2013-06-29
 tags: [國家, 政府, 譯文, It’s a Jetsons World, Jeffrey A. Tucker, 軍事]
 original_path: "/2013/11/the-attempted-militarization-of-jetsons.html"
+image: "/images/large_2382436592.jpg"
 draft: false
 blog: "LW Studio"
 ---

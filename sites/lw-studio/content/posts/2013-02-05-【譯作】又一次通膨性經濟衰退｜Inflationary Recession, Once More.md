@@ -3,6 +3,7 @@ title: "【譯作】又一次通膨性經濟衰退｜Inflationary Recession, Onc
 date: 2013-02-05
 tags: [稅, 商業周期, 經濟學, 譯文, Making Economic Sense, 金融, Rothbard, 政府, 貨幣主義, 歷史, 政策, 凱因斯, 通貨膨脹]
 original_path: "/2013/03/inflationary-recession-once-more.html"
+image: "/images/medium_3058009462.jpg"
 draft: false
 blog: "LW Studio"
 ---

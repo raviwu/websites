@@ -3,6 +3,7 @@ title: "Teddy Bear"
 date: 2011-06-15
 tags: [love, music, island]
 original_path: "/2011/06/teddy-bear.html"
+image: "/images/small__145269891.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

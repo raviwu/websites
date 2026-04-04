@@ -3,6 +3,7 @@ title: "【譯作】暴動，為了憤怒、享受與利益｜Rioting For Rage, 
 date: 2013-01-12
 tags: [社論, 財產權, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/01/rioting-for-rage-fun-and-profit.html"
+image: "/images/large_4776911024.jpg"
 draft: false
 blog: "LW Studio"
 ---

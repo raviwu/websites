@@ -3,6 +3,7 @@ title: "【譯作】神秘的美聯儲｜The Mysterious Fed"
 date: 2013-02-22
 tags: [政府, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/04/the-mysterious-fed.html"
+image: "/images/medium_81557089.jpg"
 draft: false
 blog: "LW Studio"
 ---

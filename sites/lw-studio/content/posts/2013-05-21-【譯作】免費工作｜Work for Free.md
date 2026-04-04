@@ -3,6 +3,7 @@ title: "【譯作】免費工作｜Work for Free"
 date: 2013-05-21
 tags: [譯文, 工作, It’s a Jetsons World, Jeffrey A. Tucker]
 original_path: "/2013/12/work-for-free.html"
+image: "/images/large_5236089961.jpg"
 draft: false
 blog: "LW Studio"
 ---

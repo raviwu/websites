@@ -3,6 +3,7 @@ title: "【譯作】《北美自由貿易協定》後的生機？｜Is There Lif
 date: 2013-02-23
 tags: [政府, 經濟學, 譯文, 國際經濟, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/04/is-there-life-after-nafta.html"
+image: "/images/medium_777675231.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】槍枝管制經濟學｜The Economics of Gun Control"
 date: 2013-01-26
 tags: [政府, 柯林頓, 經濟學, 槍枝管制, 譯文, 政策, Making Economic Sense, Rothbard]
 original_path: "/2013/02/the-economics-of-gun-control.html"
+image: "/images/origin_2489796730.jpg"
 draft: false
 blog: "LW Studio"
 ---

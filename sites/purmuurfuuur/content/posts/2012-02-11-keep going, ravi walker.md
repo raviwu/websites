@@ -3,6 +3,7 @@ title: "keep going, ravi walker"
 date: 2012-02-11
 tags: [family, life, murmur, island, ravi]
 original_path: "/2012/02/keep-going-ravi-walker.html"
+image: "/images/small_5319264476.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】固定匯率十字架｜The Cross of Fixed Exchange Rates"
 date: 2013-02-12
 tags: [匯率, 柯林頓, 經濟學, 譯文, 貨幣, Making Economic Sense, 金融, Rothbard]
 original_path: "/2013/03/the-cross-of-fixed-exchange-rates.html"
+image: "/images/large_2349653362.jpg"
 draft: false
 blog: "LW Studio"
 ---

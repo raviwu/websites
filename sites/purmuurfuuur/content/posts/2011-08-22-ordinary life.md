@@ -3,6 +3,7 @@ title: "ordinary life"
 date: 2011-08-22
 tags: [love, thought, island, feeling, life, attitude]
 original_path: "/2011/08/ordinary-life.html"
+image: "/images/small_6647379583.jpg"
 draft: false
 blog: "PurMuurFuuur"
 ---

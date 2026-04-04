@@ -3,6 +3,7 @@ title: "【譯作】創新經濟語義學｜Creative Economic Semantics"
 date: 2012-12-28
 tags: [經濟學, 譯文, Making Economic Sense, 社論, Rothbard]
 original_path: "/2013/01/creative-economic-semantics.html"
+image: "/images/large_4744866167.jpg"
 draft: false
 blog: "LW Studio"
 ---

@@ -3,6 +3,7 @@ title: "【譯作】代金券錯在哪？｜Vouchers: What Went Wrong"
 date: 2013-01-26
 tags: [代金券, 教育, 經濟學, 譯文, Making Economic Sense, Rothbard]
 original_path: "/2013/02/vouchers-what-went-wrong.html"
+image: "/images/medium_4236084063.jpg"
 draft: false
 blog: "LW Studio"
 ---

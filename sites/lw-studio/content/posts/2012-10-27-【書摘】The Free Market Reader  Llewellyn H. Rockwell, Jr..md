@@ -3,6 +3,7 @@ title: "【書摘】The Free Market Reader | Llewellyn H. Rockwell, Jr."
 date: 2012-10-27
 tags: [Rockwell, 書摘, 自由主義, 社論]
 original_path: "/2012/10/free-market-reader-llewellyn-h-rockwell.html"
+image: "/images/SS370.jpg"
 draft: false
 blog: "LW Studio"
 ---

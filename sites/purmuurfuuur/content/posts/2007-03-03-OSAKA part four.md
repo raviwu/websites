@@ -3,6 +3,7 @@ title: "OSAKA part four"
 date: 2007-03-03
 tags: [family, travel, life]
 original_path: "/2007/03/osaka-part-four.html"
+image: "/images/p_nara_000.gif"
 draft: false
 blog: "PurMuurFuuur"
 ---
