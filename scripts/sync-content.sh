@@ -3,7 +3,7 @@ set -euo pipefail
 
 VAULT_BASE="$HOME/Library/Mobile Documents/iCloud~md~obsidian/Documents/ravi-obsidian/Personal/blogs"
 REPO_BASE="$(cd "$(dirname "$0")/.." && pwd)"
-SITES=(tempo lw-studio purmuurfuuur draft-zero)
+SITES=(tempo lw-studio purmuurfuuur draft-zero pikmin)
 
 sync_site() {
   local site="$1"
