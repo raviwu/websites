@@ -1,7 +1,14 @@
-.PHONY: sync serve-tempo serve-lw serve-pur serve-dz serve-pikmin build-tempo build-lw build-pur build-dz build-pikmin build-all
+.PHONY: sync publish serve-tempo serve-lw serve-pur serve-dz serve-pikmin build-tempo build-lw build-pur build-dz build-pikmin build-all
 
 sync:
 	./scripts/sync-content.sh
+
+publish:
+	./scripts/sync-content.sh
+	git add sites/
+	git diff --cached --stat
+	git commit -m "sync: publish content from Obsidian vault" || echo "Nothing to commit"
+	git push
 
 serve-tempo:
 	cd sites/tempo && hugo server -D -p 1313
