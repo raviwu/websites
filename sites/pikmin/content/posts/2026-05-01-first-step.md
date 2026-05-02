@@ -4,6 +4,7 @@ date: 2026-05-01
 tags:
   - 散步
   - 開始
+  - 學著飛
 draft: false
 blog: Pikmin Days
 image: /images/CFD4BA01-918A-41AB-99DF-B4BF021B3D7D_1_102_o.jpeg
