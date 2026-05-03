@@ -1,0 +1,22 @@
+/* 首頁每行顯示 3 篇文章 */
+.article-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--section-separation);
+
+    @media (min-width: 640px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: 1024px) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    article {
+        flex-direction: column;
+
+        .article-image img {
+            height: 160px;
+        }
+    }
+}

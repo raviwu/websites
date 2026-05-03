@@ -5,7 +5,7 @@ title = "Pikmin Days"
 hasCJKLanguage = true
 
 [pagination]
-  pagerSize = 12
+  pagerSize = 24
 
 [module]
   [[module.imports]]
