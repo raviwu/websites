@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】私有化的準備工作｜What to Do Until Privatization Comes
 
-![](../images/large_2173653553.jpg)
+![](/images/large_2173653553.jpg)
   
 文：吳莉瑋  
 圖：[amanky](http://www.flickr.com/photos/amanky/2173653553/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

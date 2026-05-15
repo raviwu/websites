@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】免費工作｜Work for Free
 
-![](../images/large_5236089961.jpg)
+![](/images/large_5236089961.jpg)
   
 文：吳莉瑋  
 圖：[krystian\_o](http://www.flickr.com/photos/krystiano/5236089961/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

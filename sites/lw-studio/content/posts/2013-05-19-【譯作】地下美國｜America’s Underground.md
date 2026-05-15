@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】地下美國｜America’s Underground
 
-![](../images/large_2941045084.jpg)
+![](/images/large_2941045084.jpg)
   
 文：吳莉瑋  
 圖：[Cayusa](http://www.flickr.com/photos/cayusa/2941045084/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

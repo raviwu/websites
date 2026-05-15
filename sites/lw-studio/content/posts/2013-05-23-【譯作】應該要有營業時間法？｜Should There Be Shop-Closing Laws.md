@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】應該要有營業時間法？｜Should There Be Shop-Closing Laws?
 
-![](../images/large_2342066937.jpg)
+![](/images/large_2342066937.jpg)
   
 文：吳莉瑋  
 圖：[bluecinderella](http://www.flickr.com/photos/bluecinderellee/2342066937/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】為什麼宗教人士苦於經濟學｜Why Religious People Struggle with Economics
 
-![](../images/origin_4013041505.jpg)
+![](/images/origin_4013041505.jpg)
   
 文：吳莉瑋  
 圖：[RubioBuitrago](http://www.flickr.com/photos/sicoactiva/4013041505/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

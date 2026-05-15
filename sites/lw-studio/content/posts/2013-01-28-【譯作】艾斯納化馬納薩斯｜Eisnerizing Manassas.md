@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】艾斯納化馬納薩斯｜Eisnerizing Manassas
 
-![](../images/large_3462570867.jpg)
+![](/images/large_3462570867.jpg)
   
 文：吳莉瑋  
 圖：[Express Monorail](http://www.flickr.com/photos/expressmonorail/3462570867/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】犯罪技能的市場｜A Market for Criminal Skills
 
-![](../images/large_3003395411.jpg)
+![](/images/large_3003395411.jpg)
   
 文：吳莉瑋  
 圖：[samuel van dijk](http://www.flickr.com/photos/mohlao/3003395411/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

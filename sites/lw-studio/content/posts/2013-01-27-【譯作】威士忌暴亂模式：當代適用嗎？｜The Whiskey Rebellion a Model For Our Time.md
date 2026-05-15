@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】威士忌暴亂模式：當代適用嗎？｜The Whiskey Rebellion: a Model For Our Time?
 
-![](../images/medium_6459470869.jpg)
+![](/images/medium_6459470869.jpg)
   
 文：吳莉瑋  
 圖：[The National Guard](http://www.flickr.com/photos/thenationalguard/6459470869/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

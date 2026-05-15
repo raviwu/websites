@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】俄羅斯的黃金標準？｜A Gold Standard for Russia?
 
-![](../images/large_2243154949.jpg)
+![](/images/large_2243154949.jpg)
   
 文：吳莉瑋  
 圖：[Ѕolo](http://www.flickr.com/photos/donsolo/2243154949/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】秘魯與自由市場｜Peru and the Free Market
 
-![](../images/large_5798410268.jpg)
+![](/images/large_5798410268.jpg)
   
 文：吳莉瑋  
 圖：[The Advocacy Project](http://www.flickr.com/photos/advocacy_project/5798410268/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

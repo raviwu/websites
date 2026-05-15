@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】布希與杜卡基斯：在意識形態上形影不離｜Bush And Dukakis: Ideologically Inseparable
 
-![](../images/large_3086998079.jpg)
+![](/images/large_3086998079.jpg)
   
 文：吳莉瑋  
 圖：[mohammadali](http://www.flickr.com/photos/mfakheri/3086998079/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

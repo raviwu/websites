@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # smile curve
 
-![](../images/20120822-Island.JPG)
+![](/images/20120822-Island.JPG)
   
 如果要從腦海中瞬間浮出畫面，  
   

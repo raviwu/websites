@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】自由革命｜The Freedom Revolution
 
-![](../images/medium_2356648342.jpg)
+![](/images/medium_2356648342.jpg)
   
 文：吳莉瑋  
 圖：[Zach Straw](http://www.flickr.com/photos/24940071@N05/2356648342/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

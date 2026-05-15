@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】平衡預算憲法修正案騙局｜The Balanced-Budget Amendment Hoax
 
-![](../images/medium_2384283395.jpg)
+![](/images/medium_2384283395.jpg)
   
 文：吳莉瑋  
 圖：[conorwithonen](http://www.flickr.com/photos/cmogle/2384283395/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

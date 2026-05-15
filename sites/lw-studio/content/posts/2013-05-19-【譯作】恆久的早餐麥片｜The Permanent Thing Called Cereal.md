@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】恆久的早餐麥片｜The Permanent Thing Called Cereal
 
-![](../images/234514717_300d621178_o.jpg)
+![](/images/234514717_300d621178_o.jpg)
 
 文：吳莉瑋  
 圖：[beketchai](http://www.flickr.com/photos/bchai/234514717/) [CC BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.zh)  

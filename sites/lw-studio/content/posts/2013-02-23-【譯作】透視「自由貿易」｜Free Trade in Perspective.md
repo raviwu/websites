@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】透視「自由貿易」｜"Free Trade" in Perspective
 
-![](../images/medium_4495968987.jpg)
+![](/images/medium_4495968987.jpg)
   
 文：吳莉瑋  
 圖：[gagilas](http://www.flickr.com/photos/gagilas/4495968987/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

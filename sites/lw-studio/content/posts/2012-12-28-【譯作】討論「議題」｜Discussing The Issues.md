@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】討論「議題」｜Discussing The "Issues"
 
-![](../images/medium_2966874331.jpg)
+![](/images/medium_2966874331.jpg)
   
 文：吳莉瑋  
 圖：[carbonated](http://www.flickr.com/photos/carbonated/2966874331/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

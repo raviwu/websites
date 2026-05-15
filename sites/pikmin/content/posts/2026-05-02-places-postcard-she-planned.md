@@ -9,7 +9,7 @@ draft: false
 blog: Pikmin Days
 image: /images/D0043CEF-2E9D-4071-A6BC-3CC547DF7CBD_1_102_o.jpeg
 ---
-![](../images/D0043CEF-2E9D-4071-A6BC-3CC547DF7CBD_1_102_o.jpeg)
+![](/images/D0043CEF-2E9D-4071-A6BC-3CC547DF7CBD_1_102_o.jpeg)
 
 我們去過的地方，是其中一種彼此送明信片的想要傳達的點。
 

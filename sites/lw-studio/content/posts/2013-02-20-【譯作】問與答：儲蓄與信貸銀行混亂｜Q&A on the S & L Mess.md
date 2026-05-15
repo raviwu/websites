@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】問與答：儲蓄與信貸銀行混亂｜Q&A on the S & L Mess
 
-![](../images/large_7007767964.jpg)
+![](/images/large_7007767964.jpg)
   
 文：吳莉瑋  
 圖：[opensourceway](http://www.flickr.com/photos/opensourceway/7007767964/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

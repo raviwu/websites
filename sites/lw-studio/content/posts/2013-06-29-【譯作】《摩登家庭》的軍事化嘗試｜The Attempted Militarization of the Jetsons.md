@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】《摩登家庭》的軍事化嘗試｜The Attempted Militarization of the Jetsons
 
-![](../images/large_2382436592.jpg)
+![](/images/large_2382436592.jpg)
 文：吳莉瑋  
 圖：[funadium](http://www.flickr.com/photos/funadium/2382436592/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  
   

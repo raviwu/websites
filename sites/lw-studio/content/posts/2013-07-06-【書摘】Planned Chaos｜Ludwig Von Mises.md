@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【書摘】Planned Chaos｜Ludwig Von Mises
 
-![](../images/SS498.jpg)
+![](/images/SS498.jpg)
   
 摘錄：Planned Chaos｜Ludwig Von Mises  
   

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】經濟獎勵及福利｜Economic Incentives And Welfare
 
-![](../images/medium_4929686023.jpg)
+![](/images/medium_4929686023.jpg)
   
 文：吳莉瑋  
 圖：[familymwr](http://www.flickr.com/photos/familymwr/4929686023/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

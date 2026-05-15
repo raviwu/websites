@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】回歸市場貨幣｜Taking Money Back
 
-![](../images/medium_2314105934.jpg)
+![](/images/medium_2314105934.jpg)
   
 文：吳莉瑋  
 圖：[Denis Collette...!!!](http://www.flickr.com/photos/deniscollette/2314105934/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

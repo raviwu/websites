@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】讚美麥當勞咖啡｜In Praise of McCafe
 
-![](../images/large_3794555385.jpg)
+![](/images/large_3794555385.jpg)
   
 文：吳莉瑋  
 圖：[Dave77459](http://www.flickr.com/photos/dave77459/3794555385/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】認真思考自由｜Getting Serious About Freedom
 
-![](../images/large__7297820998.jpg)
+![](/images/large__7297820998.jpg)
   
 文：吳莉瑋  
 圖：[zcopley](http://www.flickr.com/photos/zcopley/7297820998/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

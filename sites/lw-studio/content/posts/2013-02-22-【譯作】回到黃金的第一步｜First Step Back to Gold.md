@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】回到黃金的第一步｜First Step Back to Gold
 
-![](../images/medium_2438117961.jpg)
+![](/images/medium_2438117961.jpg)
   
 文：吳莉瑋  
 圖：[digitalmoneyworld](http://www.flickr.com/photos/digitalcurrency/2438117961/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】我們被課稅太少？｜Are We Undertaxed?
 
-![](../images/large_3446025121.jpg)
+![](/images/large_3446025121.jpg)
   
 文：吳莉瑋  
 圖：[JD Hancock](http://www.flickr.com/photos/jdhancock/3446025121/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

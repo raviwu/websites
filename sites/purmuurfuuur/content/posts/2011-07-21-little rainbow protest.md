@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # little rainbow protest
 
-![](../images/small_1962531341.jpg)  
+![](/images/small_1962531341.jpg)  
 I wear what I like and used to, cuddling whom I love.  
   
 Declaring my identity of lesbian by living in my own life style.  

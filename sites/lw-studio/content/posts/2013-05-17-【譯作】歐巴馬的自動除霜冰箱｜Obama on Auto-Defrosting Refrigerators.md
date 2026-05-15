@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】歐巴馬的自動除霜冰箱｜Obama on Auto-Defrosting Refrigerators
 
-![](../images/large_5416328127.jpg)
+![](/images/large_5416328127.jpg)
   
 文：吳莉瑋  
 圖：[SS&SS](http://www.flickr.com/photos/sandiandsteve/5416328127/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

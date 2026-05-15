@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】透過水果…｜By Their Fruits…
 
-![](../images/large_59651419.jpg)
+![](/images/large_59651419.jpg)
   
 文：吳莉瑋  
 圖：[Thomas Hawk](http://www.flickr.com/photos/thomashawk/59651419/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

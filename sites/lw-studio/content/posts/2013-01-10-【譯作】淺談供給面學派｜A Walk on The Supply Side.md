@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】淺談供給面學派｜A Walk on The Supply Side
 
-![](../images/large_6903821997.jpg)
+![](/images/large_6903821997.jpg)
   
 文：吳莉瑋  
 圖：[Pebbledash Grey](http://www.flickr.com/photos/pebbledash-grey/6903821997/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

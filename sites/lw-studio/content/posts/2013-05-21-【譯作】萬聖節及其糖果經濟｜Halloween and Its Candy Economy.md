@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】萬聖節及其糖果經濟｜Halloween and Its Candy Economy
 
-![](../images/large_6258568122.jpg)
+![](/images/large_6258568122.jpg)
   
 文：吳莉瑋  
 圖：[Rakka](http://www.flickr.com/photos/rakka/6258568122/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

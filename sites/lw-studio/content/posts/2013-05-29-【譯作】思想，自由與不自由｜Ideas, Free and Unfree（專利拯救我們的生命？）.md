@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（專利拯救我們的生命？）
 
-![](../images/large_2182735681.jpg)
+![](/images/large_2182735681.jpg)
   
 文：吳莉瑋  
 圖：[bored-now](http://www.flickr.com/photos/bored-now/2182735681/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】固定匯率十字架｜The Cross of Fixed Exchange Rates
 
-![](../images/large_2349653362.jpg)
+![](/images/large_2349653362.jpg)
   
 文：吳莉瑋  
 圖：[victor\_nuno](http://www.flickr.com/photos/victornuno/2349653362/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

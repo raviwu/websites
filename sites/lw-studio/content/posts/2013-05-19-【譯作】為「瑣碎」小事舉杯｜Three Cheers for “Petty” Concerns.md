@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】為「瑣碎」小事舉杯｜Three Cheers for “Petty” Concerns
 
-![](../images/large__8736535123.jpg)
+![](/images/large__8736535123.jpg)
   
 文：吳莉瑋  
 圖：[Gordon Lew](http://www.flickr.com/photos/rabidunicorn/8736535123/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

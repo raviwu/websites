@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】讚美豬油｜In Praise of Lard
 
-![](../images/origin_162791929.jpg)
+![](/images/origin_162791929.jpg)
   
 文：吳莉瑋  
 圖：[Eleventh Earl of Mar](http://www.flickr.com/photos/markscott/162791929/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

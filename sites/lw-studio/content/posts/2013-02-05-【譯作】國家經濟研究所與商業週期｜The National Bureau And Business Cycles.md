@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】國家經濟研究所與商業週期｜The National Bureau And Business Cycles
 
-![](../images/large_5052016557.jpg)
+![](/images/large_5052016557.jpg)
   
 文：吳莉瑋  
 圖：[delete08](http://www.flickr.com/photos/delete08/5052016557/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

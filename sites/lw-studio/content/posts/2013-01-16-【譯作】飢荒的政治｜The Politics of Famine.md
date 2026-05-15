@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】飢荒的政治｜The Politics of Famine
 
-![](../images/medium_3256023622.jpg)
+![](/images/medium_3256023622.jpg)
   
 文：吳莉瑋  
 圖：[Zoriah](http://www.flickr.com/photos/zoriah/3256023622/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

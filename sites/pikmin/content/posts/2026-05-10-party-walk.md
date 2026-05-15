@@ -26,19 +26,19 @@ image: /images/B9E20341-31D6-468F-ABFE-CD453353EBC3_1_102_o.jpeg
 
 那天晚上，激不得包博終於打開了自己的 Nintendo 帳號，不知是否維持我睡前最後一眼看到的厭世臉，當晚就拿到歐慶裝 🐶
 
-![](../images/B9E20341-31D6-468F-ABFE-CD453353EBC3_1_102_o.jpeg)
+![](/images/B9E20341-31D6-468F-ABFE-CD453353EBC3_1_102_o.jpeg)
 
 然後包博辦了一個為期七天的 Party Walk
 
 > 咩咩很關注也，還說有個人沒穿狗狗裝亂入，好好笑喔
 
-![](../images/S__135528451.jpg)
+![](/images/S__135528451.jpg)
 
 > 狗狗皮友加入以後畫面上好多隻狗狗有夠可愛的
 
 > 誒，之前我弟的皮友自入了也！我沒有邀請他
 
-![](../images/11A70780-2A4A-4846-BE7D-98E8F78651A6_1_102_o.jpeg)
+![](/images/11A70780-2A4A-4846-BE7D-98E8F78651A6_1_102_o.jpeg)
 
 > She's the leader, she's the light.
 

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（前言）
 
-![](../images/large_981372736.jpg)
+![](/images/large_981372736.jpg)
   
 文：吳莉瑋  
 圖：[Cayusa](http://www.flickr.com/photos/cayusa/981372736/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

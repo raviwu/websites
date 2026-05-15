@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】政府與自然資源｜Government vs. Natural Resources
 
-![](../images/large_2127327883.jpg)
+![](/images/large_2127327883.jpg)
   
 文：吳莉瑋  
 圖：[drurydrama (Len Radin)](http://www.flickr.com/photos/drurydrama/2127327883/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

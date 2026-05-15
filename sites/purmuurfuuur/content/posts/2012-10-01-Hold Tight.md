@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Hold Tight
 
-![](../images/medium_6769688429.jpg)
+![](/images/medium_6769688429.jpg)
   
 # 群居生物，所以一人失溫的速度快得多。  
   

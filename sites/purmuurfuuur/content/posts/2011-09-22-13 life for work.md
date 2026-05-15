@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # 1/3 life for work
 
-![](../images/small_322654818.jpg)  
+![](/images/small_322654818.jpg)  
 Each day 8 hours for working.  
   
 With you, the rest of 2/3 means 100%.  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】真的是「笨蛋，問題在經濟」嗎？｜Is it the "Economy, Stupid"?
 
-![](../images/medium_4091694655.jpg)
+![](/images/medium_4091694655.jpg)
   
 文：吳莉瑋  
 圖：[Acciones Urbanas / Left Hand Rotation](http://www.flickr.com/photos/accionesurbanas/4091694655/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

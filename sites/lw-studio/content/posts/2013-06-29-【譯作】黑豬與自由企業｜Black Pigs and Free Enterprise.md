@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】黑豬與自由企業｜Black Pigs and Free Enterprise
 
-![](../images/origin_3525208398.jpg)
+![](/images/origin_3525208398.jpg)
 文：吳莉瑋  
 圖：[Shirin Winiger](http://www.flickr.com/photos/shirinwiniger/3525208398/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  
   

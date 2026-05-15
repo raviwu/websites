@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】供水不良｜The Water Is Not Running
 
-![](../images/medium_2738194122.jpg)
+![](/images/medium_2738194122.jpg)
   
 文：吳莉瑋  
 圖：[Cristiano de Jesus](http://www.flickr.com/photos/cristianodejesus/2738194122/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

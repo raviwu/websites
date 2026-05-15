@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【書摘】人的行為 Human Action | 夏道平 譯 Ludwig von Mises 著
 
-![](../images/medium_1069893367.jpg)
+![](/images/medium_1069893367.jpg)
   
 摘錄：人的行為 Human Action | Ludwig von Mises 夏道平 譯  
 圖：[Celeste](http://www.flickr.com/photos/celesterc/1069893367/) via [photo pin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

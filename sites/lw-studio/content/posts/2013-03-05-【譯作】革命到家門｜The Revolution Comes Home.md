@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】革命到家門｜The Revolution Comes Home
 
-![](../images/large_6281936106.jpg)
+![](/images/large_6281936106.jpg)
   
 文：吳莉瑋  
 圖：[Viewminder](http://www.flickr.com/photos/light_seeker/6281936106/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

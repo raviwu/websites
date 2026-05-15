@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】政府與企業的「夥伴關係」｜Government-Business "Partnerships"
 
-![](../images/large_2034624215.jpg)
+![](/images/large_2034624215.jpg)
   
 文：吳莉瑋  
 圖：[vgm8383](http://www.flickr.com/photos/vgm8383/2034624215/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

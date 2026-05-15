@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】讚美旅遊陷阱｜In Praise of the Tourist Trap
 
-![](../images/large_5096795445.jpg)
+![](/images/large_5096795445.jpg)
   
 文：吳莉瑋  
 圖：[Express Monorail](http://www.flickr.com/photos/expressmonorail/5096795445/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

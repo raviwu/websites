@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】為什麼干預阿拉伯？｜Why the Intervention in Arabia?
 
-![](../images/large_4929686303.jpg)
+![](/images/large_4929686303.jpg)
   
 文：吳莉瑋  
 圖：[familymwr](http://www.flickr.com/photos/familymwr/4929686303/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】怪才和書呆子的政治理論｜A Political Theory of Geeks and Wonks
 
-![](../images/medium_3528686785.jpg)
+![](/images/medium_3528686785.jpg)
   
 文：吳莉瑋  
 圖：[wetaskiwin.tomorrow](http://www.flickr.com/photos/36761836@N02/3528686785/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

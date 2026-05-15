@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】我們該紓困小戈巴？｜Should We Bail out Gorby?
 
-![](../images/large_665546346.jpg)
+![](/images/large_665546346.jpg)
   
 文：吳莉瑋  
 圖：[xdjio](http://www.flickr.com/photos/xdjio/665546346/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

@@ -9,7 +9,7 @@ draft: false
 blog: Pikmin Days
 image: /images/CFD4BA01-918A-41AB-99DF-B4BF021B3D7D_1_102_o.jpeg
 ---
-![](../images/CFD4BA01-918A-41AB-99DF-B4BF021B3D7D_1_102_o.jpeg)
+![](/images/CFD4BA01-918A-41AB-99DF-B4BF021B3D7D_1_102_o.jpeg)
 
 一起投入同一件事情可以得到快樂跟連結感。
 

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（可見與不可見的專利成本）
 
-![](../images/large_3546465960.jpg)
+![](/images/large_3546465960.jpg)
   
 文：吳莉瑋  
 圖：[another.point.in.time](http://www.flickr.com/photos/another_point_in_time/3546465960/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

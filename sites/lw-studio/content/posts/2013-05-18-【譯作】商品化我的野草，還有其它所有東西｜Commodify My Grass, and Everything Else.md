@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】商品化我的野草，還有其它所有東西｜Commodify My Grass, and Everything Else
 
-![](../images/large_3379356117.jpg)
+![](/images/large_3379356117.jpg)
   
 文：吳莉瑋  
 圖：[spdorsey](http://www.flickr.com/photos/dorseygraphics/3379356117/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（智慧財產權理論的共性）
 
-![](../images/large_3078179109.jpg)
+![](/images/large_3078179109.jpg)
   
 文：吳莉瑋  
 圖：[walknboston](http://www.flickr.com/photos/walkn/3078179109/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】波蘭之旅｜A Trip to Poland
 
-![](../images/large_5556981244.jpg)
+![](/images/large_5556981244.jpg)
   
 文：吳莉瑋  
 圖：[frank3.0](http://www.flickr.com/photos/frank3/5556981244/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

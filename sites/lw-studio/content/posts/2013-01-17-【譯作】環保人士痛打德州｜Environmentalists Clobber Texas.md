@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】環保人士痛打德州｜Environmentalists Clobber Texas
 
-![](../images/origin_3754248389.jpg)
+![](/images/origin_3754248389.jpg)
   
 文：吳莉瑋  
 圖：[partymonstrrrr](http://www.flickr.com/photos/partymonstrrrr/3754248389/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

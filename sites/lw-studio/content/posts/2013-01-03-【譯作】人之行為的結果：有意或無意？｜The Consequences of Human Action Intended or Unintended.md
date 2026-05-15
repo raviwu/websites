@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】人之行為的結果：有意或無意？｜The Consequences of Human Action: Intended or Unintended?
 
-![](../images/medium_4991048521.jpg)
+![](/images/medium_4991048521.jpg)
   
 文：吳莉瑋  
 圖：[neauthor77](http://www.flickr.com/photos/46395766@N07/4991048521/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

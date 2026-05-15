@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】「公平」與鋼鐵盜｜"Fairness" And The Steel Steal
 
-![](../images/large_3292306587.jpg)
+![](/images/large_3292306587.jpg)
   
 文：吳莉瑋  
 圖：[Gilderic Photography](http://www.flickr.com/photos/gilderic/3292306587/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

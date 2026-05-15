@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】貨幣通膨與物價通膨｜Money Inflation And Price Inflation
 
-![](../images/origin_2495254548.jpg)
+![](/images/origin_2495254548.jpg)
   
 文：吳莉瑋  
 圖：[Sokwanele - Zimbabwe](http://www.flickr.com/photos/sokwanele/2495254548/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

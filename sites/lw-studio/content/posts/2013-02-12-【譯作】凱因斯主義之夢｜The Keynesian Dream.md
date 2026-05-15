@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】凱因斯主義之夢｜The Keynesian Dream
 
-![](../images/origin_2966580560.jpg)
+![](/images/origin_2966580560.jpg)
   
 文：吳莉瑋  
 圖：[Alexandria Mezzano LaNier](http://www.flickr.com/photos/alexandrialanier/2966580560/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

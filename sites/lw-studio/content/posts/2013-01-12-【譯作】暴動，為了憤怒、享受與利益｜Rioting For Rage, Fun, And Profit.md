@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】暴動，為了憤怒、享受與利益｜Rioting For Rage, Fun, And Profit
 
-![](../images/large_4776911024.jpg)
+![](/images/large_4776911024.jpg)
   
 文：吳莉瑋  
 圖：[Thomas Hawk](http://www.flickr.com/photos/thomashawk/4776911024/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

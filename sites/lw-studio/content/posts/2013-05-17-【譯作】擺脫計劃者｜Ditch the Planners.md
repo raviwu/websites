@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】擺脫計劃者｜Ditch the Planners
 
-![](../images/large_8222922317.jpg)
+![](/images/large_8222922317.jpg)
   
 文：吳莉瑋  
 圖：[marsmet546](http://www.flickr.com/photos/90585146@N08/8222922317/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

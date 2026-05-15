@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Coffee Break
 
-![](../images/_MG_5026.JPG)
+![](/images/_MG_5026.JPG)
   
 創業至今也翻過了半個年頭，從信心滿滿到每天醒來只想著要怎麼找一份有薪水的工作償付生活債，好像一場小夢一樣，醒了又夢、夢了又醒，整個人生無限repeat。  
   

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】鑽石恆久遠？｜Are Diamonds Really Forever?
 
-![](../images/large_2420282979.jpg)
+![](/images/large_2420282979.jpg)
   
 文：吳莉瑋  
 圖：[Vermin Inc](http://www.flickr.com/photos/vermininc/2420282979/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】預算危機｜The Budget Crisis
 
-![](../images/large_3573510369.jpg)
+![](/images/large_3573510369.jpg)
   
 文：吳莉瑋  
 圖：[SEIU International](http://www.flickr.com/photos/seiu/3573510369/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

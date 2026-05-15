@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】守財奴只會傷害自己｜The Miser Hurts No One but Herself
 
-![](../images/origin_4043040212.jpg)
+![](/images/origin_4043040212.jpg)
   
 文：吳莉瑋  
 圖：[SnaPsi Сталкер](http://www.flickr.com/photos/snapsi42/4043040212/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

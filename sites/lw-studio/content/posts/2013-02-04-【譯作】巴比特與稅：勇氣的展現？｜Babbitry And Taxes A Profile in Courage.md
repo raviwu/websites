@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】巴比特與稅：勇氣的展現？｜Babbitry And Taxes: A Profile in Courage?
 
-![](../images/medium_4835000527.jpg)
+![](/images/medium_4835000527.jpg)
   
 文：吳莉瑋  
 圖：[The Aspen Institute](http://www.flickr.com/photos/aspeninstitute/4835000527/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

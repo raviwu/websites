@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】銀行危機！｜Bank Crisis!
 
-![](../images/large_3408855512.jpg)
+![](/images/large_3408855512.jpg)
   
 文：吳莉瑋  
 圖：[eflon](http://www.flickr.com/photos/eflon/3408855512/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

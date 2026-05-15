@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】經濟衰退解釋了…｜The Recession Explained
 
-![](../images/large_2295584401.jpg)
+![](/images/large_2295584401.jpg)
   
 文：吳莉瑋  
 圖：[nickwheeleroz](http://www.flickr.com/photos/nickwheeleroz/2295584401/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

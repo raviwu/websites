@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】美國鋼琴業的終結｜The End of the U.S. Piano Industry
 
-![](../images/large_3691522967.jpg)
+![](/images/large_3691522967.jpg)
   
 文：吳莉瑋  
 圖：[Яick Harris](http://www.flickr.com/photos/rickharris/3691522967/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

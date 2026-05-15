@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】討伐南非｜The Crusade Against South Africa
 
-![](../images/origin_3311473293.jpg)
+![](/images/origin_3311473293.jpg)
   
 文：吳莉瑋  
 圖：[United Nations Photo](http://www.flickr.com/photos/un_photo/3311473293/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

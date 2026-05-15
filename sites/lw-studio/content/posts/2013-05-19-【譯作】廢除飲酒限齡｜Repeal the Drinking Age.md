@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】廢除飲酒限齡｜Repeal the Drinking Age
 
-![](../images/large_5334631000.jpg)
+![](/images/large_5334631000.jpg)
   
 文：吳莉瑋  
 圖：[miuenski](http://www.flickr.com/photos/miuenski/5334631000/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

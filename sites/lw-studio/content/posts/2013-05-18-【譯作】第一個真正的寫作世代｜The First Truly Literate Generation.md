@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】第一個真正的寫作世代｜The First Truly Literate Generation
 
-![](../images/large_6680179263.jpg)
+![](/images/large_6680179263.jpg)
   
 文：吳莉瑋  
 圖：[Jiuck](http://www.flickr.com/photos/jiuck/6680179263/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

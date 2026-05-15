@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】正在前進的人類｜The People on the Move
 
-![](../images/origin_5714935459.jpg)
+![](/images/origin_5714935459.jpg)
   
 文：吳莉瑋  
 圖：[VinothChandar](http://www.flickr.com/photos/vinothchandar/5714935459/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

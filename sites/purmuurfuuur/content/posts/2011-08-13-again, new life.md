@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # again, new life
 
-![](../images/Rainbow-rainbows-4128025-1920-1200.jpg)
+![](/images/Rainbow-rainbows-4128025-1920-1200.jpg)
   
 
 Things changes, so does my life.

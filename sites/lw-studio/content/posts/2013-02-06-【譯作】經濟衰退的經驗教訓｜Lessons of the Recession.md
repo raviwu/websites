@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】經濟衰退的經驗教訓｜Lessons of the Recession
 
-![](../images/medium_2500097744.jpg)
+![](/images/medium_2500097744.jpg)
   
 文：吳莉瑋  
 圖：[\_Dinkel\_](http://www.flickr.com/photos/ameriswede/2500097744/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

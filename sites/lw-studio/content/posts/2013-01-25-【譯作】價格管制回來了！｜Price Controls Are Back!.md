@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】價格管制回來了！｜Price Controls Are Back!
 
-![](../images/medium_6754105655.jpg)
+![](/images/medium_6754105655.jpg)
   
 文：吳莉瑋  
 圖：[VinothChandar](http://www.flickr.com/photos/vinothchandar/6754105655/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】剖析銀行擠兌｜Anatomy Of The Bank Run
 
-![](../images/origin_3470549842.jpg)
+![](/images/origin_3470549842.jpg)
   
 文：吳莉瑋  
 圖：[mugley](http://www.flickr.com/photos/mugley/3470549842/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

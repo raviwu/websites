@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】通貨膨脹終極版｜Inflation Redux
 
-![](../images/large_381941233.jpg)
+![](/images/large_381941233.jpg)
   
 文：吳莉瑋  
 圖：[Johnny Vulkan](http://www.flickr.com/photos/johnnyvulkan/381941233/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

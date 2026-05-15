@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】柯林頓學：展望｜Clintonomics: The Prospect
 
-![](../images/medium_817044127.jpg)
+![](/images/medium_817044127.jpg)
   
 文：吳莉瑋  
 圖：[sskennel](http://www.flickr.com/photos/sskennel/817044127/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

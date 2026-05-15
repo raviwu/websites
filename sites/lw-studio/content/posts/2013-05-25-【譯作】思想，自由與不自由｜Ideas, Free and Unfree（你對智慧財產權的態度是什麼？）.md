@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（你對智慧財產權的態度是什麼？）
 
-![](../images/large_1187974421.jpg)
+![](/images/large_1187974421.jpg)
   
 文：吳莉瑋  
 圖：[massdistraction](http://www.flickr.com/photos/sharynmorrow/1187974421/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

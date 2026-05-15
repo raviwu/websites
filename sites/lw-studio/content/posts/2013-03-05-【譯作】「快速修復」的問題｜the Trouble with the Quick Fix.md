@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】「快速修復」的問題｜the Trouble with the Quick Fix
 
-![](../images/large_3361217777.jpg)
+![](/images/large_3361217777.jpg)
   
 文：吳莉瑋  
 圖：[CarbonNYC](http://www.flickr.com/photos/carbonnyc/3361217777/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

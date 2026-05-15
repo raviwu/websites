@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯文】什麼不是個人主義｜What Individualism Is Not
 
-![](../images/large_21442103.jpg)
+![](/images/large_21442103.jpg)
   
 **什麼不是個人主義｜What Individualism Is Not**  
   

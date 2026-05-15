@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】我們欠貿易的債｜The Debt We Owe to Traded
 
-![](../images/large_402573680.jpg)
+![](/images/large_402573680.jpg)
   
 文：吳莉瑋  
 圖：[rogiro](http://www.flickr.com/photos/riot/402573680/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

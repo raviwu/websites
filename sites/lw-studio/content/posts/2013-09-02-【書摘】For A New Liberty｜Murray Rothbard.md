@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【書摘】For A New Liberty｜Murray Rothbard
 
-![](../images/B592.jpg)
+![](/images/B592.jpg)
 摘錄：For A New Liberty｜Murray Rothbard  
   
 文：吳莉瑋  

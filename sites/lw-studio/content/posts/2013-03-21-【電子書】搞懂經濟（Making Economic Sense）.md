@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【電子書】搞懂經濟（Making Economic Sense）
 
-![](../images/cover.jpg)
+![](/images/cover.jpg)
   
 這本書是 Rothbard 在《The Free Market》月刊中的散文集錦，相較於學術專論，這樣的散文將奧地利學派的理論嚴謹地應用於日常政經議題中，令人意外的是，這些文章內容非但不無聊，還相當有趣。  
   

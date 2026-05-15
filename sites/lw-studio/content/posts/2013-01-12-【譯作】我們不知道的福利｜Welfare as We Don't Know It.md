@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】我們不知道的福利｜Welfare as We Don't Know It
 
-![](../images/origin_4122275771.jpg)
+![](/images/origin_4122275771.jpg)
   
 文：吳莉瑋  
 圖：[brookeduckart](http://www.flickr.com/photos/brookeduckart/4122275771/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】股票、債券與傻瓜的操作｜Stocks, Bonds, And Rule by Fools
 
-![](../images/medium_456398100.jpg)
+![](/images/medium_456398100.jpg)
   
 文：吳莉瑋  
 圖：[Stuck in Customs](http://www.flickr.com/photos/stuckincustoms/456398100/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

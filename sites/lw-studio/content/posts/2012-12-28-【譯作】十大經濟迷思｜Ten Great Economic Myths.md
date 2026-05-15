@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】十大經濟迷思｜Ten Great Economic Myths
 
-![](../images/large_2802001013.jpg)
+![](/images/large_2802001013.jpg)
   
 文：吳莉瑋  
 圖：[country\_boy\_shane](http://www.flickr.com/photos/shanegorski/2802001013/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  

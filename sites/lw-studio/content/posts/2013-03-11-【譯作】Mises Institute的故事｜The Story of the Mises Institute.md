@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】Mises Institute的故事｜The Story of the Mises Institute
 
-![](../images/Misescrest.gif)
+![](/images/Misescrest.gif)
   
 文：吳莉瑋  
 圖：[Wiki](http://en.wikipedia.org/wiki/File:Misescrest.gif) [CC](http://en.wikipedia.org/wiki/zh:%E7%9F%A5%E8%AD%98%E5%85%B1%E4%BA%AB) [署名-相同方式共享 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/deed.zh)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】《摩登家庭》的世界｜It’s a Jetsons World
 
-![](../images/large_417146338.jpg)
+![](/images/large_417146338.jpg)
   
 文：吳莉瑋  
 圖：[thievingjoker](http://www.flickr.com/photos/thievingjoker/417146338/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】老布希與經濟衰退｜Bush and the Recession
 
-![](../images/large_432371655.jpg)
+![](/images/large_432371655.jpg)
   
 文：吳莉瑋  
 圖：[torbakhopper](http://www.flickr.com/photos/gazeronly/432371655/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

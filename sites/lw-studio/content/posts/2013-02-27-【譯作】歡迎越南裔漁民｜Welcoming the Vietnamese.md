@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】歡迎越南裔漁民｜Welcoming the Vietnamese
 
-![](../images/large_3387745706.jpg)
+![](/images/large_3387745706.jpg)
   
 文：吳莉瑋  
 圖：[gari.baldi](http://www.flickr.com/photos/garibaldi/3387745706/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

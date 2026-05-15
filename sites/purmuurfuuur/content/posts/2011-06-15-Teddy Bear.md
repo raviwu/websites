@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Teddy Bear
 
-![](../images/small__145269891.jpg)  
+![](/images/small__145269891.jpg)  
 Elvis Presley - Teddy Bear  
   
 Oh~ Baby let me be,  

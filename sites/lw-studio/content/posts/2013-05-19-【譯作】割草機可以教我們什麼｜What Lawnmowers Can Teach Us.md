@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】割草機可以教我們什麼｜What Lawnmowers Can Teach Us
 
-![](../images/origin_4582196932.jpg)
+![](/images/origin_4582196932.jpg)
   
 文：吳莉瑋  
 圖：[Jennuine Captures](http://www.flickr.com/photos/picturepurrfect685/4582196932/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

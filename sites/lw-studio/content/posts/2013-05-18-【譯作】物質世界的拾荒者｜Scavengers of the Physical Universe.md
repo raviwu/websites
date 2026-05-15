@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】物質世界的拾荒者｜Scavengers of the Physical Universe
 
-![](../images/medium_4203558994.jpg)
+![](/images/medium_4203558994.jpg)
   
 文：吳莉瑋  
 圖：[Coolm36](http://www.flickr.com/photos/coolmars/4203558994/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

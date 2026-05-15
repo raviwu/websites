@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（我們時代的重商主義）
 
-![](../images/large_233316674.jpg)
+![](/images/large_233316674.jpg)
   
 文：吳莉瑋  
 圖：[tonystl](http://www.flickr.com/photos/tunruh/233316674/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  

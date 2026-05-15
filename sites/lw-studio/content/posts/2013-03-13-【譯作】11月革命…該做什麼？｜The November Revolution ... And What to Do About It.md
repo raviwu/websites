@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】11月革命…該做什麼？｜The November Revolution ... And What to Do About It
 
-![](../images/large_5086164267.jpg)
+![](/images/large_5086164267.jpg)
   
 文：吳莉瑋  
 圖：[Rev. Strangelove !!!!](http://www.flickr.com/photos/jeepnovak2/5086164267/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

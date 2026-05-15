@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】新保守主義福利國家｜The Neocon Welfare State
 
-![](../images/medium_4816128034.jpg)
+![](/images/medium_4816128034.jpg)
   
 文：吳莉瑋  
 圖：[wstera2](http://www.flickr.com/photos/sully_aka__wstera2/4816128034/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】嬰兒死亡率「危機」｜The Infant Mortality "Crisis"
 
-![](../images/large__8127510587.jpg)
+![](/images/large__8127510587.jpg)
   
 文：吳莉瑋  
 圖：[Joelstuff V3.5](http://www.flickr.com/photos/joelshine2/8127510587/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

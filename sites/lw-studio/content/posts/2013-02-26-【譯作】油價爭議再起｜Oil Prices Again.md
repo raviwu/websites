@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】油價爭議再起｜Oil Prices Again
 
-![](../images/large_532687354.jpg)
+![](/images/large_532687354.jpg)
   
 文：吳莉瑋  
 圖：[swisscan](http://www.flickr.com/photos/swisscan/532687354/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

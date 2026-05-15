@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】又一次通膨性經濟衰退｜Inflationary Recession, Once More
 
-![](../images/medium_3058009462.jpg)
+![](/images/medium_3058009462.jpg)
   
 文：吳莉瑋  
 圖：[bitzcelt](http://www.flickr.com/photos/bitzcelt/3058009462/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

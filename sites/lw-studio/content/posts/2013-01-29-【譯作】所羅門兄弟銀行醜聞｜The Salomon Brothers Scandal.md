@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】所羅門兄弟銀行醜聞｜The Salomon Brothers Scandal
 
-![](../images/large_5187399083.jpg)
+![](/images/large_5187399083.jpg)
   
 文：吳莉瑋  
 圖：[Thomas Leuthard](http://www.flickr.com/photos/thomasleuthard/5187399083/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

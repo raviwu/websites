@@ -10,8 +10,8 @@ blog: "PurMuurFuuur"
 
 # Thàu-chá ê gû-bah-thng 透早的牛肉湯
 
-![](../images/C1737D12-A558-4D01-A1FB-69348B296A4D.jpeg)  
-![](../images/163E8D43-C8B5-4742-934E-9EF7CD37E500.jpeg)  
+![](/images/C1737D12-A558-4D01-A1FB-69348B296A4D.jpeg)  
+![](/images/163E8D43-C8B5-4742-934E-9EF7CD37E500.jpeg)  
 
 Ûi tio̍h chi̍t óaⁿ gû-bah-thng, thàu-chá saⁿ tiám tio̍h chhut mn̂g. Niau-á kah gún kim-kim-khòaⁿ, ná-chhiūⁿ leh chhiò gún sī gōng tōa táⁿ.
 

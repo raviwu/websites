@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # family-to-be
 
-![](../images/family.jpg)
+![](/images/family.jpg)
 
 It is an ordinary story.
 

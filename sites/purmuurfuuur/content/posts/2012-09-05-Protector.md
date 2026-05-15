@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Protector
 
-![](../images/20120905-bao.JPG)
+![](/images/20120905-bao.JPG)
   
 妳說，每回看到大寶兵都像看到我在守護妳。  
   

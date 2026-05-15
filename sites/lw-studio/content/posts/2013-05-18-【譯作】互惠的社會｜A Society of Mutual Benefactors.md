@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】互惠的社會｜A Society of Mutual Benefactors
 
-![](../images/large_2517036416.jpg)
+![](/images/large_2517036416.jpg)
   
 文：吳莉瑋  
 圖：[icedsoul photography .:teymur madjderey](http://www.flickr.com/photos/icedsoul/2517036416/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

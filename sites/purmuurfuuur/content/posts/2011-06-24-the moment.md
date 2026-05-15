@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # the moment
 
-![](../images/small__2187751600.jpg)  
+![](/images/small__2187751600.jpg)  
 The moment I open my eyes, you're aside.  
   
 Sun shines, wind blows, heart starts beating.  

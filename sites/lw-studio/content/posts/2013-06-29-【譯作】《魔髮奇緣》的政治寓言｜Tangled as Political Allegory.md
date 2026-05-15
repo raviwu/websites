@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】《魔髮奇緣》的政治寓言｜Tangled as Political Allegory
 
-![](../images/large_8520335134.jpg)
+![](/images/large_8520335134.jpg)
 文：吳莉瑋  
 圖：[partymonstrrrr](http://www.flickr.com/photos/partymonstrrrr/8520335134/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  
   

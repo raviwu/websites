@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】回到固定匯率｜Back to Fixed Exchange Rates
 
-![](../images/large_4788000521.jpg)
+![](/images/large_4788000521.jpg)
   
 文：吳莉瑋  
 圖：[bulliver](http://www.flickr.com/photos/badcomputer/4788000521/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

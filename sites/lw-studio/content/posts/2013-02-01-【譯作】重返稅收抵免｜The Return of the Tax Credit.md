@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】重返稅收抵免｜The Return of the Tax Credit
 
-![](../images/origin_4122172006.jpg)
+![](/images/origin_4122172006.jpg)
   
 文：吳莉瑋  
 圖：[Alan Cleaver](http://www.flickr.com/photos/alancleaver/4122172006/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

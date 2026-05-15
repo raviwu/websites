@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】健保計劃的惡魔原則｜The Health Plan's Devilish Principles
 
-![](../images/medium_2519022388.jpg)
+![](/images/medium_2519022388.jpg)
   
 文：吳莉瑋  
 圖：[netjcmv](http://www.flickr.com/photos/netjcmv/2519022388/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（回到財產權與競爭的基礎）
 
-![](../images/large_3054396614.jpg)
+![](/images/large_3054396614.jpg)
   
 文：吳莉瑋  
 圖：[Hammer51012](http://www.flickr.com/photos/hammer51012/3054396614/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】《北美自由貿易協定》迷思｜The Nafta Myth
 
-![](../images/medium_2729015231.jpg)
+![](/images/medium_2729015231.jpg)
   
 文：吳莉瑋  
 圖：[Pak Gwei](http://www.flickr.com/photos/pakgwei/2729015231/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【書摘】Thinking as a Science｜Henry Hazlitt
 
-![](../images/SS344.jpg)
+![](/images/SS344.jpg)
   
 摘錄：Thinking as a Science｜Henry Hazlitt  
   

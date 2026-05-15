@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（發明歷史的騙局）
 
-![](../images/large_1547906.jpg)
+![](/images/large_1547906.jpg)
   
 文：吳莉瑋  
 圖：[hurleygurley](http://www.flickr.com/photos/hurleygurley/1547906/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

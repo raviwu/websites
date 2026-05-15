@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Connection
 
-![](../images/small__4979329952.jpg)  
+![](/images/small__4979329952.jpg)  
 The more we have been through,  
   
 the closer we are tied.  

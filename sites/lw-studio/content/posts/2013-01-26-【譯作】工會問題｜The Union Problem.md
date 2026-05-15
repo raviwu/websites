@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】工會問題｜The Union Problem
 
-![](../images/large_5008825981.jpg)
+![](/images/large_5008825981.jpg)
   
 文：吳莉瑋  
 圖：[cliff1066™](http://www.flickr.com/photos/nostri-imago/5008825981/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

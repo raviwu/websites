@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】世界貨幣危機｜The World Currency Crisis
 
-![](../images/large_4353407858.jpg)
+![](/images/large_4353407858.jpg)
   
 文：吳莉瑋  
 圖：[Paolo Camera](http://www.flickr.com/photos/vegaseddie/4353407858/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

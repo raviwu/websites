@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】斐洛、憲法與直接民主｜Perot, The Constitution, And Direct Democracy
 
-![](../images/medium_291687660.jpg)
+![](/images/medium_291687660.jpg)
   
 文：吳莉瑋  
 圖：[Olivander](http://www.flickr.com/photos/olivander/291687660/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

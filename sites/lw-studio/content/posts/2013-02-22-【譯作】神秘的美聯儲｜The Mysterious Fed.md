@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】神秘的美聯儲｜The Mysterious Fed
 
-![](../images/medium_81557089.jpg)
+![](/images/medium_81557089.jpg)
   
 文：吳莉瑋  
 圖：[DerrickT](http://www.flickr.com/photos/derricksphotos/81557089/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

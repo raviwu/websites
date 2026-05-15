@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】玉米餅：保證與悲劇｜Tortillas: The Promise and the Tragedy
 
-![](../images/large_6277715205.jpg)
+![](/images/large_6277715205.jpg)
   
 文：吳莉瑋  
 圖：[jeffreyw](http://www.flickr.com/photos/jeffreyww/6277715205/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

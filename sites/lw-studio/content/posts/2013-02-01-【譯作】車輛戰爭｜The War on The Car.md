@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】車輛戰爭｜The War on The Car
 
-![](../images/large_3411775886.jpg)
+![](/images/large_3411775886.jpg)
   
 文：吳莉瑋  
 圖：[27147](http://www.flickr.com/photos/27147/3411775886/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

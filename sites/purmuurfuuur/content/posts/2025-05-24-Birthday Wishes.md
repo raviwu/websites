@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Birthday Wishes
 
-![](../images/adi-goldstein-Hli3R6LKibo-unsplash.jpg)  
+![](/images/adi-goldstein-Hli3R6LKibo-unsplash.jpg)  
 I don’t want to lose her. I have faith in her.
 
 And I want both of us to be whole, and happy.

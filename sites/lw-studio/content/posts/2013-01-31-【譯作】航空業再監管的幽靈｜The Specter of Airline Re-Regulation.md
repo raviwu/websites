@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】航空業再監管的幽靈｜The Specter of Airline Re-Regulation
 
-![](../images/large_2923215931.jpg)
+![](/images/large_2923215931.jpg)
   
 文：吳莉瑋  
 圖：[ecstaticist](http://www.flickr.com/photos/ecstaticist/2923215931/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

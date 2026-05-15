@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】通貨膨脹與蒙古大夫｜Inflation And The Spin Doctors
 
-![](../images/large_384689236.jpg)
+![](/images/large_384689236.jpg)
   
 文：吳莉瑋  
 圖：[Marco F](http://www.flickr.com/photos/_marco_/384689236/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

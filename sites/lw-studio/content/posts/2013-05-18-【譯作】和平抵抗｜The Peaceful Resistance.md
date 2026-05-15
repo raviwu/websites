@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】和平抵抗｜The Peaceful Resistance
 
-![](../images/large_5571593357.jpg)
+![](/images/large_5571593357.jpg)
   
 文：吳莉瑋  
 圖：[Eric Constantineau - www.ericconstantineau.com](http://www.flickr.com/photos/ericconstantineau/5571593357/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】做得對的電影｜A Movie That Gets It Right
 
-![](../images/origin_7496669132.jpg)
+![](/images/origin_7496669132.jpg)
   
 文：吳莉瑋  
 圖：[SalFalko](http://www.flickr.com/photos/safari_vacation/7496669132/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

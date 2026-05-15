@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】工作到底好在哪？｜What’s a Job Good For?
 
-![](../images/origin_277341190.jpg)
+![](/images/origin_277341190.jpg)
   
 文：吳莉瑋  
 圖：[Ezu](http://www.flickr.com/photos/ezu/277341190/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

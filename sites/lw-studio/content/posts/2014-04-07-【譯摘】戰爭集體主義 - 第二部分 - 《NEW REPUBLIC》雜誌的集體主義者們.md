@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯摘】戰爭集體主義 - 第二部分 - 《NEW REPUBLIC》雜誌的集體主義者們
 
-![](../images/large_456398100.jpg)
+![](/images/large_456398100.jpg)
   
 **戰爭集體主義：第一次世界大戰中的政客、企業與知識份子**  
   

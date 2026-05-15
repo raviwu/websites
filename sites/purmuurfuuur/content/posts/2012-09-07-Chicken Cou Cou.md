@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Chicken Cou Cou
 
-![](../images/medium_3846080374.jpg)
+![](/images/medium_3846080374.jpg)
   
 有時候，創作會遇到，不知道自己想做些什麼內容，但是，就是沒來由地想畫點東西，當然，最好的狀態是，最終成果出乎意料地滿意，還可以逗吳太開心。  
   

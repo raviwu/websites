@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # ordinary life
 
-![](../images/small_6647379583.jpg)  
+![](/images/small_6647379583.jpg)  
 i am an ordinary person who has a simple dream,  
   
 i treat people with honest and basically have belief,  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】人口控制｜Population "Control"
 
-![](../images/medium_259688790.jpg)
+![](/images/medium_259688790.jpg)
   
 文：吳莉瑋  
 圖：[focus2capture](http://www.flickr.com/photos/focus2capture/259688790/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

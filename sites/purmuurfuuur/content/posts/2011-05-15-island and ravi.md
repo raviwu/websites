@@ -10,4 +10,4 @@ blog: "PurMuurFuuur"
 
 # island and ravi
 
-![](../images/island.png)This is a photo of us.
+![](/images/island.png)This is a photo of us.

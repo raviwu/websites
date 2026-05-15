@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】橄欖、國家與規則歧義｜The Olive Bar, the State, and Rule Ambiguity
 
-![](../images/origin_4718078921.jpg)
+![](/images/origin_4718078921.jpg)
   
 文：吳莉瑋  
 圖：[Danielle Scott](http://www.flickr.com/photos/danielle_scott/4718078921/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

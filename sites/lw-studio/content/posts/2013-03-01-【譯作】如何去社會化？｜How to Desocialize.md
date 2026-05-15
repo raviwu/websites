@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】如何去社會化？｜How to Desocialize?
 
-![](../images/origin_104969712.jpg)
+![](/images/origin_104969712.jpg)
   
 文：吳莉瑋  
 圖：[Dunechaser](http://www.flickr.com/photos/dunechaser/104969712/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

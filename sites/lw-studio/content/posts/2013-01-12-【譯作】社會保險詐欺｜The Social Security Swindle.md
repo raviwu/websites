@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】社會保險詐欺｜The Social Security Swindle
 
-![](../images/large_5747629074.jpg)
+![](/images/large_5747629074.jpg)
   
 文：吳莉瑋  
 圖：[CarbonNYC](http://www.flickr.com/photos/carbonnyc/5747629074/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

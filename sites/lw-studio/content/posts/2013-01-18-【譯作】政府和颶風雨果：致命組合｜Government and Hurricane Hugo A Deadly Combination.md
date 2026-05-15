@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】政府和颶風雨果：致命組合｜Government and Hurricane Hugo: A Deadly Combination
 
-![](../images/large__6857778628.jpg)
+![](/images/large__6857778628.jpg)
   
 文：吳莉瑋  
 圖：[The Uprooted Photographer](http://www.flickr.com/photos/zrfraileyphotography/6857778628/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

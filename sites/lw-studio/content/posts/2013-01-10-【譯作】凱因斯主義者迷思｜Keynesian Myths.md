@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】凱因斯主義者迷思｜Keynesian Myths
 
-![](../images/large_2472230611.jpg)
+![](/images/large_2472230611.jpg)
   
 文：吳莉瑋  
 圖：[woodleywonderworks](http://www.flickr.com/photos/wwworks/2472230611/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

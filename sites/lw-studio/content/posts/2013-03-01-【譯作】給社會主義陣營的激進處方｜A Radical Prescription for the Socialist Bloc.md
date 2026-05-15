@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】給社會主義陣營的激進處方｜A Radical Prescription for the Socialist Bloc
 
-![](../images/origin_2869635928.jpg)
+![](/images/origin_2869635928.jpg)
   
 文：吳莉瑋  
 圖：[me and the sysop](http://www.flickr.com/photos/pyxopotamus/2869635928/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】機場擁塞：市場失靈的案例？｜Airport Congestion: A Case of Market Failure?
 
-![](../images/large_4045813826.jpg)
+![](/images/large_4045813826.jpg)
   
 文：吳莉瑋  
 圖：[Stuck in Customs](http://www.flickr.com/photos/stuckincustoms/4045813826/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】凱因斯主義的終極版｜Keynesianism Redux
 
-![](../images/medium_8194471406.jpg)
+![](/images/medium_8194471406.jpg)
   
 文：吳莉瑋  
 圖：[Poster Boy NYC](http://www.flickr.com/photos/posterboynyc/8194471406/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】榮耀的戰後世界｜The Glorious Postwar World
 
-![](../images/large_2629125150.jpg)
+![](/images/large_2629125150.jpg)
   
 文：吳莉瑋  
 圖：[Express Monorail](http://www.flickr.com/photos/expressmonorail/2629125150/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

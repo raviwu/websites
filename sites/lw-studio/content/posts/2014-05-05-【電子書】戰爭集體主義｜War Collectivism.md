@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【電子書】戰爭集體主義｜War Collectivism
 
-![](../images/cover.jpg)
+![](/images/cover.jpg)
   
 文／圖：吳莉瑋  
 封面照片來源：[Peter E. Lee](http://www.flickr.com/photos/oldpatterns/5777428546/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【電子書】該做什麼。｜What Must Be Done
 
-![](../images/title_page.jpg)
+![](/images/title_page.jpg)
   
 文／圖：吳莉瑋  
   

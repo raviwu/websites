@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # Happy 4th Steakmust
 
-![](../images/wallpaper_christmas.jpg)
+![](/images/wallpaper_christmas.jpg)
 不知不覺，來到了第四個一起牽手度過的行憲紀念日。  
   
 為了有力支援吳太太的萬能業助工作，我在當救火隊的同時也好好地增進了一番平面影像處理的技術，今年的奇趣小驚喜就決定是合成小卡啦。  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】稅收抵免與補貼｜Deductibility And Subsidy
 
-![](../images/large_5457170804.jpg)
+![](/images/large_5457170804.jpg)
   
 文：吳莉瑋  
 圖：[Dave Dugdale](http://www.flickr.com/photos/davedugdale/5457170804/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

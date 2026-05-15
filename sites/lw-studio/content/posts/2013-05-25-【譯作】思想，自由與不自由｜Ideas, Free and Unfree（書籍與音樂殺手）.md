@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（書籍與音樂殺手）
 
-![](../images/large_4785035201.jpg)
+![](/images/large_4785035201.jpg)
   
 文：吳莉瑋  
 圖：[Ian Sane](http://www.flickr.com/photos/31246066@N04/4785035201/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

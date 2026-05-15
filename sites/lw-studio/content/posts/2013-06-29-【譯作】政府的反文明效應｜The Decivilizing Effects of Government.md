@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】政府的反文明效應｜The Decivilizing Effects of Government
 
-![](../images/large_3826214063.jpg)
+![](/images/large_3826214063.jpg)
 文：吳莉瑋  
 圖：[leafy](http://www.flickr.com/photos/leafy/3826214063/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  
   

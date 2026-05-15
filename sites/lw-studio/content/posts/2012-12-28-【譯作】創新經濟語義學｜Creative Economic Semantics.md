@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】創新經濟語義學｜Creative Economic Semantics
 
-![](../images/large_4744866167.jpg)
+![](/images/large_4744866167.jpg)
   
 文：吳莉瑋  
 圖：[jDevaun](http://www.flickr.com/photos/34316967@N04/4744866167/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  

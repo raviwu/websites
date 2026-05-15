@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【書摘】The Free Market Reader | Llewellyn H. Rockwell, Jr.
 
-![](../images/SS370.jpg)
+![](/images/SS370.jpg)
   
 摘錄：[The Free Market Reader](http://mises.org/document/3653/The-Free-Market-Reader) | Llewellyn H. Rockwell, Jr.  
   

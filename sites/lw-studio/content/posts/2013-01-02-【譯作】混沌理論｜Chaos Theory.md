@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】混沌理論｜Chaos Theory
 
-![](../images/medium_2778263981.jpg)
+![](/images/medium_2778263981.jpg)
   
 文：吳莉瑋  
 圖：[~jjjohn~](http://www.flickr.com/photos/jjjohn/2778263981/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

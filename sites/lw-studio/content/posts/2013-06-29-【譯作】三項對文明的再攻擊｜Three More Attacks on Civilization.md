@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】三項對文明的再攻擊｜Three More Attacks on Civilization
 
-![](../images/medium_5847780557.jpg)
+![](/images/medium_5847780557.jpg)
 文：吳莉瑋  
 圖：[brizzle born and bred](http://www.flickr.com/photos/brizzlebornandbred/5847780557/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  
   

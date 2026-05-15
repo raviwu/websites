@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # One must look back
 
-![](../images/large__6901053916.jpg)
+![](/images/large__6901053916.jpg)
 為了爭取快樂人生之獨立生活，毅然與吳太連袂搬到以前所就讀的國中附近，正式進入家庭主婦兼居家研究生的生活。
   
   

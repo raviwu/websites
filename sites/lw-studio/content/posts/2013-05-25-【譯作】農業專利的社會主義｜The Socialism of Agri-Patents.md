@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】農業專利的社會主義｜The Socialism of Agri-Patents
 
-![](../images/origin_6203045070.jpg)
+![](/images/origin_6203045070.jpg)
   
 文：吳莉瑋  
 圖：[watchingfrogsboil](http://www.flickr.com/photos/58687716@N05/6203045070/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

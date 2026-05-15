@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】保險業危機的根源｜Roots of The Insurance Crisis
 
-![](../images/large_2959833537.jpg)
+![](/images/large_2959833537.jpg)
   
 文：吳莉瑋  
 圖：[woodleywonderworks](http://www.flickr.com/photos/wwworks/2959833537/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 不確定性（Uncertainty）
 
-![](../images/medium_5262645427.jpg)
+![](/images/medium_5262645427.jpg)
   
 文：吳莉瑋  
 圖：[nicubunu.photo](http://www.flickr.com/photos/nicubunuphotos/5262645427/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-sa/2.0/)  

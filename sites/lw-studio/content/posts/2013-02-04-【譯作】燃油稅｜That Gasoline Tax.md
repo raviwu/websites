@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】燃油稅｜That Gasoline Tax
 
-![](../images/large_6940483092.jpg)
+![](/images/large_6940483092.jpg)
   
 文：吳莉瑋  
 圖：[Johnny Grim](http://www.flickr.com/photos/grimages/6940483092/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

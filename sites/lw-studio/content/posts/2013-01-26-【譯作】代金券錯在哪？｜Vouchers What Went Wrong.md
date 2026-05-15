@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】代金券錯在哪？｜Vouchers: What Went Wrong
 
-![](../images/medium_4236084063.jpg)
+![](/images/medium_4236084063.jpg)
   
 文：吳莉瑋  
 圖：[Jaypeg](http://www.flickr.com/photos/jaypeg/4236084063/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

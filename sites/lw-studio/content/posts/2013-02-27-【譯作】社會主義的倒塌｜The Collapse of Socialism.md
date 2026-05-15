@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】社會主義的倒塌｜The Collapse of Socialism
 
-![](../images/large_1467357780.jpg)
+![](/images/large_1467357780.jpg)
   
 文：吳莉瑋  
 圖：[Sean Wallis](http://www.flickr.com/photos/sean_wallis/1467357780/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

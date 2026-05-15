@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】社會主義者的股市？｜A Socialist Stock Market?
 
-![](../images/origin_2822678678.jpg)
+![](/images/origin_2822678678.jpg)
   
 文：吳莉瑋  
 圖：[Foxtongue](http://www.flickr.com/photos/foxtongue/2822678678/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

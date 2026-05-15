@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】國旗修憲案爭議｜The Flag Flap
 
-![](../images/medium_1215059399.jpg)
+![](/images/medium_1215059399.jpg)
   
 文：吳莉瑋  
 圖：[Luke Redmond](http://www.flickr.com/photos/lukeredmond/1215059399/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

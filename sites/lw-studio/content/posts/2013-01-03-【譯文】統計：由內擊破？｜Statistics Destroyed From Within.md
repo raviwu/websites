@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯文】統計：由內擊破？｜Statistics: Destroyed From Within?
 
-![](../images/medium_2925531696.jpg)
+![](/images/medium_2925531696.jpg)
   
 文：吳莉瑋  
 圖：[mackproject](http://www.flickr.com/photos/mackproject/2925531696/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

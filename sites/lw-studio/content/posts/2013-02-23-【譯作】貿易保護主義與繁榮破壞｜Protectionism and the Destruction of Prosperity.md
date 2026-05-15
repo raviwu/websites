@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】貿易保護主義與繁榮破壞｜Protectionism and the Destruction of Prosperity
 
-![](../images/large_5726184922.jpg)
+![](/images/large_5726184922.jpg)
   
 文：吳莉瑋  
 圖：[Pranav Bhatt](http://www.flickr.com/photos/pranavbhatt/5726184922/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

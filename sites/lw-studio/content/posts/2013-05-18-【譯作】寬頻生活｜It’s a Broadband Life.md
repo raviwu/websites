@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】寬頻生活｜It’s a Broadband Life
 
-![](../images/origin_214891662.jpg)
+![](/images/origin_214891662.jpg)
   
 文：吳莉瑋  
 圖：[angelocesare](http://www.flickr.com/photos/angelocesare/214891662/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  

@@ -10,7 +10,7 @@ blog: "PurMuurFuuur"
 
 # independence
 
-![](../images/small__5256244209.jpg)  
+![](/images/small__5256244209.jpg)  
 You shall not rely yourself on anyone else.  
   
 Things changes, so do the people.  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】取締工作：又一個最低薪資｜Outlawing Jobs: The Minimum Wage, Once More
 
-![](../images/large_3401171091.jpg)
+![](/images/large_3401171091.jpg)
   
 文：吳莉瑋  
 圖：[Old Sarge](http://www.flickr.com/photos/old_sarge/3401171091/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

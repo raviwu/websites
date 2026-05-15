@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】思想，自由與不自由｜Ideas, Free and Unfree（謬誤橫行）
 
-![](../images/large_5723621420.jpg)
+![](/images/large_5723621420.jpg)
   
 文：吳莉瑋  
 圖：[Kalexanderson](http://www.flickr.com/photos/kalexanderson/5723621420/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

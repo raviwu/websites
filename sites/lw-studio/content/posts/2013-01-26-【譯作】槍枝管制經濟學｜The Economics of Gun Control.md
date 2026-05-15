@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】槍枝管制經濟學｜The Economics of Gun Control
 
-![](../images/origin_2489796730.jpg)
+![](/images/origin_2489796730.jpg)
   
 文：吳莉瑋  
 圖：[alphadesigner](http://www.flickr.com/photos/alphadesigner/2489796730/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

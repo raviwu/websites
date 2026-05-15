@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】關於股災的九大迷思｜Nine Myths About The Crash
 
-![](../images/origin_2208089890.jpg)
+![](/images/origin_2208089890.jpg)
   
 文：吳莉瑋  
 圖：[Usonian](http://www.flickr.com/photos/usonian/2208089890/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

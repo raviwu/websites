@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】打平稅率還是打平納稅人？｜Flat Tax Or Flat Taxpayer?
 
-![](../images/large_1414298385.jpg)
+![](/images/large_1414298385.jpg)
   
 文：吳莉瑋  
 圖：[xJason.Rogersx](http://www.flickr.com/photos/restlessglobetrotter/1414298385/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

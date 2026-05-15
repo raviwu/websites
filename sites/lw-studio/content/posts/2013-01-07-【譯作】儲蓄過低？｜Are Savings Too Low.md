@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】儲蓄過低？｜Are Savings Too Low?
 
-![](../images/large_2638883650.jpg)
+![](/images/large_2638883650.jpg)
   
 文：吳莉瑋  
 圖：[Alan Cleaver](http://www.flickr.com/photos/alancleaver/2638883650/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -14,6 +14,9 @@ sync_site() {
   rsync -av --delete \
     "$VAULT_BASE/$site/images/" \
     "$REPO_BASE/sites/$site/static/images/"
+  # Obsidian uses ../images/ (relative to the .md file), Hugo needs /images/ (absolute)
+  find "$REPO_BASE/sites/$site/content/posts/" -name "*.md" \
+    -exec sed -i '' 's|\](\.\.\/images/|](/images/|g' {} +
   echo "Done: $site"
 }
 

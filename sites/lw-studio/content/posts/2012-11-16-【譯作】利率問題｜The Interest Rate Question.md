@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】利率問題｜The Interest Rate Question
 
-![](../images/medium_2276783536.jpg)
+![](/images/medium_2276783536.jpg)
   
 文：吳莉瑋  
 圖：[Cayusa](http://www.flickr.com/photos/cayusa/2276783536/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

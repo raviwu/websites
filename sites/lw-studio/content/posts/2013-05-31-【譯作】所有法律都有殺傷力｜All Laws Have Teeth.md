@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】所有法律都有殺傷力｜All Laws Have Teeth
 
-![](../images/large_4640807911.jpg)
+![](/images/large_4640807911.jpg)
   
 文：吳莉瑋  
 圖：[Jaypeg](http://www.flickr.com/photos/jaypeg/4640807911/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

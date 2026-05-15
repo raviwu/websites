@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】管用的競爭：全錄25年｜Competition at Work: Xerox at 25
 
-![](../images/medium_578471662.jpg)
+![](/images/medium_578471662.jpg)
   
 文：吳莉瑋  
 圖：[sm. caruso](http://www.flickr.com/photos/scenesfromamemory/578471662/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

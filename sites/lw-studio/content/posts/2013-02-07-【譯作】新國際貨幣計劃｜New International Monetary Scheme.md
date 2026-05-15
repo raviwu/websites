@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】新國際貨幣計劃｜New International Monetary Scheme
 
-![](../images/large_3989217986.jpg)
+![](/images/large_3989217986.jpg)
   
 文：吳莉瑋  
 圖：[Andres Rueda](http://www.flickr.com/photos/andresrueda/3989217986/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】美聯儲主席艾倫．格林斯潘：少數派報告｜Alan Greenspan: A Minority Report on the Fed Chairman
 
-![](../images/medium_94047272.jpg)
+![](/images/medium_94047272.jpg)
   
 文：吳莉瑋  
 圖：[trackrecord](http://www.flickr.com/photos/trackrecord/94047272/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

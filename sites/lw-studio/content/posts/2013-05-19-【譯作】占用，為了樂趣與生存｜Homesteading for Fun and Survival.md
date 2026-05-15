@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】占用，為了樂趣與生存｜Homesteading for Fun and Survival
 
-![](../images/origin_3915056995.jpg)
+![](/images/origin_3915056995.jpg)
   
 文：吳莉瑋  
 圖：[Robert S. Donovan](http://www.flickr.com/photos/booleansplit/3915056995/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

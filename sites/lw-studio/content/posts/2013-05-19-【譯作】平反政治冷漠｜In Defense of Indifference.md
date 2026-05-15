@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】平反政治冷漠｜In Defense of Indifference
 
-![](../images/large_169726407.jpg)
+![](/images/large_169726407.jpg)
   
 文：吳莉瑋  
 圖：[TahoeSunsets](http://www.flickr.com/photos/raparker/169726407/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

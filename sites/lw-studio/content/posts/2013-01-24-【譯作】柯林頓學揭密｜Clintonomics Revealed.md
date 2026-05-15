@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】柯林頓學揭密｜Clintonomics Revealed
 
-![](../images/medium_7061683485.jpg)
+![](/images/medium_7061683485.jpg)
   
 文：吳莉瑋  
 圖：[The PIX-JOCKEY (= pictures retoucher)](http://www.flickr.com/photos/rizzato/7061683485/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

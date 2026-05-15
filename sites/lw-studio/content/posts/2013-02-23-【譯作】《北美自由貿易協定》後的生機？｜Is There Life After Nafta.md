@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】《北美自由貿易協定》後的生機？｜Is There Life After Nafta
 
-![](../images/medium_777675231.jpg)
+![](/images/medium_777675231.jpg)
   
 文：吳莉瑋  
 圖：[Matthew Fang](http://www.flickr.com/photos/matthewfch/777675231/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  

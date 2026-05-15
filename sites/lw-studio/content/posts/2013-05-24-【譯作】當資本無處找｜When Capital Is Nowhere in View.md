@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】當資本無處找｜When Capital Is Nowhere in View
 
-![](../images/origin_4287644717.jpg)
+![](/images/origin_4287644717.jpg)
   
 文：吳莉瑋  
 圖：[francediplomatie](http://www.flickr.com/photos/francediplomatie/4287644717/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

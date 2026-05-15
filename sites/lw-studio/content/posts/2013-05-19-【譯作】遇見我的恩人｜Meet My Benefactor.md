@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】遇見我的恩人｜Meet My Benefactor
 
-![](../images/origin_78280742.jpg)
+![](/images/origin_78280742.jpg)
   
 文：吳莉瑋  
 圖：[gak](http://www.flickr.com/photos/gak/78280742/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-sa/2.0/)  

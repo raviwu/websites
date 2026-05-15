@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】「攻擊」法郎｜"Attacking" The Franc
 
-![](../images/large_2397388906.jpg)
+![](/images/large_2397388906.jpg)
   
 文：吳莉瑋  
 圖：[pfala](http://www.flickr.com/photos/pfala/2397388906/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nd/2.0/)  

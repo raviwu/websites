@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】私有化｜Privatization
 
-![](../images/large_5187642951.jpg)
+![](/images/large_5187642951.jpg)
   
 文：吳莉瑋  
 圖：[Herr Olsen](http://www.flickr.com/photos/herrolsen/5187642951/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

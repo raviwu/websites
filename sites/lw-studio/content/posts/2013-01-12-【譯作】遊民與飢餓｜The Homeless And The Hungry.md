@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】遊民與飢餓｜The Homeless And The Hungry
 
-![](../images/large_5930923306.jpg)
+![](/images/large_5930923306.jpg)
   
 文：吳莉瑋  
 圖：[Ian Sane](http://www.flickr.com/photos/31246066@N04/5930923306/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

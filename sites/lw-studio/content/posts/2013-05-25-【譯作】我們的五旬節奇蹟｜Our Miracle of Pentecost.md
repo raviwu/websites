@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】我們的五旬節奇蹟｜Our Miracle of Pentecost
 
-![](../images/origin_76807423.jpg)
+![](/images/origin_76807423.jpg)
   
 文：吳莉瑋  
 圖：[algo](http://www.flickr.com/photos/algo/76807423/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc/2.0/)  

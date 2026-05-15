@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】鐵娘子的退出｜Exit The Iron Lady
 
-![](../images/large_6901350109.jpg)
+![](/images/large_6901350109.jpg)
   
 文：吳莉瑋  
 圖：[Richard.Fisher](http://www.flickr.com/photos/richardfisher/6901350109/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by/2.0/)  

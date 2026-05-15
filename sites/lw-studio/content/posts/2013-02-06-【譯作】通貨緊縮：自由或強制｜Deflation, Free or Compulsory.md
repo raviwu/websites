@@ -10,7 +10,7 @@ blog: "LW Studio"
 
 # 【譯作】通貨緊縮：自由或強制｜Deflation, Free or Compulsory
 
-![](../images/large_2394977585.jpg)
+![](/images/large_2394977585.jpg)
   
 文：吳莉瑋  
 圖：[DryRot](http://www.flickr.com/photos/dryrot/2394977585/) via [photopin](http://photopin.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/)  
