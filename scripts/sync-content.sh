@@ -17,6 +17,15 @@ sync_site() {
   # Obsidian uses ../images/ (relative to the .md file), Hugo needs /images/ (absolute)
   find "$REPO_BASE/sites/$site/content/posts/" -name "*.md" \
     -exec sed -i '' 's|\](\.\.\/images/|](/images/|g' {} +
+
+  # Guard: fail if any image looks like an LFS pointer (real images are always >1KB)
+  bad=$(find "$REPO_BASE/sites/$site/static/images/" -type f -size -500c 2>/dev/null)
+  if [ -n "$bad" ]; then
+    echo "WARNING: possible LFS pointer files found in $site/static/images/:" >&2
+    echo "$bad" >&2
+    echo "Run 'git lfs pull' or restore from git history before committing." >&2
+  fi
+
   echo "Done: $site"
 }
 
