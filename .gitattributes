@@ -1,0 +1,11 @@
+# Disable LFS for all image types — store as regular git blobs
+*.jpeg -filter -diff -merge
+*.jpg  -filter -diff -merge
+*.JPG  -filter -diff -merge
+*.png  -filter -diff -merge
+*.PNG  -filter -diff -merge
+*.gif  -filter -diff -merge
+*.GIF  -filter -diff -merge
+*.webp -filter -diff -merge
+*.HEIC -filter -diff -merge
+*.svg  -filter -diff -merge
