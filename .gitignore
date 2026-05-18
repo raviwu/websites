@@ -12,3 +12,9 @@ _vendor/
 # Editor swap files
 *.swp
 *~
+
+# Claude Code local config
+.claude/settings.local.json
+
+# Playwright MCP debug artifacts
+.playwright-mcp/
