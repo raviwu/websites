@@ -1,13 +1,15 @@
 baseURL = "https://lwstudio.org/"
-languageCode = "zh-tw"
-defaultContentLanguage = "zh-tw"
+locale = "zh-hant-tw"
+defaultContentLanguage = "zh-hant-tw"
 title = "LW Studio"
 hasCJKLanguage = true
-paginate = 20
+
+[pagination]
+  pagerSize = 20
 
 [module]
   [[module.imports]]
-    path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+    path = "github.com/CaiJimmy/hugo-theme-stack/v4"
 
 [params]
   mainSections = ["posts"]
@@ -17,9 +19,6 @@ paginate = 20
   [params.sidebar]
     emoji = ""
     subtitle = "經濟學 · 哲學 · 翻譯"
-
-    [params.sidebar.avatar]
-      enabled = false
 
   [params.article]
     math = false
