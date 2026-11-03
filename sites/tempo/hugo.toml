@@ -2,7 +2,9 @@ baseURL = "https://tempo.lwstudio.org/"
 locale = "zh-tw"
 defaultContentLanguage = "zh-tw"
 title = "天頗的故事"
-paginate = 100
+
+[pagination]
+  pagerSize = 100
 
 [module]
   [[module.imports]]
