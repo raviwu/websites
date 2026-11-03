@@ -1,0 +1,3 @@
+# Override Stack v4: its zh-hant-tw "list.page" reads "第 N 頁" (page N) where it means a post count
+[list]
+    page = "{{ .Count }} 篇文章"

@@ -33,6 +33,11 @@ hasCJKLanguage = true
   [[params.widgets.homepage]]
     type = "archives"
 
+  # v4 default :date_full adds the weekday, which wraps in narrow cards
+  [params.dateFormat]
+    published = ":date_long"
+    lastUpdated = ":date_long"
+
   [params.colorScheme]
     toggle = true
     default = "light"

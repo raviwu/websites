@@ -15,6 +15,11 @@
     article {
         flex-direction: column;
 
+        /* v4's wider sidebar gutter narrows the cards; keep icon + date on one line */
+        .article-details {
+            padding: 20px;
+        }
+
         .article-image img {
             height: 160px;
         }
